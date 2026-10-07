@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 # Create sfz directory list for package removal
-find sfz/*/* -type d --maxdepth 1 > dir_list.txt
+find sfz/*/* -maxdepth 1 -type d > sfz/factory_dir_list.txt

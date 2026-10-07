@@ -1,0 +1,354 @@
+sfz/Bass/AcousBass
+sfz/Bass/AnalogBass
+sfz/Bass/BrightBass
+sfz/Bass/DeepBass
+sfz/Bass/FatSynthBass
+sfz/Bass/FenderBass2
+sfz/Bass/FenderPick2
+sfz/Bass/FenderPick2/Sustain
+sfz/Bass/FenderPick2/Noise
+sfz/Bass/FenderPick2/Release
+sfz/Bass/Fretless2
+sfz/Bass/GretchBass
+sfz/Bass/Ibanez
+sfz/Bass/Ibanez/finger
+sfz/Bass/Ibanez/pick
+sfz/Bass/JazzBass
+sfz/Bass/MellowBass
+sfz/Bass/MellowBass/Sustain
+sfz/Bass/MoogBass
+sfz/Bass/Rickenbacker
+sfz/Bass/Rickenbacker/Noise
+sfz/Bass/Rickenbacker/Slap
+sfz/Bass/Rickenbacker/Pick
+sfz/Bass/Rickenbacker/Release
+sfz/Bass/Rickenbacker/Mute
+sfz/Bass/SoloBass
+sfz/Bass/SoloBass/Sustain
+sfz/Bass/SoloBass/Pizzicato
+sfz/Bass/SoloBass/Release
+sfz/Bass/SynthBass
+sfz/Bass/pastabass
+sfz/Bass/pastabass/A
+sfz/Brass/AltoSax
+sfz/Brass/AltoSax/Sustain
+sfz/Brass/AltoSax/Vibrato
+sfz/Brass/AltoSax/Release
+sfz/Brass/FrenchHorn
+sfz/Brass/FrenchHorn/HornSect
+sfz/Brass/FrenchHorn/SoloHorn
+sfz/Brass/SaxSect
+sfz/Brass/SoloTrombone
+sfz/Brass/SoloTrombone/Sustain
+sfz/Brass/SoloTrombone/Release
+sfz/Brass/SoloTrumpet
+sfz/Brass/SoloTrumpet/Sustain
+sfz/Brass/SoloTrumpet/Vibrato
+sfz/Brass/SoloTrumpet/Release
+sfz/Brass/SoloTuba
+sfz/Brass/SoloTuba/Sustain
+sfz/Brass/SoloTuba/Release
+sfz/Brass/SynthBrass
+sfz/Brass/TenorSax
+sfz/Brass/TenorSax/Growl
+sfz/Brass/TenorSax/Vibrato
+sfz/Brass/TenorSax/Release
+sfz/Brass/TromboneSect
+sfz/Brass/TromboneSect/Sustain
+sfz/Brass/TrumpetMute
+sfz/Brass/TrumpetSect
+sfz/Brass/Tubas
+sfz/Drum Machines/Samples
+sfz/Drum Machines/Samples/Roland TR727
+sfz/Drum Machines/Samples/LINN9000 2
+sfz/Drum Machines/Samples/Drumula 1
+sfz/Drum Machines/Samples/Fricke MSB512
+sfz/Drum Machines/Samples/Tama Tech Star 3
+sfz/Drum Machines/Samples/MXR 185
+sfz/Drum Machines/Samples/Korg DDM110
+sfz/Drum Machines/Samples/Sween
+sfz/Drum Machines/Samples/Boss DR220
+sfz/Drum Machines/Samples/Kawai R50
+sfz/Drum Machines/Samples/Tyson 3
+sfz/Drum Machines/Samples/Tama Tech Star 2
+sfz/Drum Machines/Samples/Retrobox
+sfz/Drum Machines/Samples/Boss DR55
+sfz/Drum Machines/Samples/DrumTraks
+sfz/Drum Machines/Samples/Yamaha RX11
+sfz/Drum Machines/Samples/Roland TR606
+sfz/Drum Machines/Samples/Akai XR10
+sfz/Drum Machines/Samples/Tyson 1
+sfz/Drum Machines/Samples/Roland CR78
+sfz/Drum Machines/Samples/DrumFire
+sfz/Drum Machines/Samples/Roland TR808
+sfz/Drum Machines/Samples/Tama Tech Star 1
+sfz/Drum Machines/Samples/Drumula 2
+sfz/Drum Machines/Samples/Korg DDD1
+sfz/Drum Machines/Samples/Alesis HR16
+sfz/Drum Machines/Samples/Mattel Synsonic
+sfz/Drum Machines/Samples/Akai XE8
+sfz/Drum Machines/Samples/Tyson 2
+sfz/Drum Machines/Samples/SCI Tom
+sfz/Drum Machines/Samples/SP1200 2
+sfz/Drum Machines/Samples/E Ave
+sfz/Drum Machines/Samples/SP1200 1
+sfz/Drum Machines/Samples/SP 12
+sfz/Drum Machines/Samples/LINN9000 1
+sfz/Drum Machines/Samples/Lab
+sfz/Drum Machines/Samples/Electro Puff
+sfz/Drum Machines/Samples/Acetone Rhythm Ace
+sfz/Drum Machines/Samples/Simmons
+sfz/Drum Machines/Samples/Roland TR909
+sfz/Drums/BrushKit
+sfz/Drums/gmkit
+sfz/Ethnic/Samples
+sfz/Ethnic/Samples/Waterphone
+sfz/Ethnic/Samples/Sarod
+sfz/Ethnic/Samples/Turkish Oud
+sfz/Ethnic/Samples/Shenai
+sfz/Ethnic/Samples/Veena
+sfz/Ethnic/Samples/Pipa
+sfz/Ethnic/Samples/Percussion 1
+sfz/Ethnic/Samples/Kanun
+sfz/Ethnic/Samples/Tamburas
+sfz/Ethnic/Samples/Koto
+sfz/Ethnic/Samples/Pan Flute
+sfz/Ethnic/Samples/Mizmars
+sfz/Ethnic/Samples/East Indian
+sfz/Ethnic/Samples/Erhu
+sfz/Ethnic/Samples/Tabla
+sfz/Ethnic/Samples/Shofars
+sfz/Ethnic/Samples/Guzhen
+sfz/Ethnic/Samples/Shakuhachi
+sfz/Ethnic/Samples/Dulcimer
+sfz/Ethnic/Samples/Cumbus
+sfz/Ethnic/Samples/Percussion 2
+sfz/Ethnic/Samples/Pipa tremolo
+sfz/Ethnic/Samples/Celtic Harp
+sfz/Ethnic/Samples/Chinese Percussion
+sfz/Ethnic/Samples/Tampura
+sfz/Ethnic/Samples/Dobro
+sfz/Ethnic/Samples/Luan
+sfz/Ethnic/Samples/Temple Gong
+sfz/Ethnic/Samples/Shamisen
+sfz/Ethnic/Samples/Tar
+sfz/Ethnic/Samples/Air Gamelan
+sfz/Ethnic/Samples/Ney Flute
+sfz/Ethnic/Samples/Accordian
+sfz/Ethnic/Samples/Bata Drums
+sfz/Ethnic/Samples/Sitar
+sfz/Ethnic/Samples/Ban-Di
+sfz/Guitars/Banjo2
+sfz/Guitars/Mandolin2
+sfz/Guitars/Mandolin2/A
+sfz/Guitars/Nylon2
+sfz/Guitars/SteelGtr
+sfz/Guitars/StereoLesPaul
+sfz/Guitars/StereoLesPaul/noise
+sfz/Guitars/Strat2
+sfz/Guitars/Strat2/Sustain
+sfz/Guitars/Strat2/Mute
+sfz/Guitars/YamahaGtr
+sfz/Organs/Accordion
+sfz/Organs/Accordion/A
+sfz/Organs/B3
+sfz/Organs/Calliope
+sfz/Organs/Calliope/A
+sfz/Organs/Farfisa
+sfz/Organs/Harmonica
+sfz/Organs/Melodica
+sfz/Percussion/AVL_Drumkits_Percussion-1.0
+sfz/Percussion/AfricanDrum
+sfz/Percussion/AfricanDrum/A
+sfz/Percussion/Blocks
+sfz/Percussion/Cowbell
+sfz/Percussion/Shaker
+sfz/Percussion/SleighBell
+sfz/Percussion/SteelDrums
+sfz/Percussion/Tabla
+sfz/Percussion/Tabla/Samples
+sfz/Pianos/Clavinet
+sfz/Pianos/Wurt
+sfz/Pianos/dx7_piano
+sfz/Pianos/harpsichord
+sfz/Strings/Basses
+sfz/Strings/Basses/Sustain
+sfz/Strings/Basses/Pizzicato
+sfz/Strings/CelloSect
+sfz/Strings/CelloSect/Sustain
+sfz/Strings/CelloSect/Pizzicato
+sfz/Strings/CelloSect/Tremulo
+sfz/Strings/Harp
+sfz/Strings/JgViolins
+sfz/Strings/Mellowtron
+sfz/Strings/Mellowtron/A
+sfz/Strings/SCC Expressive Strings
+sfz/Strings/SCC Expressive Strings/samples
+sfz/Strings/SoloCello
+sfz/Strings/SoloCello/Vibrato
+sfz/Strings/SoloCello/Pizzicato
+sfz/Strings/SoloCello/Release
+sfz/Strings/SoloViola
+sfz/Strings/SoloViola/Sustain
+sfz/Strings/SoloViola/Vibrato
+sfz/Strings/SoloViola/Pizzicato
+sfz/Strings/SoloViola/Release
+sfz/Strings/SoloViolin
+sfz/Strings/SoloViolin/PizzicatoVib
+sfz/Strings/SoloViolin/Sustain
+sfz/Strings/SoloViolin/Vibrato
+sfz/Strings/SoloViolin/Pizzicato
+sfz/Strings/SoloViolin/Release
+sfz/Strings/SoloViolin/Spiccato
+sfz/Strings/SoloViolin/Tremulo
+sfz/Strings/SoloViolin2
+sfz/Strings/SoloViolin2/Sustain
+sfz/Strings/SoloViolin2/Vibrato
+sfz/Strings/SoloViolin2/Release
+sfz/Strings/SoloViolin2/Tremulo
+sfz/Strings/SynthStrings
+sfz/Strings/WarmPad
+sfz/Strings/WarmPad2
+sfz/Synths/Ambients & Drones
+sfz/Synths/Ambients & Drones/Samples
+sfz/Synths/Samples
+sfz/Synths/Samples/Vibe Softs
+sfz/Synths/Samples/Marimbell
+sfz/Synths/Samples/Analog
+sfz/Synths/Samples/Fat Synth
+sfz/Synths/Samples/Vocal Padds
+sfz/Synths/Samples/Solina
+sfz/Synths/Samples/Synth Brass1
+sfz/Synths/Samples/Tinr Punch
+sfz/Synths/Samples/Poly S Keys
+sfz/Synths/Samples/Ultimate Synth
+sfz/Synths/Samples/Unis Stab
+sfz/Synths/Samples/Swell Synth1
+sfz/Synths/Samples/Indian Fats
+sfz/Synths/Samples/Saw Rez
+sfz/Synths/Samples/Axis Sweeps Long
+sfz/Synths/Samples/Syn Stacks
+sfz/Synths/Samples/Air Softs
+sfz/Synths/Samples/Bright
+sfz/Synths/Samples/Espcial
+sfz/Synths/Samples/Bells Heaven
+sfz/Synths/Samples/Pipez
+sfz/Synths/Samples/DigiString
+sfz/Synths/Samples/MSys
+sfz/Synths/Samples/Breathy Chiffs
+sfz/Synths/Samples/DigiBell
+sfz/Synths/Samples/Piano Strings
+sfz/Synths/Samples/PlukBell
+sfz/Synths/Samples/Pwn5ths
+sfz/Synths/Samples/Jump Bass
+sfz/Synths/Samples/Synth Pad 1
+sfz/Synths/Samples/Moog Buzz
+sfz/Synths/Samples/Wonders
+sfz/Synths/Samples/Itoh Waves
+sfz/Synths/Samples/Moog
+sfz/Synths/Samples/Dyno
+sfz/Synths/Samples/Ethereal
+sfz/Synths/Samples/BowString
+sfz/Synths/Samples/Digiverb
+sfz/Synths/Samples/Square Rez Bass
+sfz/Synths/Samples/SynOrch
+sfz/Synths/Samples/Arp V
+sfz/Synths/Samples/FilterSweep
+sfz/Synths/Samples/Fat Synth1
+sfz/Synths/Samples/Ensemble Strings
+sfz/Synths/Samples/OrchBrass
+sfz/Synths/Samples/Bowinds
+sfz/Synths/Samples/Saw Lead
+sfz/Synths/Samples/Slap Synth
+sfz/Synths/Samples/JP Vox Softs
+sfz/Synths/Samples/Pwn
+sfz/Synths/Samples/Synth Vox 2
+sfz/Synths/Samples/Covers
+sfz/Synths/Samples/SynStr
+sfz/Synths/Samples/Heaven Choir
+sfz/Synths/Samples/LaString
+sfz/Synths/Samples/Low
+sfz/Synths/Samples/Moog Punch
+sfz/Synths/Samples/HarpSis
+sfz/Synths/Samples/Pulse Bass
+sfz/Synths/Samples/Synth Vox 1
+sfz/Synths/Samples/MegaBrass
+sfz/Synths/Samples/Hard Rub
+sfz/Synths/Samples/SynthHorn
+sfz/Synths/Samples/SpacePad
+sfz/Synths/Samples/Moog 2
+sfz/Synths/Samples/Big Synth
+sfz/Synths/Samples/Synth Brass
+sfz/Synths/Samples/TrillSynth
+sfz/Synths/Samples/BrethBell
+sfz/Synths/Samples/Big
+sfz/Synths/Samples/Atmosphere
+sfz/Synths/Samples/Celestial
+sfz/Synths/Samples/Acoustic
+sfz/Synths/Samples/L Synth
+sfz/Synths/Samples/MelloString
+sfz/Synths/Samples/Synthy Voces
+sfz/Synths/Samples/TriPad
+sfz/Synths/Samples/Clarinety
+sfz/Synths/Samples/BeatIt
+sfz/Synths/Samples/Pop Syn Vox
+sfz/Synths/Samples/Swell Synth
+sfz/Synths/Samples/Syn X Bass
+sfz/Synths/Samples/JX Saws
+sfz/Synths/Samples/SynStrings
+sfz/Synths/Samples/Pick
+sfz/Synths/Samples/Delicate
+sfz/Synths/Samples/Brush Pads
+sfz/Synths/Samples/SynBite
+sfz/Synths/Samples/OooZzz
+sfz/Synths/Samples/Rich Stacks
+sfz/Synths/Samples/Dyna Layers
+sfz/Synths/Samples/FatString
+sfz/Synths/Samples/Dyna
+sfz/Synths/Samples/Piano Strings L
+sfz/Synths/Samples/PowerSynth2
+sfz/Synths/Samples/OB 01
+sfz/Synths/Samples/PowerSynth
+sfz/Synths/Samples/Huge Synth
+sfz/Synths/Samples/Res
+sfz/Synths/Samples/Pad Synth 1
+sfz/Synths/Samples/Rip Synth
+sfz/Synths/Samples/Axis Sweeps
+sfz/Synths/Samples/RiseString
+sfz/Synths/Samples/Rich
+sfz/Synths/Samples/EpicSynth
+sfz/Synths/Samples/Eli Pads
+sfz/Synths/Samples/PhaserOrgan
+sfz/Synths/Samples/Smoooth
+sfz/Synths/Samples/Slow Heavens
+sfz/Synths/Samples/Detune
+sfz/Synths/Samples/Hydromatics
+sfz/Synths/Samples/System
+sfz/Synths/Samples/Night Pads
+sfz/Synths/Samples/Mute Plug
+sfz/Synths/Samples/Power
+sfz/Synths/Samples/Bang
+sfz/Synths/Samples/Organ
+sfz/Synths/Samples/303 Punch
+sfz/Synths/Samples/Dyno Stack
+sfz/Synths/Samples/Pan Choir
+sfz/Synths/Samples/BrethVox
+sfz/Synths/Samples/Elec Bass
+sfz/Synths/Seq & Pluck
+sfz/Synths/Seq & Pluck/Samples
+sfz/Synths/Synths
+sfz/Synths/Synths/Samples
+sfz/Vocals/Choir
+sfz/Woodwinds/BassoonSect
+sfz/Woodwinds/ClarinetSect
+sfz/Woodwinds/FluteSect
+sfz/Woodwinds/Oboe
+sfz/Woodwinds/Oboe/OboeSect
+sfz/Woodwinds/Oboe/SoloOboe
+sfz/Woodwinds/Recorder
+sfz/Woodwinds/SoloBassoon
+sfz/Woodwinds/SoloClarinet
+sfz/Woodwinds/SoloFlute
+sfz/Woodwinds/SoloFlute/Sustain
+sfz/Woodwinds/SoloFlute/Vibrato
+sfz/Woodwinds/SoloFlute/Release
