@@ -1,0 +1,5 @@
+<group> trigger=first ampeg_decay=12 ampeg_sustain=0.001 ampeg_release=0.4 ampeg_hold=1.8
+#include "S1.sfz"
+
+<group> trigger=legato ampeg_attack=.05 ampeg_decay=12 ampeg_sustain=0.001 ampeg_release=0.4 ampeg_hold=1.8
+#include "S2.sfz"

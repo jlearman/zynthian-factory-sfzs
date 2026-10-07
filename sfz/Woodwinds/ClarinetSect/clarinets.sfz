@@ -1,0 +1,14 @@
+// Clarinet section
+
+<group> ampeg_sustain=100 ampeg_release=0.4
+<region> sample=3_D.flac pitch_keycenter=d3 hikey=d#3
+<region> sample=3_Gb.flac pitch_keycenter=f#3 lokey=e3 hikey=g3
+<region> sample=3_Bb.flac pitch_keycenter=a#3 lokey=g#3 hikey=b3
+<region> sample=4_D.flac pitch_keycenter=d4 lokey=c4 hikey=d#4
+<region> sample=4_Gb.flac pitch_keycenter=f#4 lokey=e4 hikey=g4
+<region> sample=4_Bb.flac pitch_keycenter=a#4 lokey=g#4 hikey=b4
+<region> sample=5_D.flac pitch_keycenter=d5 lokey=c5 hikey=d#5
+<region> sample=5_Gb.flac pitch_keycenter=f#5 lokey=e5 hikey=g5
+<region> sample=5_Bb.flac pitch_keycenter=a#5 lokey=g#5 hikey=b5
+<region> sample=6_D.flac pitch_keycenter=d6 lokey=c6 hikey=d#6
+<region> sample=6_Gb.flac pitch_keycenter=f#6 lokey=e6 hikey=b6

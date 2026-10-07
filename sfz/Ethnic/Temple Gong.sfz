@@ -1,0 +1,181 @@
+<group>
+ampeg_decay=62.755
+ampeg_sustain=0.001
+effect1=7
+pitcheg_release=0.538
+fileg_release=0.538
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Temple Gong\China Gong.flac
+lokey=21
+hikey=51
+pitch_keycenter=89
+pan=-87.4
+volume=-5.005
+ampeg_release=29.327
+pitchlfo_freq=1.152
+
+<region> sample=Samples\Temple Gong\Nepal Cymbl.flac
+lokey=21
+hikey=51
+pitch_keycenter=84
+tune=30
+pan=23.4
+volume=-1.925
+ampeg_release=29.327
+pitchlfo_freq=0.429
+
+<region> sample=Samples\Temple Gong\China Gong.flac
+lokey=52
+hikey=65
+pitch_keycenter=89
+pan=-75
+volume=-5.005
+ampeg_release=29.327
+pitchlfo_freq=1.152
+
+<region> sample=Samples\Temple Gong\Nepal Cymbl.flac
+lokey=52
+hikey=65
+pitch_keycenter=84
+tune=30
+pan=48.4
+volume=-1.925
+ampeg_release=29.327
+pitchlfo_freq=0.429
+
+<region> sample=Samples\Temple Gong\China Gong.flac
+lokey=66
+hikey=73
+pitch_keycenter=89
+pan=-87.4
+volume=-5.005
+ampeg_release=21.895
+pitchlfo_freq=1.152
+
+<region> sample=Samples\Temple Gong\Nepal Cymbl.flac
+lokey=66
+hikey=73
+pitch_keycenter=84
+tune=30
+pan=23.4
+volume=-1.925
+ampeg_release=21.895
+pitchlfo_freq=0.429
+
+<region> sample=Samples\Temple Gong\China Gong.flac
+lokey=74
+hikey=74
+pitch_keycenter=89
+pan=-75
+volume=-5.005
+ampeg_release=21.895
+pitchlfo_freq=1.152
+
+<region> sample=Samples\Temple Gong\Nepal Cymbl.flac
+lokey=74
+hikey=74
+pitch_keycenter=84
+tune=30
+pan=48.4
+volume=-1.925
+ampeg_release=21.895
+pitchlfo_freq=0.429
+
+<region> sample=Samples\Temple Gong\China Gong.flac
+lokey=75
+hikey=89
+pitch_keycenter=89
+pan=-87.4
+volume=-5.005
+ampeg_release=16.346
+pitchlfo_freq=1.152
+
+<region> sample=Samples\Temple Gong\Nepal Cymbl.flac
+lokey=75
+hikey=89
+pitch_keycenter=84
+tune=30
+pan=23.4
+volume=-1.925
+ampeg_release=16.346
+pitchlfo_freq=0.429
+
+<region> sample=Samples\Temple Gong\China Gong.flac
+lokey=90
+hikey=90
+pitch_keycenter=89
+pan=-87.4
+volume=-5.005
+ampeg_release=9.658
+pitchlfo_freq=1.152
+
+<region> sample=Samples\Temple Gong\Nepal Cymbl.flac
+lokey=90
+hikey=90
+pitch_keycenter=84
+tune=30
+pan=23.4
+volume=-1.925
+ampeg_release=9.658
+pitchlfo_freq=0.429
+
+<region> sample=Samples\Temple Gong\China Gong.flac
+lokey=91
+hikey=96
+pitch_keycenter=89
+pan=-75
+volume=-5.005
+ampeg_release=9.658
+pitchlfo_freq=1.152
+
+<region> sample=Samples\Temple Gong\Nepal Cymbl.flac
+lokey=91
+hikey=96
+pitch_keycenter=84
+tune=30
+pan=48.4
+volume=-1.925
+ampeg_release=9.658
+pitchlfo_freq=0.429
+
+<region> sample=Samples\Temple Gong\China Gong.flac
+lokey=97
+hikey=98
+pitch_keycenter=89
+pan=-87.4
+volume=-5.005
+ampeg_release=6.412
+pitchlfo_freq=1.152
+
+<region> sample=Samples\Temple Gong\Nepal Cymbl.flac
+lokey=97
+hikey=98
+pitch_keycenter=84
+tune=30
+pan=23.4
+volume=-1.925
+ampeg_release=6.412
+pitchlfo_freq=0.429
+
+<region> sample=Samples\Temple Gong\China Gong.flac
+lokey=99
+hikey=108
+pitch_keycenter=89
+pan=-75
+volume=-5.005
+ampeg_release=6.412
+pitchlfo_freq=1.152
+
+<region> sample=Samples\Temple Gong\Nepal Cymbl.flac
+lokey=99
+hikey=108
+pitch_keycenter=84
+tune=30
+pan=48.4
+volume=-1.925
+ampeg_release=6.412
+pitchlfo_freq=0.429
+
+

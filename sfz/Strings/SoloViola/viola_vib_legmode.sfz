@@ -1,0 +1,20 @@
+<group> group=1 ampeg_release=.1 trigger=first off_by=1 off_mode=normal lovel=80
+#include "V1.sfz"
+
+<group> ampeg_release=0.1 trigger=legato ampeg_attack=.05 group=1 off_by=1 lovel=80 off_mode=normal
+#include "V2.sfz"
+
+<group> group=1 ampeg_release=.1 trigger=first off_by=1 off_mode=normal lovel=40 hivel=79
+#include "V3.sfz"
+
+<group> ampeg_release=0.1 trigger=legato ampeg_attack=.05 group=1 off_by=1 lovel=40 hivel=79 off_mode=normal
+#include "V4.sfz"
+
+<group> group=1 ampeg_release=.1 trigger=first off_by=1 off_mode=normal hivel=39
+#include "V5.sfz"
+
+<group> ampeg_release=0.1 trigger=legato ampeg_attack=.05 group=1 off_by=1 off_mode=normal hivel=39
+#include "V6.sfz"
+
+<group> group=2 trigger=release loop_mode=one_shot sw_lokey=0 sw_hikey=127 ampeg_attack=0.05
+#include "R1.sfz"

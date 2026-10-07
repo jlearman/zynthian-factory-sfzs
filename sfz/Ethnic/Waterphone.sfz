@@ -1,0 +1,32 @@
+<group>
+volume=-2.695
+effect1=7
+pitcheg_release=0.538
+fileg_release=0.538
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Waterphone\Waterphone1.flac
+lokey=21
+hikey=59
+pitch_keycenter=58
+pan=-12.4
+ampeg_attack=0.249
+ampeg_hold=0.776
+ampeg_decay=12.203
+ampeg_sustain=0.3311
+ampeg_release=12.203
+pitchlfo_freq=4.252
+
+<region> sample=Samples\Waterphone\Waterphone2.flac
+lokey=60
+hikey=103
+pitch_keycenter=82
+transpose=-4
+tune=-9
+pan=14
+ampeg_attack=0.408
+ampeg_release=4.784
+pitchlfo_freq=2.945
+
+

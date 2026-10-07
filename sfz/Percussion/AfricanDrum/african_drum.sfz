@@ -1,0 +1,126 @@
+<control> default_path=A\
+<group>
+key=45
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=8 ampeg_decay=15
+loop_mode=one_shot
+seq_length=4
+<region>
+sample=3_mf1.flac
+hivel=47
+<region>
+sample=3_mf2.flac seq_position=2
+hivel=47
+<region>
+sample=3_mf3.flac seq_position=3
+hivel=47
+<region>
+sample=3_mf4.flac seq_position=4
+hivel=47
+<region>
+sample=3_f1.flac
+lovel=48 hivel=95
+<region>
+sample=3_f2.flac seq_position=2
+lovel=48 hivel=95
+<region>
+sample=3_f3.flac seq_position=3
+lovel=48 hivel=95
+<region>
+sample=3_f4.flac seq_position=4
+lovel=48 hivel=95
+<region>
+sample=3_ff1.flac
+lovel=96
+<region>
+sample=3_ff2.flac seq_position=2
+lovel=96
+<region>
+sample=3_ff3.flac seq_position=3
+lovel=96
+<region>
+sample=3_ff4.flac seq_position=4
+lovel=96
+
+<group>
+key=43
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=8 ampeg_decay=15
+loop_mode=one_shot
+seq_length=4
+<region>
+sample=2_mf1.flac
+hivel=47
+<region>
+sample=2_mf2.flac seq_position=2
+hivel=47
+<region>
+sample=2_mf3.flac seq_position=3
+hivel=47
+<region>
+sample=2_mf4.flac seq_position=4
+hivel=47
+<region>
+sample=2_f1.flac
+lovel=48 hivel=95
+<region>
+sample=2_f2.flac seq_position=2
+lovel=48 hivel=95
+<region>
+sample=2_f3.flac seq_position=3
+lovel=48 hivel=95
+<region>
+sample=2_f4.flac seq_position=4
+lovel=48 hivel=95
+<region>
+sample=2_ff1.flac
+lovel=96
+<region>
+sample=2_ff2.flac seq_position=2
+lovel=96
+<region>
+sample=2_ff3.flac seq_position=3
+lovel=96
+<region>
+sample=2_ff4.flac seq_position=4
+lovel=96
+
+<group>
+key=41
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=8 ampeg_decay=15
+loop_mode=one_shot
+seq_length=4
+<region>
+sample=mf1.flac
+hivel=47
+<region>
+sample=mf2.flac seq_position=2
+hivel=47
+<region>
+sample=mf3.flac seq_position=3
+hivel=47
+<region>
+sample=mf4.flac seq_position=4
+hivel=47
+<region>
+sample=f1.flac
+lovel=48 hivel=95
+<region>
+sample=f2.flac seq_position=2
+lovel=48 hivel=95
+<region>
+sample=f3.flac seq_position=3
+lovel=48 hivel=95
+<region>
+sample=f4.flac seq_position=4
+lovel=48 hivel=95
+<region>
+sample=ff1.flac
+lovel=96
+<region>
+sample=ff2.flac seq_position=2
+lovel=96
+<region>
+sample=ff3.flac seq_position=3
+lovel=96
+<region>
+sample=ff4.flac seq_position=4
+lovel=96

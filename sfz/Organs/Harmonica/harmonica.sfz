@@ -1,0 +1,8 @@
+<group> ampeg_release=.5
+<region> sample=4_E.flac pitch_keycenter=e4 lokey=a3 hikey=g4
+<region> sample=4_B.flac pitch_keycenter=b4 lokey=g#4 hikey=b4
+<region> sample=5_D.flac pitch_keycenter=d5 lokey=c5 hikey=d#5
+<region> sample=5_F.flac pitch_keycenter=f5 lokey=e5 hikey=f#5
+<region> sample=5_A.flac pitch_keycenter=a5 lokey=g5 hikey=a#5
+<region> sample=6_Db.flac pitch_keycenter=c#6 lokey=b5 hikey=d6
+<region> sample=6_F.flac pitch_keycenter=f6 lokey=d#6 hikey=c7

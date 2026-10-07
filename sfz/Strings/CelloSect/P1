@@ -1,0 +1,11 @@
+<control> default_path=Pizzicato\
+<region> sample=2_C_p.flac hikey=c#2 pitch_keycenter=c2
+<region> sample=2_E_p.flac lokey=d2 hikey=f2 pitch_keycenter=e2
+<region> sample=2_G_p.flac lokey=f#2 hikey=g#2 pitch_keycenter=g2
+<region> sample=2_B_p.flac lokey=a2 hikey=c3 pitch_keycenter=b2
+<region> sample=3_D_p.flac lokey=c#3 hikey=d#3 pitch_keycenter=d3
+<region> sample=3_F_p.flac lokey=e3 hikey=f#3 pitch_keycenter=f3
+<region> sample=3_A_p.flac lokey=g3 hikey=a#3 pitch_keycenter=a3
+<region> sample=4_C_p.flac lokey=b3 hikey=c#4 pitch_keycenter=c4
+<region> sample=4_E_p.flac lokey=d4 hikey=f4 pitch_keycenter=e4
+<region> sample=4_G_p.flac lokey=f#4 hikey=c5 pitch_keycenter=g4

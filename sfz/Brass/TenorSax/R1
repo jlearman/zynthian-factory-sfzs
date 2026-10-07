@@ -1,0 +1,11 @@
+<control> default_path=Release\
+<region> sample=2_E_r.flac pitch_keycenter=e2 hikey=f#2
+<region> sample=2_A_r.flac pitch_keycenter=a2 lokey=g2 hikey=a#2
+<region> sample=3_C_r.flac pitch_keycenter=c3 lokey=b2 hikey=c#3
+<region> sample=3_E_r.flac pitch_keycenter=e3 lokey=d3 hikey=f3
+<region> sample=3_Ab_r.flac pitch_keycenter=g#3 lokey=f#3 hikey=a3
+<region> sample=4_C_r.flac pitch_keycenter=c4 lokey=a#3 hikey=c#4
+<region> sample=4_E_r.flac pitch_keycenter=e4 lokey=d4 hikey=f4
+<region> sample=4_Ab_r.flac pitch_keycenter=g#4 lokey=f#4 hikey=a4
+<region> sample=5_C_r.flac pitch_keycenter=c5 lokey=a#4 hikey=c#5
+<region> sample=5_E_r.flac pitch_keycenter=e5 lokey=d5

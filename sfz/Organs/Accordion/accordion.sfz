@@ -1,0 +1,20 @@
+<control> default_path=A\
+<group> group=1 ampeg_release=.2
+<region> sample=3_C.flac pitch_keycenter=c3 hikey=d3
+<region> sample=3_F.flac pitch_keycenter=f3 lokey=d#3 hikey=f#3
+<region> sample=3_A.flac pitch_keycenter=a3 lokey=g3 hikey=a#3
+<region> sample=4_C.flac pitch_keycenter=c4 lokey=b3 hikey=c#4
+<region> sample=4_E.flac pitch_keycenter=e4 lokey=d4 hikey=f4
+<region> sample=4_G.flac pitch_keycenter=g4 lokey=f#4 hikey=a4
+<region> sample=4_B.flac pitch_keycenter=b4 lokey=a#4 hikey=c5
+<region> sample=5_Eb.flac pitch_keycenter=d#5 lokey=c#5
+
+<group> group=2 off_by=1 trigger=release loop_mode=one_shot sw_lokey=0 sw_hikey=127 ampeg_attack=0.2
+<region> sample=3_C_r.flac pitch_keycenter=c3 hikey=d3
+<region> sample=3_F_r.flac pitch_keycenter=f3 lokey=d#3 hikey=f#3
+<region> sample=3_A_r.flac pitch_keycenter=a3 lokey=g3 hikey=a#3
+<region> sample=4_C_r.flac pitch_keycenter=c4 lokey=b3 hikey=c#4
+<region> sample=4_E_r.flac pitch_keycenter=e4 lokey=d4 hikey=f4
+<region> sample=4_G_r.flac pitch_keycenter=g4 lokey=f#4 hikey=a4
+<region> sample=4_B_r.flac pitch_keycenter=b4 lokey=a#4 hikey=c5
+<region> sample=5_Eb_r.flac pitch_keycenter=d#5 lokey=c#5

@@ -1,0 +1,25 @@
+<group>
+volume=-2.695
+ampeg_release=0.878
+effect1=7
+pitcheg_release=0.538
+fileg_release=0.538
+pitchlfo_freq=4.369
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Shakuhachi\CharmerLoop.flac
+lokey=21
+hikey=96
+pitch_keycenter=79
+
+<region> sample=Samples\Shakuhachi\CharmerLoop 2.flac
+lokey=97
+hikey=108
+pitch_keycenter=103
+ampeg_decay=0.461
+ampeg_sustain=33.8844
+pitchlfo_delay=0.3
+pitchlfo_depth=65
+
+

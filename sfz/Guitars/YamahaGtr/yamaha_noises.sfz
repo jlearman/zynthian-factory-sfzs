@@ -1,0 +1,396 @@
+// Clean electric guitar fret/pick noises.
+// MIDI Notes 102 to 127 are pick noises.
+// Notes 68 to 101 are fret noises for the two high guitar strings.
+// Notes 34 to 67 are fret noises for the two middle guitar strings.
+// Notes 0 to 33 are fret noises for the two low guitar strings.
+
+//========================
+<group>
+	ampeg_decay=4
+	ampeg_release=4
+	amp_veltrack=50
+<region>
+	sample=Scrape_01c.flac
+	key=0
+<region>
+	sample=Click_01c.flac
+	key=1
+<region>
+	sample=Scrape_02c.flac
+	key=2
+<region>
+	sample=Click_02c.flac
+	key=3
+<region>
+	sample=Scrape_03c.flac
+	key=4
+<region>
+	sample=Scrape_04c.flac
+	key=5
+<region>
+	sample=Click_03c.flac
+	key=6
+<region>
+	sample=Scrape_05c.flac
+	key=7
+<region>
+	sample=Click_04c.flac
+	key=8
+<region>
+	sample=Click_05c.flac
+	key=9
+<region>
+	sample=Scrape_06c.flac
+	key=10
+<region>
+	sample=Click_06c.flac
+	key=11
+<region>
+	sample=Scrape_07c.flac
+	key=12
+<region>
+	sample=Scrape_08c.flac
+	key=13
+<region>
+	sample=Click_07c.flac
+	key=14
+<region>
+	sample=Scrape_09c.flac
+	key=15
+<region>
+	sample=Click_08c.flac
+	key=16
+<region>
+	sample=Scrape_10c.flac
+	key=17
+<region>
+	sample=Click_10c.flac
+	key=18
+<region>
+	sample=Scrape_11c.flac
+	key=19
+<region>
+	sample=Click_11c.flac
+	key=20
+<region>
+	sample=Scrape_12c.flac
+	key=21
+<region>
+	sample=Scrape_13c.flac
+	key=22
+<region>
+	sample=Click_12c.flac
+	key=23
+<region>
+	sample=Scrape_14c.flac
+	key=24
+<region>
+	sample=Click_13c.flac
+	key=25
+<region>
+	sample=Scrape_15c.flac
+	key=26
+<region>
+	sample=Scrape_16c.flac
+	key=27
+<region>
+	sample=Click_14c.flac
+	key=28
+<region>
+	sample=Scrape_17c.flac
+	key=29
+<region>
+	sample=Scrape_18c.flac
+	key=30
+<region>
+	sample=Scrape_19c.flac
+	key=31
+<region>
+	sample=Click_09c.flac
+	key=32
+<region>
+	sample=Scrape_20c.flac
+	key=33
+<region>
+	sample=Scrape_01b.flac
+	key=34
+<region>
+	sample=Click_01b.flac
+	key=35
+<region>
+	sample=Scrape_02b.flac
+	key=36
+<region>
+	sample=Click_02b.flac
+	key=37
+<region>
+	sample=Scrape_03b.flac
+	key=38
+region>
+	sample=Scrape_04b.flac
+	key=39
+<region>
+	sample=Click_03b.flac
+	key=40
+<region>
+	sample=Scrape_05b.flac
+	key=41
+<region>
+	sample=Click_04b.flac
+	key=42
+<region>
+	sample=Click_05b.flac
+	key=43
+<region>
+	sample=Scrape_06b.flac
+	key=44
+<region>
+	sample=Click_06b.flac
+	key=45
+<region>
+	sample=Scrape_07b.flac
+	key=46
+<region>
+	sample=Scrape_08b.flac
+	key=47
+<region>
+	sample=Click_07b.flac
+	key=48
+<region>
+	sample=Scrape_09b.flac
+	key=49
+<region>
+	sample=Click_08b.flac
+	key=50
+<region>
+	sample=Scrape_10b.flac
+	key=51
+<region>
+	sample=Click_10b.flac
+	key=52
+<region>
+	sample=Scrape_11b.flac
+	key=53
+<region>
+	sample=Click_11b.flac
+	key=54
+<region>
+	sample=Scrape_12b.flac
+	key=55
+<region>
+	sample=Scrape_13b.flac
+	key=56
+<region>
+	sample=Click_12b.flac
+	key=57
+<region>
+	sample=Scrape_14b.flac
+	key=58
+<region>
+	sample=Click_13b.flac
+	key=59
+<region>
+	sample=Scrape_15b.flac
+	key=60
+<region>
+	sample=Scrape_16b.flac
+	key=61
+<region>
+	sample=Click_14b.flac
+	key=62
+<region>
+	sample=Scrape_17b.flac
+	key=63
+<region>
+	sample=Scrape_18b.flac
+	key=64
+<region>
+	sample=Scrape_19b.flac
+	key=65
+<region>
+	sample=Click_09b.flac
+	key=66
+<region>
+	sample=Scrape_20b.flac
+	key=67
+<region>
+	sample=Scrape_01a.flac
+	key=68
+<region>
+	sample=Click_01a.flac
+	key=69
+<region>
+	sample=Scrape_02a.flac
+	key=70
+<region>
+	sample=Click_02a.flac
+	key=71
+<region>
+	sample=Scrape_03a.flac
+	key=72
+<region>
+	sample=Scrape_04a.flac
+	key=73
+<region>
+	sample=Click_03a.flac
+	key=74
+<region>
+	sample=Scrape_05a.flac
+	key=75
+<region>
+	sample=Click_04a.flac
+	key=76
+<region>
+	sample=Click_05a.flac
+	key=77
+<region>
+	sample=Scrape_06a.flac
+	key=78
+<region>
+	sample=Click_06a.flac
+	key=79
+<region>
+	sample=Scrape_07a.flac
+	key=80
+<region>
+	sample=Scrape_08a.flac
+	key=81
+<region>
+	sample=Click_07a.flac
+	key=82
+<region>
+	sample=Scrape_09a.flac
+	key=83
+<region>
+	sample=Click_08a.flac
+	key=84
+<region>
+	sample=Scrape_10a.flac
+	key=85
+<region>
+	sample=Click_10a.flac
+	key=86
+<region>
+	sample=Scrape_11a.flac
+	key=87
+<region>
+	sample=Click_11a.flac
+	key=88
+<region>
+	sample=Scrape_12a.flac
+	key=89
+<region>
+	sample=Scrape_13a.flac
+	key=90
+<region>
+	sample=Click_12a.flac
+	key=91
+<region>
+	sample=Scrape_14a.flac
+	key=92
+<region>
+	sample=Click_13a.flac
+	key=93
+<region>
+	sample=Scrape_15a.flac
+	key=94
+<region>
+	sample=Scrape_16a.flac
+	key=95
+<region>
+	sample=Click_14a.flac
+	key=96
+<region>
+	sample=Scrape_17a.flac
+	key=97
+<region>
+	sample=Scrape_18a.flac
+	key=98
+<region>
+	sample=Scrape_19a.flac
+	key=99
+<region>
+	sample=Click_09a.flac
+	key=100
+<region>
+	sample=Scrape_20a.flac
+	key=101
+
+<region>
+	sample=Pick_01.flac
+	key=102
+<region>
+	sample=Pick_02.flac
+	key=103
+<region>
+	sample=Pick_03.flac
+	key=104
+<region>
+	sample=Pick_04.flac
+	key=105
+<region>
+	sample=Pick_05.flac
+	key=106
+<region>
+	sample=Pick_06.flac
+	key=107
+<region>
+	sample=Pick_07.flac
+	key=108
+<region>
+	sample=Pick_08.flac
+	key=109
+<region>
+	sample=Pick_09.flac
+	key=110
+<region>
+	sample=Pick_10.flac
+	key=111
+<region>
+	sample=Pick_11.flac
+	key=112
+<region>
+	sample=Pick_12.flac
+	key=113
+<region>
+	sample=Pick_13.flac
+	key=114
+<region>
+	sample=Pick_14.flac
+	key=115
+<region>
+	sample=Pick_15.flac
+	key=116
+<region>
+	sample=Pick_16.flac
+	key=117
+<region>
+	sample=Pick_17.flac
+	key=118
+<region>
+	sample=Pick_18.flac
+	key=119
+<region>
+	sample=Pick_19.flac
+	key=120
+<region>
+	sample=Pick_20.flac
+	key=121
+<region>
+	sample=Pick_21.flac
+	key=122
+<region>
+	sample=Pick_22.flac
+	key=123
+<region>
+	sample=Pick_23.flac
+	key=124
+<region>
+	sample=Pick_24.flac
+	key=125
+<region>
+	sample=Pick_25.flac
+	key=126
+<region>
+	sample=Pick_26.flac
+	key=127

@@ -1,0 +1,25 @@
+<group> group=1 offby=1 off_by=1 off_mode=fast
+ampeg_release=30
+loop_mode=one_shot
+key=c4
+seq_length=5
+<region> sample=ff_1.flac trigger=first lovel=100
+<region> sample=ff_2.flac seq_position=2 trigger=first lovel=100
+<region> sample=ff_3.flac seq_position=3 trigger=first lovel=100
+<region> sample=ff_4.flac seq_position=4 trigger=first lovel=100
+<region> sample=ff_5.flac seq_position=5 trigger=first lovel=100
+<region> sample=ff_1.flac trigger=legato offset=1352 lovel=100
+<region> sample=ff_2.flac seq_position=2 trigger=legato offset=1352 lovel=100
+<region> sample=ff_3.flac seq_position=3 trigger=legato offset=1352 lovel=100
+<region> sample=ff_4.flac seq_position=4 trigger=legato offset=1352 lovel=100
+<region> sample=ff_5.flac seq_position=5 trigger=legato offset=1352 lovel=100
+<region> sample=f_1.flac trigger=first hivel=99
+<region> sample=f_2.flac seq_position=2 trigger=first hivel=99
+<region> sample=f_3.flac seq_position=3 trigger=first hivel=99
+<region> sample=f_4.flac seq_position=4 trigger=first hivel=99
+<region> sample=f_5.flac seq_position=5 trigger=first hivel=99
+<region> sample=f_1.flac trigger=legato offset=1352 hivel=99
+<region> sample=f_2.flac seq_position=2 trigger=legato offset=1352 hivel=99
+<region> sample=f_3.flac seq_position=3 trigger=legato offset=1352 hivel=99
+<region> sample=f_4.flac seq_position=4 trigger=legato offset=1352 hivel=99
+<region> sample=f_5.flac seq_position=5 trigger=legato offset=1352 hivel=99

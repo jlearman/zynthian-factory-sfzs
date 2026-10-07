@@ -1,0 +1,25 @@
+<region> sample=Samples\DrumFire\Drumfire Hat 1.flac
+key=42
+
+<region> sample=Samples\DrumFire\Drumfire Hat 2.flac
+key=44
+
+<region> sample=Samples\DrumFire\Drumfire Hat 3.flac
+key=46
+
+<region> sample=Samples\DrumFire\Drumfire Kick 1.flac
+key=36
+
+<region> sample=Samples\DrumFire\Drumfire Snare 1.flac
+key=38
+
+<region> sample=Samples\DrumFire\Drumfire Tom 1.flac
+key=50
+
+<region> sample=Samples\DrumFire\Drumfire Tom 2.flac
+key=48
+
+<region> sample=Samples\DrumFire\Drumfire Tom 3.flac
+key=47
+
+

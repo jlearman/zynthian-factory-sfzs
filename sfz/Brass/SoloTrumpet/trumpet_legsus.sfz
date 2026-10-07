@@ -1,0 +1,8 @@
+<group> group=1 ampeg_release=.4 hicc64=63 off_mode=normal
+#include "S1.sfz"
+
+<group> group=2 ampeg_release=.4 ampeg_attack=0.1 locc64=64 off_mode=normal
+#include "S2.sfz"
+
+<group> group=3 off_by=2 trigger=release loop_mode=one_shot sw_lokey=0 sw_hikey=127 ampeg_attack=0.2
+#include "R1.sfz"

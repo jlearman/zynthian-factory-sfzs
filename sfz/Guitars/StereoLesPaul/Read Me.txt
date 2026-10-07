@@ -1,0 +1,24 @@
+A Les Paul tone, recorded with a clean, dark (not too bright) pickup setting, and played with a pick.
+
+This is a stereo (2 channel) sfz.
+
+There are sustained, muted, hammer-off notes, harmonic notes, and "chord thrums". There is also a  selection of fret noise waveforms to add realism.
+
+The SFZ files are:
+
+sus.sfz
+	Sustained notes. Pressing the soft pedal (CC # 67) selects hammer off notes. Notes D1 to B1 play a chord thrum.
+
+mute.sfz
+	Muted notes.
+
+harmonic.sfz
+	Harmonic notes.
+
+sus_mute.sfz
+	Low velocity notes (less than 58) play muted strings. Higher velocities play sustained notes. Soft pedal selects hammer off notes. Notes D1 to B1 play a chord thrum.
+
+noises.sfz
+	Fret noises and chord thrums.
+	MIDI Notes c4 or higher are fret noises.
+	Notes D3 to B3 play a chord thrum.

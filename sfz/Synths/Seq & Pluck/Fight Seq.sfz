@@ -1,0 +1,29 @@
+<group>
+ampeg_release=0.666
+
+<region> sample=Samples\Fight Seq\014.flac
+lokey=0
+hikey=49
+pitch_keycenter=44
+
+<region> sample=Samples\Fight Seq\024.flac
+lokey=50
+hikey=61
+pitch_keycenter=56
+
+<region> sample=Samples\Fight Seq\034.flac
+lokey=62
+hikey=73
+pitch_keycenter=68
+
+<region> sample=Samples\Fight Seq\044.flac
+lokey=74
+hikey=85
+pitch_keycenter=80
+
+<region> sample=Samples\Fight Seq\054.flac
+lokey=86
+hikey=127
+pitch_keycenter=92
+
+

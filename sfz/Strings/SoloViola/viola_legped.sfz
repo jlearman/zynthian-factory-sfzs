@@ -1,0 +1,20 @@
+<group> group=1 hicc68=63 ampeg_release=0.1 off_mode=normal lovel=80
+#include "S1.sfz"
+
+<group> group=1 locc68=64 ampeg_release=0.1 ampeg_attack=0.05 off_mode=normal lovel=80
+#include "S2.sfz"
+
+<group> group=1 hicc68=63 ampeg_release=0.1 off_mode=normal lovel=40 hivel=79
+#include "S3.sfz"
+
+<group> group=1 locc68=64 ampeg_release=0.1 ampeg_attack=0.05 off_mode=normal lovel=40 hivel=79
+#include "S4.sfz"
+
+<group> group=1 hicc68=63 ampeg_release=0.1 off_mode=normal hivel=39
+#include "S5.sfz"
+
+<group> group=1 locc68=64 ampeg_release=0.1 ampeg_attack=0.05 off_mode=normal hivel=39
+#include "S6.sfz"
+
+<group> group=2 off_by=1 hicc68=63 trigger=release loop_mode=one_shot sw_lokey=0 sw_hikey=127 ampeg_attack=0.05
+#include "R1.sfz"

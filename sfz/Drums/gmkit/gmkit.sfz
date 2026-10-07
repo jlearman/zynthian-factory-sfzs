@@ -1,0 +1,300 @@
+<group> key=42 volume=-15 group=1 loop_mode=one_shot seq_length=2
+<region>
+sample=HH_Cl_1_1.flac hivel=39
+<region>
+sample=HH_Cl_1_2.flac hivel=39 seq_position=2
+<region>
+sample=HH_Cl_2_1.flac lovel=40 hivel=89
+<region>
+sample=HH_Cl_2_2.flac lovel=40 hivel=89 seq_position=2
+<region>
+sample=HH_Cl_3_1.flac lovel=90
+<region>
+sample=HH_Cl_3_2.flac lovel=90 seq_position=2
+<group> key=44 volume=-19 group=2 seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=HH_Foot_1.flac
+<region>
+sample=HH_Foot_2.flac seq_position=2
+<group> key=46 volume=-12 group=3 seq_length=2
+off_mode=fast off_by=1 off_by=2 offby=1 offby=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=HH_O_1_1.flac hivel=69
+<region>
+sample=HH_O_1_2.flac hivel=69 seq_position=2
+<region>
+sample=HH_O_2_1.flac lovel=70
+<region>
+sample=HH_O_2_2.flac lovel=70 seq_position=2
+
+<group>
+key=38
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Snare1.flac
+<region>
+sample=Snare2.flac seq_position=2
+<group>
+key=40
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Snare1.flac
+<region>
+sample=Snare2.flac seq_position=2
+<group>
+key=37
+seq_length=2
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Cross1.flac
+<region>
+sample=Cross2.flac seq_position=2
+
+<group>
+lokey=35 hikey=36 pitch_keycenter=36
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Kick3.flac
+hivel=48
+<region>
+sample=Kick2.flac
+lovel=49 hivel=90
+<region>
+sample=Kick1.flac
+lovel=91
+
+<group>
+lokey=50 hikey=50 pitch_keycenter=48
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=6
+pan=10
+volume=-5
+<region>
+sample=Tom1.flac
+<group>
+key=48
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=7
+pan=30
+volume=-5
+<region>
+sample=Tom1.flac
+<group>
+lokey=47 hikey=47 pitch_keycenter=45
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=7
+pan=0
+volume=-5
+<region>
+sample=Tom2.flac
+<group>
+key=45
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=8
+pan=20
+volume=-5
+<region>
+sample=Tom2.flac
+<group>
+lokey=43 hikey=43 pitch_keycenter=41
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=8
+pan=-40
+volume=-5
+<region>
+sample=Tom3.flac
+<group>
+key=41
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=10
+pan=-60
+volume=-5
+<region>
+sample=Tom3.flac
+
+<group> key=49 volume=-15
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+seq_length=2
+<region>
+sample=CrashA_1.flac
+<region>
+sample=CrashA_2.flac seq_position=2
+<group> key=57 volume=-15
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=CrashB.flac
+<group> key=52 volume=-10 pan=40
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=China.flac
+<group> key=55 volume=-12
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Splash.flac
+
+<group> key=51 hivel=39
+volume=-8 seq_length=2 ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Ride_1_1.flac
+<region>
+sample=Ride_1_2.flac seq_position=2
+<group> key=51 lovel=40 hivel=89
+volume=-8 seq_length=2 ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Ride_2_1.flac
+<region>
+sample=Ride_2_2.flac seq_position=2
+<group> key=51 lovel=90
+volume=-8 seq_length=2 ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Ride_3_1.flac
+<region>
+sample=Ride_3_2.flac seq_position=2
+<group> lokey=59 hikey=59 pitch_keycenter=61 hivel=39
+volume=-8 seq_length=2 ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Ride_1_1.flac
+<region>
+sample=Ride_1_2.flac seq_position=2
+<group> lokey=59 hikey=59 pitch_keycenter=61 lovel=40 hivel=89
+volume=-8 seq_length=2 ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Ride_2_1.flac
+<region>
+sample=Ride_2_2.flac seq_position=2
+<group> lokey=59 hikey=59 pitch_keycenter=61 lovel=90
+volume=-8 seq_length=2 ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=Ride_3_1.flac
+<region>
+sample=Ride_3_2.flac seq_position=2
+<group> key=53 hivel=39
+volume=-8 seq_length=2 ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=RideBell_1_1.flac
+<region>
+sample=RideBell_1_2.flac seq_position=2
+<group> key=53 lovel=40 hivel=89
+volume=-8 seq_length=2 ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=RideBell_2_1.flac
+<region>
+sample=RideBell_2_2.flac seq_position=2
+<group> key=53 lovel=90
+volume=-8 seq_length=2 ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=RideBell_3_1.flac
+<region>
+sample=RideBell_3_2.flac seq_position=2
+
+<group> key=39 volume=-12 pan=0 loop_mode=one_shot
+<region>
+sample=Clap.flac
+
+<group> key=56 volume=-15 pan=-80 loop_mode=one_shot
+<region>
+sample=Cowbell.flac
+
+<group> key=54 volume=-15 pan=80 loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=4 ampeg_decay=4
+<region>
+sample=Tamb.flac
+
+<group> lokey=60 hikey=81 volume=-12 loop_mode=one_shot
+<region> key=60 pan=-40 sample=BongoHi.flac
+<region> key=61 pan=40 sample=BongoLo.flac
+<region> key=62 pan=40 sample=CongaHm.flac
+<region> key=63 pan=40 sample=CongaHo.flac
+<region> key=64 pan=-40 loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=4 ampeg_decay=4
+sample=CongaLo.flac
+<region>
+key=65
+pan=40
+sample=Timbale.flac
+loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=10
+<region>
+lokey=66 hikey=66 pitch_keycenter=69
+pan=-40
+sample=Timbale.flac
+loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=10
+<region>
+key=67
+pan=-40
+sample=AgogoH.flac
+loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=4 ampeg_decay=4
+volume=-16
+<region>
+key=68
+pan=40
+sample=AgogoL.flac
+loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=4 ampeg_decay=4
+volume=-16
+<region>
+key=69
+pan=0
+sample=CabasaUp.flac
+<region>
+key=70
+pan=0
+sample=CabasaDown.flac
+<region>
+key=71
+pan=-30
+sample=Whistle.flac
+group=10
+<region>
+key=72
+pan=-30
+sample=Whistle.flac
+group=11
+off_mode=fast off_by=10 offby=10
+<region>
+key=73
+pan=70
+sample=GuiroSh.flac
+group=8
+<region>
+key=74
+pan=70
+sample=Guiro.flac
+group=9
+off_mode=fast off_by=8 offby=8
+<region>
+key=75
+pan=10
+sample=Claves.flac
+<region>
+key=76
+pan=-10
+sample=Block.flac
+<region>
+lokey=77 hikey=77 pitch_keycenter=79
+pan=10
+sample=Block.flac
+<region>
+key=78
+pan=-70
+sample=CuicaMute.flac
+group=6
+<region>
+key=79
+pan=-70
+sample=Cuica.flac
+group=7
+off_mode=fast off_by=6 offby=6
+<region>
+key=80
+pan=30
+sample=TriMute.flac
+group=4
+<region>
+key=81
+pan=30
+sample=Tri.flac
+loop_mode=loop_continuous
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=20 ampeg_decay=20
+group=5
+off_mode=fast off_by=4 offby=4

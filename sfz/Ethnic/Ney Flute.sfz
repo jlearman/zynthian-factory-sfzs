@@ -1,0 +1,49 @@
+<group>
+volume=-4.235
+ampeg_release=0.828
+effect1=7
+pitcheg_decay=0.966
+pitcheg_sustain=0
+pitcheg_release=0.538
+fileg_decay=0.966
+fileg_sustain=0
+fileg_release=0.538
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Ney Flute\NyeFlute B2.flac
+lokey=21
+hikey=73
+pitch_keycenter=71
+
+<region> sample=Samples\Ney Flute\NyeFlute F3.flac
+lokey=74
+hikey=76
+pitch_keycenter=77
+
+<region> sample=Samples\Ney Flute\NyeFlute F3.flac
+lokey=77
+hikey=81
+pitch_keycenter=77
+
+<region> sample=Samples\Ney Flute\NyeFlute B3.flac
+lokey=82
+hikey=83
+pitch_keycenter=83
+
+<region> sample=Samples\Ney Flute\NyeFlute B3.flac
+lokey=84
+hikey=88
+pitch_keycenter=83
+
+<region> sample=Samples\Ney Flute\NyeFlute A4.flac
+lokey=89
+hikey=95
+pitch_keycenter=93
+
+<region> sample=Samples\Ney Flute\NyeFlute A4.flac
+lokey=96
+hikey=108
+pitch_keycenter=93
+
+

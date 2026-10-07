@@ -1,0 +1,9 @@
+<control> default_path=Vibrato\
+<group> group=1 ampeg_release=.5 hicc64=63
+#include "V1.sfz"
+
+<group> ampeg_release=.5 locc64=64
+#include "V2.sfz"
+
+<group> group=3 off_by=1 trigger=release loop_mode=one_shot sw_lokey=0 sw_hikey=127 ampeg_attack=0.2
+#include "R1.sfz"

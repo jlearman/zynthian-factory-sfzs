@@ -1,0 +1,76 @@
+<group>
+ampeg_decay=14.354
+ampeg_sustain=0.001
+ampeg_release=3.268
+
+<region> sample=Samples\Dobro\DobroLoGOpen-L.flac
+lokey=36
+hikey=45
+pitch_keycenter=43
+
+<region> sample=Samples\Dobro\Low B Open-L.flac
+lokey=46
+hikey=46
+pitch_keycenter=47
+
+<region> sample=Samples\Dobro\Low B Open-L.flac
+lokey=47
+hikey=48
+pitch_keycenter=47
+
+<region> sample=Samples\Dobro\Low D Open-L.flac
+lokey=49
+hikey=52
+pitch_keycenter=50
+
+<region> sample=Samples\Dobro\G2 Open-L.flac
+lokey=53
+hikey=57
+pitch_keycenter=55
+
+<region> sample=Samples\Dobro\B2 Open-L.flac
+lokey=58
+hikey=60
+pitch_keycenter=59
+
+<region> sample=Samples\Dobro\D3 Open-L.flac
+lokey=61
+hikey=65
+pitch_keycenter=62
+
+<region> sample=Samples\Dobro\G3 Fretted-L.flac
+lokey=66
+hikey=66
+pitch_keycenter=67
+
+<region> sample=Samples\Dobro\G3 Fretted-L.flac
+lokey=67
+hikey=69
+pitch_keycenter=67
+
+<region> sample=Samples\Dobro\B3 Fretted-L.flac
+lokey=70
+hikey=70
+pitch_keycenter=71
+
+<region> sample=Samples\Dobro\B3 Fretted-L.flac
+lokey=71
+hikey=72
+pitch_keycenter=71
+
+<region> sample=Samples\Dobro\D4 Fretted-L.flac
+lokey=73
+hikey=75
+pitch_keycenter=74
+
+<region> sample=Samples\Dobro\F4 Fretted-L.flac
+lokey=76
+hikey=76
+pitch_keycenter=77
+
+<region> sample=Samples\Dobro\F4 Fretted-L.flac
+lokey=77
+hikey=82
+pitch_keycenter=77
+
+

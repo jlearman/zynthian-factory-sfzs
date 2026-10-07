@@ -1,0 +1,18 @@
+<control> default_path=A\
+<region> sample=2_Ab.flac hikey=a2 pitch_keycenter=g#2 ampeg_hold=3 offset=3960
+<region> sample=3_C.flac lokey=a#2 hikey=c#3 pitch_keycenter=c3 ampeg_hold=2.6 offset=4005
+<region> sample=3_Eb.flac lokey=d3 hikey=e3 pitch_keycenter=d#3 ampeg_hold=2.2 offset=4396
+<region> sample=3_Gb.flac lokey=f3 hikey=g3 pitch_keycenter=f#3 offset=2470
+<region> sample=3_A.flac lokey=g#3 hikey=a#3 pitch_keycenter=a3 offset=1653
+<region> sample=4_C.flac lokey=b3 hikey=c#4 pitch_keycenter=c4 offset=1767
+<region> sample=4_Eb.flac lokey=d4 hikey=e4 pitch_keycenter=d#4 offset=2782
+<region> sample=4_Gb.flac lokey=f4 hikey=g4 pitch_keycenter=f#4 offset=1551
+<region> sample=4_A.flac lokey=g#4 hikey=a#4 pitch_keycenter=a4 offset=1381
+<region> sample=5_C.flac lokey=b4 hikey=c#5 pitch_keycenter=c5 offset=1683
+<region> sample=5_Eb.flac lokey=d5 hikey=e5 pitch_keycenter=d#5 offset=1305
+<region> sample=5_Gb.flac lokey=f5 hikey=g5 pitch_keycenter=f#5 offset=1062
+<region> sample=5_A.flac lokey=g#5 hikey=a#5 pitch_keycenter=a5 offset=1109
+<region> sample=6_C.flac lokey=b5 hikey=c6 pitch_keycenter=c6 offset=777
+<region> sample=6_D.flac lokey=c#6 hikey=d6 pitch_keycenter=d6 offset=806
+<region> sample=6_E.flac lokey=d#6 hikey=f6 pitch_keycenter=e6 offset=645
+<region> sample=6_G.flac lokey=f#6 pitch_keycenter=g6 offset=619

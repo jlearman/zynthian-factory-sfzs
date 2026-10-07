@@ -1,0 +1,72 @@
+TheoK Yamaha Pacifica
+
+A free Electric Guitar sample library by Theodor Krueger. This is the SFZ format version modified by JeffG.
+
+Theodor's guitar has a Les Paul tone, recorded with a clean, dark (not too bright) pickup setting, and played with a pick.
+
+There are sustained, muted, and hammer-off notes, spaced by 2 whole tones apart across the guitar's note range. Furthermore, each note has 3 or 4 round robins. Finally, there is a generous selection of fret and pick noise waveforms to add realism.
+
+The SFZ files are:
+
+yamaha_sus.sfz
+	Sustained notes. Pressing the soft pedal (CC # 67) selects hammer off notes.
+
+yamaha_sus_s.sfz
+	A stereo version of the above.
+
+yamaha_sus_nz.sfz
+	A version of yamaha_sus.sfz that adds fret/pick noises randomly as notes are played.
+
+yamaha_sus_nz_s.sfz
+	A stereo version of the above.
+
+=====================================
+
+yamaha_mute.sfz
+	Muted notes.
+
+yamaha_mute_s.sfz
+	A stereo version of the above.
+
+yamaha_mute_nz.sfz
+	A version of yamaha_mute.sfz that adds random fret/pick noises.
+
+yamaha_mute_nz_s.sfz
+	A stereo version of the above.
+
+=====================================
+
+yamaha_sus_mute.sfz
+	Low velocity notes (less than 58) play muted strings. Higher velocities play sustained notes. Soft pedal selects hammer off notes.
+
+yamaha_sus_mute_s.sfz
+	A stereo version of the above.
+
+yamaha_sus_mute_nz.sfz
+	A version of yamaha_sus_mute.sfz that adds random fret/pick noises.
+
+yamaha_sus_mute_nz_s.sfz
+	A stereo version of the above.
+
+=====================================
+
+yamaha_sus_hoff.sfz
+	Low velocity notes (less than 58) play hammer off notes. Higher velocities play full notes.
+
+yamaha_sus_hoff_s.sfz
+	A stereo version of the above.
+
+yamaha_sus_hoff_nz.sfz
+	A version of yamaha_sus_hoff.sfz that adds random fret/pick noises.
+
+yamaha_sus_hoff_nz_s.sfz
+	A stereo version of the above.
+
+=====================================
+
+yamaha_noises.sfz
+	Fret/pick noises.
+	MIDI Notes 102 to 127 are pick noises.
+	Notes 68 to 101 are fret noises for the two high guitar strings.
+	Notes 34 to 67 are fret noises for the two middle guitar strings.
+	Notes 0 to 33 are fret noises for the two low guitar strings.

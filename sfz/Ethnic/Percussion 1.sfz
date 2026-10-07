@@ -1,0 +1,461 @@
+<group>
+effect1=7
+pitcheg_release=0.538
+fileg_release=0.538
+pitchlfo_freq=4.252
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Percussion 1\Kick Drum.flac
+lokey=21
+hikey=36
+pitch_keycenter=36
+ampeg_hold=0.004
+ampeg_decay=3.178
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Clappr Stik.flac
+key=37
+ampeg_decay=0.828
+ampeg_sustain=0.001
+ampeg_release=0.878
+
+<region> sample=Samples\Percussion 1\Snare Drum.flac
+key=38
+ampeg_decay=6.045
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Wood Block.flac
+key=39
+ampeg_decay=1.485
+ampeg_sustain=0.001
+ampeg_release=0.878
+
+<region> sample=Samples\Percussion 1\Surdo Open.flac
+lokey=40
+hikey=40
+pitch_keycenter=45
+ampeg_decay=16.346
+ampeg_sustain=0.001
+ampeg_release=0.987
+
+<region> sample=Samples\Percussion 1\Surdo Open.flac
+key=41
+ampeg_decay=14.537
+ampeg_sustain=0.001
+ampeg_release=0.987
+
+<region> sample=Samples\Percussion 1\Closed Hat.flac
+lokey=42
+hikey=42
+pitch_keycenter=44
+ampeg_decay=1.176
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Surdo Open.flac
+lokey=43
+hikey=43
+pitch_keycenter=37
+ampeg_decay=12.936
+ampeg_sustain=0.001
+ampeg_release=0.987
+
+<region> sample=Samples\Percussion 1\Open Hat.flac
+key=44
+ampeg_hold=0.002
+ampeg_decay=5.703
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Surdo Open.flac
+lokey=45
+hikey=45
+pitch_keycenter=33
+ampeg_decay=11.505
+ampeg_sustain=0.001
+ampeg_release=0.987
+
+<region> sample=Samples\Percussion 1\Rosewd Tick.flac
+key=46
+ampeg_decay=1.485
+ampeg_sustain=0.001
+ampeg_release=1.109
+
+<region> sample=Samples\Percussion 1\Surdo Open.flac
+lokey=47
+hikey=47
+pitch_keycenter=29
+ampeg_decay=7.639
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Surdo Open.flac
+lokey=48
+hikey=48
+pitch_keycenter=24
+ampeg_decay=6.797
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Nepal Cymbl.flac
+lokey=49
+hikey=49
+pitch_keycenter=73
+ampeg_hold=0.001
+ampeg_decay=18.369
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Surdo Mute.flac
+key=50
+ampeg_hold=0.002
+ampeg_decay=4.784
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Nepal Cymbl.flac
+lokey=51
+hikey=51
+pitch_keycenter=69
+ampeg_hold=0.01
+ampeg_decay=17.328
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Bendir Open.flac
+key=52
+ampeg_hold=0.001
+ampeg_decay=5.38
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Deff Slap.flac
+key=53
+ampeg_hold=0.001
+ampeg_decay=6.797
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Nepal Cymbl.flac
+lokey=54
+hikey=54
+pitch_keycenter=66
+ampeg_hold=0.006
+ampeg_decay=15.419
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Deff Mute.flac
+key=55
+ampeg_hold=0.001
+ampeg_decay=7.206
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Nepal Cymbl.flac
+lokey=56
+hikey=56
+pitch_keycenter=62
+ampeg_hold=0.004
+ampeg_decay=13.713
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Req Open.flac
+key=57
+ampeg_decay=4.257
+ampeg_sustain=0.0027
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Nepal Cymbl.flac
+key=58
+ampeg_hold=0.001
+ampeg_decay=12.203
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Req Slap.flac
+key=59
+ampeg_hold=0.001
+ampeg_decay=5.38
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Udu Tone.flac
+key=60
+ampeg_hold=0.001
+ampeg_decay=2.997
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Maraca A.flac
+key=61
+ampeg_decay=1.771
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Udu Release.flac
+key=62
+ampeg_hold=0.001
+ampeg_decay=3.369
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Maraca B.flac
+key=63
+ampeg_hold=0.002
+ampeg_decay=1.991
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Udu Finger.flac
+key=64
+ampeg_hold=0.001
+ampeg_decay=2.827
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Udu Slap.flac
+key=65
+ampeg_hold=0.001
+ampeg_decay=3.572
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Maraca C.flac
+key=66
+volume=-3.08
+ampeg_decay=2.11
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Ipu Tone.flac
+key=67
+ampeg_hold=0.001
+ampeg_decay=2.667
+ampeg_sustain=0.001
+ampeg_release=0.878
+
+<region> sample=Samples\Percussion 1\Maraca D.flac
+key=68
+volume=-3.08
+ampeg_decay=2.11
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Ipu Slap.flac
+key=69
+ampeg_hold=0.001
+ampeg_decay=2.997
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Tanz Shaker.flac
+lokey=70
+hikey=70
+pitch_keycenter=76
+ampeg_hold=0.001
+ampeg_decay=2.827
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Enu Tone.flac
+key=71
+ampeg_hold=0.001
+ampeg_decay=2.997
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Bata Tone.flac
+key=72
+ampeg_hold=0.003
+ampeg_decay=3.178
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Tanz Shaker.flac
+key=73
+ampeg_hold=0.001
+ampeg_decay=2.515
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Bata Mute.flac
+key=74
+ampeg_hold=0.002
+ampeg_decay=4.513
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Tanz Shaker.flac
+lokey=75
+hikey=75
+pitch_keycenter=69
+ampeg_hold=0.001
+ampeg_decay=1.991
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Bata Slap.flac
+key=76
+ampeg_hold=0.001
+ampeg_decay=3.786
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Banya Tone.flac
+key=77
+ampeg_hold=0.013
+ampeg_decay=7.639
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Tanz Shaker.flac
+lokey=78
+hikey=78
+pitch_keycenter=66
+ampeg_hold=0.001
+ampeg_decay=1.877
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Banya Slap.flac
+key=79
+ampeg_hold=0.001
+ampeg_decay=2.11
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Hula Stick.flac
+lokey=80
+hikey=80
+pitch_keycenter=86
+ampeg_decay=4.513
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Banya Hit.flac
+key=81
+ampeg_decay=2.667
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Hula Stick.flac
+key=82
+ampeg_hold=0.001
+ampeg_decay=2.667
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Tabla Tone.flac
+key=83
+ampeg_hold=0.002
+ampeg_decay=2.827
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\TablaMute A.flac
+key=84
+ampeg_hold=0.002
+ampeg_decay=1.877
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Hula Stick.flac
+lokey=85
+hikey=85
+pitch_keycenter=79
+ampeg_hold=0.002
+ampeg_decay=2.372
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\TablaMute B.flac
+key=86
+ampeg_hold=0.002
+ampeg_decay=1.771
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Crickets.flac
+key=87
+ampeg_decay=5.703
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\TablaMute C.flac
+key=88
+ampeg_hold=0.002
+ampeg_decay=2.997
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Tabla Open.flac
+key=89
+ampeg_hold=0.004
+ampeg_decay=3.369
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Castanet.flac
+key=90
+ampeg_hold=0.002
+ampeg_decay=2.997
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Rosewd Bass.flac
+key=91
+ampeg_hold=0.007
+ampeg_decay=2.667
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Castanet.flac
+key=92
+ampeg_hold=0.002
+ampeg_decay=2.997
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Rosewd Tick.flac
+key=93
+ampeg_hold=0.005
+ampeg_decay=3.178
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Castanet.flac
+key=94
+ampeg_hold=0.002
+ampeg_decay=2.827
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Rosewd Harm.flac
+key=95
+ampeg_hold=0.002
+ampeg_decay=1.322
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Rosewd Fngr.flac
+key=96
+ampeg_hold=0.002
+ampeg_decay=1.877
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+<region> sample=Samples\Percussion 1\Rosewd Fngr.flac
+lokey=97
+hikey=108
+pitch_keycenter=96
+ampeg_hold=0.002
+ampeg_decay=1.877
+ampeg_sustain=0.001
+ampeg_release=0.931
+
+

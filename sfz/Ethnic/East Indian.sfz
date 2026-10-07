@@ -1,0 +1,303 @@
+<group>
+ampeg_hold=0.001
+ampeg_sustain=0.001
+effect1=7
+pitcheg_release=0.538
+fileg_release=0.538
+pitchlfo_freq=4.252
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\East Indian\TambouraC#2.flac
+lokey=21
+hikey=43
+pitch_keycenter=37
+tune=-1
+pan=-100
+volume=-10.0485
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\TambouraC#2.flac
+lokey=21
+hikey=43
+pitch_keycenter=37
+tune=2
+pan=100
+volume=-10.0485
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Accord F#2.flac
+lokey=44
+hikey=56
+pitch_keycenter=54
+tune=-1
+pan=-100
+volume=-11.9735
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Accord F#2.flac
+lokey=44
+hikey=56
+pitch_keycenter=54
+tune=2
+pan=100
+volume=-11.9735
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Accord A#2.flac
+lokey=57
+hikey=59
+pitch_keycenter=58
+tune=-1
+pan=-100
+volume=-11.9735
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Accord A#2.flac
+lokey=57
+hikey=59
+pitch_keycenter=58
+tune=2
+pan=98.4
+volume=-11.9735
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Sitar D#4.flac
+lokey=60
+hikey=86
+pitch_keycenter=75
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Sitar D#4.flac
+lokey=60
+hikey=86
+pitch_keycenter=75
+tune=2
+pan=100
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Crickets.flac
+key=87
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Crickets.flac
+key=87
+tune=2
+pan=100
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Banya Tone.flac
+key=88
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Banya Tone.flac
+key=88
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Banya Slap.flac
+key=89
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Banya Slap.flac
+key=89
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Banya Hit.flac
+key=90
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Banya Hit.flac
+key=90
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Tabla Tone.flac
+key=91
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Tabla Tone.flac
+key=91
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\TablaMute A.flac
+key=92
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\TablaMute A.flac
+key=92
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\TablaMute B.flac
+key=93
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\TablaMute B.flac
+key=93
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\TablaMute C.flac
+key=94
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\TablaMute C.flac
+key=94
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Tabla Open.flac
+key=95
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Tabla Open.flac
+key=95
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Clappr Stik.flac
+key=96
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Clappr Stik.flac
+key=96
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Rosewd Bass.flac
+key=97
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Rosewd Bass.flac
+key=97
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Rosewd Tick.flac
+key=98
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Rosewd Tick.flac
+key=98
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+<region> sample=Samples\East Indian\Accord F#3.flac
+lokey=99
+hikey=108
+pitch_keycenter=102
+tune=-1
+pan=-100
+volume=-8.1235
+ampeg_decay=19.483
+ampeg_release=2.827
+
+<region> sample=Samples\East Indian\Accord F#3.flac
+lokey=99
+hikey=108
+pitch_keycenter=102
+tune=2
+pan=98.4
+volume=-8.1235
+ampeg_decay=15.419
+ampeg_release=3.178
+
+

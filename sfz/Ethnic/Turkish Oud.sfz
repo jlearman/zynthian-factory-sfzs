@@ -1,0 +1,53 @@
+<group>
+ampeg_decay=19.916
+ampeg_sustain=0.001
+
+<region> sample=Samples\Turkish Oud\Oud E1-L.flac
+lokey=36
+hikey=41
+pitch_keycenter=40
+ampeg_release=0.74
+
+<region> sample=Samples\Turkish Oud\Oud G1-L.flac
+lokey=42
+hikey=47
+pitch_keycenter=43
+ampeg_release=0.74
+
+<region> sample=Samples\Turkish Oud\Turkish Oud E2-L.flac
+lokey=48
+hikey=53
+pitch_keycenter=52
+ampeg_release=0.704
+
+<region> sample=Samples\Turkish Oud\Oud G#2-L.flac
+lokey=54
+hikey=58
+pitch_keycenter=56
+ampeg_release=0.704
+
+<region> sample=Samples\Turkish Oud\Oud C3-L.flac
+lokey=59
+hikey=61
+pitch_keycenter=60
+ampeg_release=0.704
+
+<region> sample=Samples\Turkish Oud\Oud C3-L.flac
+lokey=62
+hikey=62
+pitch_keycenter=60
+ampeg_release=0.704
+
+<region> sample=Samples\Turkish Oud\Oud E3-L.flac
+lokey=63
+hikey=65
+pitch_keycenter=64
+ampeg_release=0.704
+
+<region> sample=Samples\Turkish Oud\Oud G#3-L.flac
+lokey=66
+hikey=72
+pitch_keycenter=68
+ampeg_release=0.74
+
+

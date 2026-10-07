@@ -1,0 +1,163 @@
+<group>
+effect1=7
+pitcheg_release=0.538
+fileg_release=0.538
+pitchlfo_freq=4.252
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Pan Flute\Siku E2.flac
+lokey=21
+hikey=44
+pitch_keycenter=52
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\NyeFlute B2.flac
+lokey=21
+hikey=73
+pitch_keycenter=71
+volume=-6.16
+ampeg_release=0.828
+pitcheg_decay=0.966
+pitcheg_sustain=0
+fileg_decay=0.966
+fileg_sustain=0
+
+<region> sample=Samples\Pan Flute\Siku E2.flac
+lokey=45
+hikey=45
+pitch_keycenter=52
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\Siku E2.flac
+lokey=46
+hikey=47
+pitch_keycenter=52
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\Siku E2.flac
+lokey=48
+hikey=54
+pitch_keycenter=52
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\Siku E2.flac
+lokey=55
+hikey=56
+pitch_keycenter=52
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\Siku B2.flac
+lokey=57
+hikey=59
+pitch_keycenter=59
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\Siku B2.flac
+lokey=60
+hikey=61
+pitch_keycenter=59
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\Siku B2.flac
+lokey=62
+hikey=63
+pitch_keycenter=59
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\Siku F#3.flac
+lokey=64
+hikey=65
+pitch_keycenter=66
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\Siku F#3.flac
+lokey=66
+hikey=88
+pitch_keycenter=66
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\NyeFlute F3.flac
+lokey=74
+hikey=76
+pitch_keycenter=77
+volume=-6.16
+ampeg_release=0.828
+pitcheg_decay=0.966
+pitcheg_sustain=0
+fileg_decay=0.966
+fileg_sustain=0
+
+<region> sample=Samples\Pan Flute\NyeFlute F3.flac
+lokey=77
+hikey=81
+pitch_keycenter=77
+volume=-6.16
+ampeg_release=0.828
+pitcheg_decay=0.966
+pitcheg_sustain=0
+fileg_decay=0.966
+fileg_sustain=0
+
+<region> sample=Samples\Pan Flute\NyeFlute B3.flac
+lokey=82
+hikey=83
+pitch_keycenter=83
+volume=-6.16
+ampeg_release=0.828
+pitcheg_decay=0.966
+pitcheg_sustain=0
+fileg_decay=0.966
+fileg_sustain=0
+
+<region> sample=Samples\Pan Flute\NyeFlute B3.flac
+lokey=84
+hikey=88
+pitch_keycenter=83
+volume=-6.16
+ampeg_release=0.828
+pitcheg_decay=0.966
+pitcheg_sustain=0
+fileg_decay=0.966
+fileg_sustain=0
+
+<region> sample=Samples\Pan Flute\NyeFlute A4.flac
+lokey=89
+hikey=95
+pitch_keycenter=93
+volume=-6.16
+ampeg_release=0.828
+pitcheg_decay=0.966
+pitcheg_sustain=0
+fileg_decay=0.966
+fileg_sustain=0
+
+<region> sample=Samples\Pan Flute\Siku F#5.flac
+lokey=89
+hikey=108
+pitch_keycenter=90
+volume=-5.005
+ampeg_release=0.931
+
+<region> sample=Samples\Pan Flute\NyeFlute A4.flac
+lokey=96
+hikey=108
+pitch_keycenter=93
+volume=-6.16
+ampeg_release=0.828
+pitcheg_decay=0.966
+pitcheg_sustain=0
+fileg_decay=0.966
+fileg_sustain=0
+
+

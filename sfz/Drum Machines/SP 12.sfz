@@ -1,0 +1,39 @@
+<region> sample=Samples\SP 12\SP-12 clap 02.flac
+key=39
+
+<region> sample=Samples\SP 12\SP-12 etom 11.flac
+key=50
+
+<region> sample=Samples\SP 12\SP-12 etom 15.flac
+key=48
+
+<region> sample=Samples\SP 12\SP-12 etom 23.flac
+key=47
+
+<region> sample=Samples\SP 12\SP-12 hihats closed.flac
+key=42
+
+<region> sample=Samples\SP 12\SP-12 hihats loose 0.flac
+key=44
+
+<region> sample=Samples\SP 12\SP-12 hihats open 02.flac
+key=46
+
+<region> sample=Samples\SP 12\SP-12 kick 01.flac
+key=36
+
+<region> sample=Samples\SP 12\SP-12 kick 05.flac
+key=35
+
+<region> sample=Samples\SP 12\SP-12 rimshot 01.flac
+key=37
+
+<region> sample=Samples\SP 12\SP-12 snare 03.flac
+key=38
+
+<region> sample=Samples\SP 12\SP-12 snare 08.flac
+lokey=39
+hikey=39
+pitch_keycenter=40
+
+

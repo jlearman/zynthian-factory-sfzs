@@ -1,0 +1,24 @@
+<group> trigger=first lovel=64
+ampeg_release=.1 ampeg_attackcc67=.55
+group=1 off_by=1 off_mode=normal
+#include "V1"
+
+<group> trigger=legato lovel=64
+group=1 off_by=1 off_mode=normal
+ampeg_attack=.1 ampeg_release=.1
+#include "V1l"
+
+<group> trigger=first hivel=63
+ampeg_release=.1 ampeg_attackcc67=.55
+group=1 off_by=1 off_mode=normal
+#include "V2"
+
+<group> trigger=legato hivel=63
+group=1 off_by=1 off_mode=normal
+ampeg_attack=.1 ampeg_release=.1
+#include "V2l"
+
+<group> trigger=release sw_lokey=0 sw_hikey=127
+group=2 off_by=1
+ampeg_attack=.05 loop_mode=one_shot
+#include "R1"

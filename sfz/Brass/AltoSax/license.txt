@@ -1,0 +1,6 @@
+This alto sax sfz uses samples recorded by Karoryfer Lecolds. The original waveforms can be gotten from:
+
+http://www.karoryfer.com/karoryfer-samples/wydawnictwa/weresax
+
+This sample library is royalty-free for all commercial and non-commercial use.
+Copyright 2015 Karoryfer Lecolds.

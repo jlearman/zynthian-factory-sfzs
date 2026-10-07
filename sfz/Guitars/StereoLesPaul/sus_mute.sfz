@@ -1,0 +1,217 @@
+// Clean electric guitar.
+// Low velocity notes (less than 58) play muted strings.
+// Higher velocities play sustained notes.
+// Soft pedal selects hammer off.
+// Notes D1 to B1 play chord thrums.
+<group> hikey=e5 seq_length=2 hivel=57
+<region> sample=2_E_m1.flac pitch_keycenter=e2 lokey=c2 hikey=e2
+<region> sample=2_E_m2.flac seq_position=2 pitch_keycenter=e2 lokey=c2 hikey=e2
+<region> sample=2_F_m1.flac key=f2
+<region> sample=2_F_m2.flac seq_position=2 key=f2
+<region> sample=2_Gb_m1.flac key=f#2
+<region> sample=2_Gb_m2.flac seq_position=2 key=f#2
+<region> sample=2_G_m1.flac key=g2
+<region> sample=2_G_m2.flac seq_position=2 key=g2
+<region> sample=2_Ab_m1.flac key=g#2
+<region> sample=2_Ab_m2.flac seq_position=2 key=g#2
+<region> sample=2_A_m1.flac key=a2
+<region> sample=2_A_m2.flac seq_position=2 key=a2
+<region> sample=2_Bb_m1.flac key=a#2
+<region> sample=2_Bb_m2.flac seq_position=2 key=a#2
+<region> sample=2_B_m1.flac key=b2
+<region> sample=2_B_m2.flac seq_position=2 key=b2
+<region> sample=3_C_m1.flac key=c3
+<region> sample=3_C_m2.flac seq_position=2 key=c3
+<region> sample=3_Db_m1.flac key=c#3
+<region> sample=3_Db_m2.flac seq_position=2 key=c#3
+<region> sample=3_D_m1.flac key=d3
+<region> sample=3_D_m2.flac seq_position=2 key=d3
+<region> sample=3_Eb_m1.flac key=d#3
+<region> sample=3_Eb_m2.flac seq_position=2 key=d#3
+<region> sample=3_E_m1.flac key=e3
+<region> sample=3_E_m2.flac seq_position=2 key=e3
+<region> sample=3_F_m1.flac key=f3
+<region> sample=3_F_m2.flac seq_position=2 key=f3
+<region> sample=3_Gb_m1.flac key=f#3
+<region> sample=3_Gb_m2.flac seq_position=2 key=f#3
+<region> sample=3_G_m1.flac key=g3
+<region> sample=3_G_m2.flac seq_position=2 key=g3
+<region> sample=3_Ab_m1.flac key=g#3
+<region> sample=3_Ab_m2.flac seq_position=2 key=g#3
+<region> sample=3_A_m1.flac key=a3
+<region> sample=3_A_m2.flac seq_position=2 key=a3
+<region> sample=3_Bb_m1.flac key=a#3
+<region> sample=3_Bb_m2.flac seq_position=2 key=a#3
+<region> sample=3_B_m1.flac key=b3
+<region> sample=3_B_m2.flac seq_position=2 key=b3
+<region> sample=4_C_m1.flac key=c4
+<region> sample=4_C_m2.flac seq_position=2 key=c4
+<region> sample=4_Db_m1.flac key=c#4
+<region> sample=4_Db_m2.flac seq_position=2 key=c#4
+<region> sample=4_D_m1.flac key=d4
+<region> sample=4_D_m2.flac seq_position=2 key=d4
+<region> sample=4_Eb_m1.flac key=d#4
+<region> sample=4_Eb_m2.flac seq_position=2 key=d#4
+<region> sample=4_E_m1.flac key=e4
+<region> sample=4_E_m2.flac seq_position=2 key=e4
+<region> sample=4_F_m1.flac key=f4
+<region> sample=4_F_m2.flac seq_position=2 key=f4
+<region> sample=4_Gb_m1.flac key=f#4
+<region> sample=4_Gb_m2.flac seq_position=2 key=f#4
+<region> sample=4_G_m1.flac key=g4
+<region> sample=4_G_m2.flac seq_position=2 key=g4
+<region> sample=4_Ab_m1.flac key=g#4
+<region> sample=4_Ab_m2.flac seq_position=2 key=g#4
+<region> sample=4_A_m1.flac key=a4
+<region> sample=4_A_m2.flac seq_position=2 key=a4
+<region> sample=4_Bb_m1.flac key=a#4
+<region> sample=4_Bb_m2.flac seq_position=2 key=a#4
+<region> sample=4_B_m1.flac key=b4
+<region> sample=4_B_m2.flac seq_position=2 key=b4
+<region> sample=5_C_m1.flac key=c5
+<region> sample=5_C_m2.flac seq_position=2 key=c5
+<region> sample=5_Db_m1.flac key=c#5
+<region> sample=5_Db_m2.flac seq_position=2 key=c#5
+<region> sample=5_D_m1.flac key=d5
+<region> sample=5_D_m2.flac seq_position=2 key=d5
+<region> sample=5_Eb_m1.flac key=d#5
+<region> sample=5_Eb_m2.flac seq_position=2 key=d#5
+<region> sample=5_E_m1.flac key=e5
+<region> sample=5_E_m2.flac seq_position=2 key=e5
+<group> lokey=f5 hivel=57
+<region> sample=5_Gb_m1.flac pitch_keycenter=f#5 lokey=f5 hikey=f#5
+<region> sample=5_Ab_m1.flac pitch_keycenter=g#5 lokey=g5 hikey=g#5
+<region> sample=5_Bb_m1.flac pitch_keycenter=a#5 lokey=a5 hikey=a#5
+<region> sample=6_C_m1.flac pitch_keycenter=c6 lokey=b5
+
+<group> ampeg_sustain=0.001 ampeg_release=0.4 ampeg_decay=30 seq_length=2
+lovel=58 hivel=127
+locc67=0 hicc67=63
+<region> sample=2_E.flac pitch_keycenter=e2 lokey=c2 hikey=e2
+<region> sample=2_E_2.flac pitch_keycenter=e2 lokey=c2 hikey=e2 seq_position=2
+<region> sample=2_Gb.flac pitch_keycenter=f#2 lokey=f2 hikey=f#2
+<region> sample=2_Gb_2.flac pitch_keycenter=f#2 lokey=f2 hikey=f#2 seq_position=2
+<region> sample=2_Ab.flac pitch_keycenter=g#2 lokey=g2 hikey=g#2
+<region> sample=2_Ab_2.flac pitch_keycenter=g#2 lokey=g2 hikey=g#2 seq_position=2
+<region> sample=2_Bb.flac pitch_keycenter=a#2 lokey=a2 hikey=a#2
+<region> sample=2_Bb_2.flac pitch_keycenter=a#2 lokey=a2 hikey=a#2 seq_position=2
+<region> sample=3_C.flac pitch_keycenter=c3 lokey=b2 hikey=c3
+<region> sample=3_C_2.flac pitch_keycenter=c3 lokey=b2 hikey=c3 seq_position=2
+<region> sample=3_D.flac pitch_keycenter=d3 lokey=c#3 hikey=d3
+<region> sample=3_D_2.flac pitch_keycenter=d3 lokey=c#3 hikey=d3 seq_position=2
+<region> sample=3_E.flac pitch_keycenter=e3 lokey=d#3 hikey=e3
+<region> sample=3_E_2.flac pitch_keycenter=e3 lokey=d#3 hikey=e3 seq_position=2
+<region> sample=3_Gb.flac pitch_keycenter=f#3 lokey=f3 hikey=f#3
+<region> sample=3_Gb_2.flac pitch_keycenter=f#3 lokey=f3 hikey=f#3 seq_position=2
+<region> sample=3_Ab.flac pitch_keycenter=g#3 lokey=g3 hikey=g#3
+<region> sample=3_Ab_2.flac pitch_keycenter=g#3 lokey=g3 hikey=g#3 seq_position=2
+<region> sample=3_Bb.flac pitch_keycenter=a#3 lokey=a3 hikey=a#3
+<region> sample=3_Bb_2.flac pitch_keycenter=a#3 lokey=a3 hikey=a#3 seq_position=2
+<region> sample=4_C.flac pitch_keycenter=c4 lokey=b3 hikey=c4
+<region> sample=4_C_2.flac pitch_keycenter=c4 lokey=b3 hikey=c4 seq_position=2
+<region> sample=4_D.flac pitch_keycenter=d4 lokey=c#4 hikey=d4
+<region> sample=4_D_2.flac pitch_keycenter=d4 lokey=c#4 hikey=d4 seq_position=2
+<region> sample=4_E.flac pitch_keycenter=e4 lokey=d#4 hikey=e4
+<region> sample=4_E_2.flac pitch_keycenter=e4 lokey=d#4 hikey=e4 seq_position=2
+<region> sample=4_Gb.flac pitch_keycenter=f#4 lokey=f4 hikey=f#4
+<region> sample=4_Gb_2.flac pitch_keycenter=f#4 lokey=f4 hikey=f#4 seq_position=2
+<region> sample=4_Ab.flac pitch_keycenter=g#4 lokey=g4 hikey=g#4
+<region> sample=4_Ab_2.flac pitch_keycenter=g#4 lokey=g4 hikey=g#4 seq_position=2
+<region> sample=4_Bb.flac pitch_keycenter=a#4 lokey=a4 hikey=a#4
+<region> sample=4_Bb_2.flac pitch_keycenter=a#4 lokey=a4 hikey=a#4 seq_position=2
+<region> sample=5_C.flac pitch_keycenter=c5 lokey=b4 hikey=c5
+<region> sample=5_C_2.flac pitch_keycenter=c5 lokey=b4 hikey=c5 seq_position=2
+<region> sample=5_D.flac pitch_keycenter=d5 lokey=c#5 hikey=d5
+<region> sample=5_D_2.flac pitch_keycenter=d5 lokey=c#5 hikey=d5 seq_position=2
+<region> sample=5_E.flac pitch_keycenter=e5 lokey=d#5 hikey=e5
+<region> sample=5_E_2.flac pitch_keycenter=e5 lokey=d#5 hikey=e5 seq_position=2
+<region> sample=5_Gb.flac pitch_keycenter=f#5 lokey=f5 hikey=f#5
+<region> sample=5_Gb_2.flac pitch_keycenter=f#5 lokey=f5 hikey=f#5 seq_position=2
+<region> sample=5_Ab.flac pitch_keycenter=g#5 lokey=g5 hikey=g#5
+<region> sample=5_Ab_2.flac pitch_keycenter=g#5 lokey=g5 hikey=g#5 seq_position=2
+<region> sample=5_Bb.flac pitch_keycenter=a#5 lokey=a5 hikey=a#5
+<region> sample=5_Bb_2.flac pitch_keycenter=a#5 lokey=a5 hikey=a#5 seq_position=2
+<region> sample=6_C.flac pitch_keycenter=c6 lokey=b5 hikey=c6
+<region> sample=6_C_2.flac pitch_keycenter=c6 lokey=b5 hikey=c6 seq_position=2
+<region> sample=6_D.flac pitch_keycenter=d6 lokey=c#6
+<region> sample=6_D_2.flac pitch_keycenter=d6 lokey=c#6 seq_position=2
+
+<group> ampeg_sustain=0.001 ampeg_release=0.4 ampeg_decay=30 seq_length=2
+lovel=58 hivel=127
+locc67=64 hicc67=127
+<region> sample=2_E.flac pitch_keycenter=e2 lokey=c2 hikey=e2 offset=106622
+<region> sample=2_E_2.flac pitch_keycenter=e2 lokey=c2 hikey=e2 seq_position=2 offset=59840
+<region> sample=2_Gb.flac pitch_keycenter=f#2 lokey=f2 hikey=f#2 offset=40110
+<region> sample=2_Gb_2.flac pitch_keycenter=f#2 lokey=f2 hikey=f#2 seq_position=2 offset=53036
+<region> sample=2_Ab.flac pitch_keycenter=g#2 lokey=g2 hikey=g#2 offset=66542
+<region> sample=2_Ab_2.flac pitch_keycenter=g#2 lokey=g2 hikey=g#2 seq_position=2 offset=58406
+<region> sample=2_Bb.flac pitch_keycenter=a#2 lokey=a2 hikey=a#2 offset=54951
+<region> sample=2_Bb_2.flac pitch_keycenter=a#2 lokey=a2 hikey=a#2 seq_position=2 offset=51485
+<region> sample=3_C.flac pitch_keycenter=c3 lokey=b2 hikey=c3 offset=60010
+<region> sample=3_C_2.flac pitch_keycenter=c3 lokey=b2 hikey=c3 seq_position=2 offset=53458
+<region> sample=3_D.flac pitch_keycenter=d3 lokey=c#3 hikey=d3 offset=44108
+<region> sample=3_D_2.flac pitch_keycenter=d3 lokey=c#3 hikey=d3 seq_position=2 offset=44797
+<region> sample=3_E.flac pitch_keycenter=e3 lokey=d#3 hikey=e3 offset=63451
+<region> sample=3_E_2.flac pitch_keycenter=e3 lokey=d#3 hikey=e3 seq_position=2 offset=56305
+<region> sample=3_Gb.flac pitch_keycenter=f#3 lokey=f3 hikey=f#3 offset=36559
+<region> sample=3_Gb_2.flac pitch_keycenter=f#3 lokey=f3 hikey=f#3 seq_position=2 offset=39670
+<region> sample=3_Ab.flac pitch_keycenter=g#3 lokey=g3 hikey=g#3 offset=47968
+<region> sample=3_Ab_2.flac pitch_keycenter=g#3 lokey=g3 hikey=g#3 seq_position=2 offset=56868
+<region> sample=3_Bb.flac pitch_keycenter=a#3 lokey=a3 hikey=a#3 offset=56907
+<region> sample=3_Bb_2.flac pitch_keycenter=a#3 lokey=a3 hikey=a#3 seq_position=2 offset=49452
+<region> sample=4_C.flac pitch_keycenter=c4 lokey=b3 hikey=c4 offset=49547
+<region> sample=4_C_2.flac pitch_keycenter=c4 lokey=b3 hikey=c4 seq_position=2 offset=29371
+<region> sample=4_D.flac pitch_keycenter=d4 lokey=c#4 hikey=d4 offset=36797
+<region> sample=4_D_2.flac pitch_keycenter=d4 lokey=c#4 hikey=d4 seq_position=2 offset=24798
+<region> sample=4_E.flac pitch_keycenter=e4 lokey=d#4 hikey=e4 offset=33985
+<region> sample=4_E_2.flac pitch_keycenter=e4 lokey=d#4 hikey=e4 seq_position=2 offset=33833
+<region> sample=4_Gb.flac pitch_keycenter=f#4 lokey=f4 hikey=f#4 offset=28360
+<region> sample=4_Gb_2.flac pitch_keycenter=f#4 lokey=f4 hikey=f#4 seq_position=2 offset=36608
+<region> sample=4_Ab.flac pitch_keycenter=g#4 lokey=g4 hikey=g#4 offset=35413
+<region> sample=4_Ab_2.flac pitch_keycenter=g#4 lokey=g4 hikey=g#4 seq_position=2 offset=30181
+<region> sample=4_Bb.flac pitch_keycenter=a#4 lokey=a4 hikey=a#4 offset=33869
+<region> sample=4_Bb_2.flac pitch_keycenter=a#4 lokey=a4 hikey=a#4 seq_position=2 offset=28427
+<region> sample=5_C.flac pitch_keycenter=c5 lokey=b4 hikey=c5 offset=25222
+<region> sample=5_C_2.flac pitch_keycenter=c5 lokey=b4 hikey=c5 seq_position=2 offset=27690
+<region> sample=5_D.flac pitch_keycenter=d5 lokey=c#5 hikey=d5 offset=29180
+<region> sample=5_D_2.flac pitch_keycenter=d5 lokey=c#5 hikey=d5 seq_position=2 offset=31590
+<region> sample=5_E.flac pitch_keycenter=e5 lokey=d#5 hikey=e5 offset=21744
+<region> sample=5_E_2.flac pitch_keycenter=e5 lokey=d#5 hikey=e5 seq_position=2 offset=27652
+<region> sample=5_Gb.flac pitch_keycenter=f#5 lokey=f5 hikey=f#5 offset=32008
+<region> sample=5_Gb_2.flac pitch_keycenter=f#5 lokey=f5 hikey=f#5 seq_position=2 offset=25842
+<region> sample=5_Ab.flac pitch_keycenter=g#5 lokey=g5 hikey=g#5 offset=27411
+<region> sample=5_Ab_2.flac pitch_keycenter=g#5 lokey=g5 hikey=g#5 seq_position=2 offset=15909
+<region> sample=5_Bb.flac pitch_keycenter=a#5 lokey=a5 hikey=a#5 offset=20889
+<region> sample=5_Bb_2.flac pitch_keycenter=a#5 lokey=a5 hikey=a#5 seq_position=2 offset=14088
+<region> sample=6_C.flac pitch_keycenter=c6 lokey=b5 hikey=c6 offset=20388
+<region> sample=6_C_2.flac pitch_keycenter=c6 lokey=b5 hikey=c6 seq_position=2 offset=22284
+<region> sample=6_D.flac pitch_keycenter=d6 lokey=c#6 offset=21891
+<region> sample=6_D_2.flac pitch_keycenter=d6 lokey=c#6 seq_position=2 offset=24061
+
+<group> lokey=a1 hikey=b1 pitch_keycenter=a#1 seq_length=8 loop_mode=one_shot
+<region> sample=noise\chunk_hi_1.flac
+<region> sample=noise\chunk_hi_2.flac seq_position=2
+<region> sample=noise\chunk_hi_3.flac seq_position=3
+<region> sample=noise\chunk_hi_4.flac seq_position=4
+<region> sample=noise\chunk_hi_5.flac seq_position=5
+<region> sample=noise\chunk_hi_6.flac seq_position=6
+<region> sample=noise\chunk_hi_7.flac seq_position=7
+<region> sample=noise\chunk_hi_8.flac seq_position=8
+<group> lokey=f1 hikey=g#1 pitch_keycenter=f#1 loop_mode=one_shot seq_length=8
+<region> sample=noise\chunk_mid_1.flac
+<region> sample=noise\chunk_mid_2.flac seq_position=2
+<region> sample=noise\chunk_mid_3.flac seq_position=3
+<region> sample=noise\chunk_mid_4.flac seq_position=4
+<region> sample=noise\chunk_mid_5.flac seq_position=5
+<region> sample=noise\chunk_mid_6.flac seq_position=6
+<region> sample=noise\chunk_mid_7.flac seq_position=7
+<region> sample=noise\chunk_mid_8.flac seq_position=8
+<group> lokey=d1 hikey=e1 pitch_keycenter=d#1 loop_mode=one_shot seq_length=8
+<region> sample=noise\chunk_lo_1.flac
+<region> sample=noise\chunk_lo_2.flac seq_position=2
+<region> sample=noise\chunk_lo_3.flac seq_position=3
+<region> sample=noise\chunk_lo_4.flac seq_position=4
+<region> sample=noise\chunk_lo_5.flac seq_position=5
+<region> sample=noise\chunk_lo_6.flac seq_position=6
+<region> sample=noise\chunk_lo_7.flac seq_position=7
+<region> sample=noise\chunk_lo_8.flac seq_position=8

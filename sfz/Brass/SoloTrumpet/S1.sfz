@@ -1,0 +1,28 @@
+<control> default_path=Sustain\
+<region> sample=3_G.flac pitch_keycenter=g3 hikey=g3 lovel=100
+<region> sample=3_A.flac pitch_keycenter=a3 lokey=g#3 hikey=a3 lovel=100
+<region> sample=3_B.flac pitch_keycenter=b3 lokey=a#3 hikey=b3 lovel=100
+<region> sample=4_Db.flac pitch_keycenter=c#4 lokey=c4 hikey=d4 lovel=100
+<region> sample=4_F.flac pitch_keycenter=f4 lokey=d#4 hikey=f4 lovel=100
+<region> sample=4_Gb.flac pitch_keycenter=g4 lokey=f#4 hikey=g4 lovel=100
+<region> sample=4_A.flac pitch_keycenter=a4 lokey=g#4 hikey=a4 lovel=100
+<region> sample=4_B.flac pitch_keycenter=b4 lokey=a#4 hikey=b4 lovel=100
+<region> sample=5_Db.flac pitch_keycenter=c#5 lokey=c5 hikey=c#5 lovel=100
+<region> sample=5_Eb.flac pitch_keycenter=d#5 lokey=d5 hikey=e5 lovel=100
+<region> sample=5_F.flac pitch_keycenter=f5 lokey=e5 hikey=f#5 lovel=100
+<region> sample=5_A.flac pitch_keycenter=a5 lokey=g5 hikey=a#5 lovel=100
+<region> sample=6_C.flac pitch_keycenter=c6 lokey=b5 lovel=100
+<region> sample=3_Gb_p.flac pitch_keycenter=f#3 hikey=g3 hivel=99
+<region> sample=3_Bb_p.flac pitch_keycenter=a#3 lokey=g#3 hikey=a#3 hivel=99
+<region> sample=4_C_p.flac pitch_keycenter=c4 lokey=b3 hikey=c4 hivel=99
+<region> sample=4_D_p.flac pitch_keycenter=d4 lokey=c#4 hikey=d4 hivel=99
+<region> sample=4_E_p.flac pitch_keycenter=e4 lokey=d#4 hikey=f4 hivel=99
+<region> sample=4_Gb_p.flac pitch_keycenter=f#4 lokey=f#4 hikey=f#4 hivel=99
+<region> sample=4_Ab_p.flac pitch_keycenter=g#4 lokey=g4 hikey=g#4 hivel=99
+<region> sample=4_Bb_p.flac pitch_keycenter=a#4 lokey=a4 hikey=b4 hivel=99
+//<region> sample=5_C_p.flac pitch_keycenter=c5 loky=b4 hikey=c#5 hivel=99
+<region> sample=5_D_p.flac pitch_keycenter=d5 lokey=c5 hikey=d5 hivel=99
+<region> sample=5_E_p.flac pitch_keycenter=e5 lokey=d#5 hikey=e5 hivel=99
+<region> sample=5_Gb_p.flac pitch_keycenter=f#5 lokey=f5 hikey=g5 hivel=99
+<region> sample=5_A_p.flac pitch_keycenter=a5 lokey=g#5 hikey=a#5 hivel=99
+<region> sample=6_C_p.flac pitch_keycenter=c6 lokey=b5 hivel=99

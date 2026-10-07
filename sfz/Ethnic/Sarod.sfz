@@ -1,0 +1,42 @@
+<group>
+volume=3.85
+ampeg_sustain=0.001
+ampeg_release=0.828
+cutoff=11505.2
+pitcheg_decay=2.066
+pitcheg_sustain=0
+pitcheg_release=0.538
+fileg_decay=2.066
+fileg_sustain=0
+fileg_release=0.538
+pitchlfo_freq=4.252
+
+<region> sample=Samples\Sarod\Sarod Strum #1.flac
+lokey=36
+hikey=57
+pitch_keycenter=48
+ampeg_decay=8.102
+fileg_depth=3534
+
+<region> sample=Samples\Sarod\Sarod Strum #2.flac
+lokey=58
+hikey=69
+pitch_keycenter=60
+ampeg_decay=9.105
+fileg_depth=3534
+
+<region> sample=Samples\Sarod\Sarod Opn Strg C.flac
+lokey=70
+hikey=80
+pitch_keycenter=72
+ampeg_decay=7.639
+fileg_depth=3534
+
+<region> sample=Samples\Sarod\Sarod Str C5.flac
+lokey=81
+hikey=96
+pitch_keycenter=84
+ampeg_decay=5.38
+fileg_depth=3668
+
+

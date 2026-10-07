@@ -1,0 +1,15 @@
+// Sound Variation Controller (MIDI CC#70) = Sustain (0) or Vibrato (1)
+<group> ampeg_release=1.1 ampeg_attackcc67=.55 hicc70=2 //hicc70=1
+#include "S1"
+
+// Sound Variation = Tremulo (2)
+<group> ampeg_release=1.1 ampeg_attackcc67=.55 locc70=2 hicc70=2
+#include "T1"
+
+// Sound Variation = Legato (127) or Vibrato Legato (126)
+<group> ampeg_attack=.2 ampeg_release=1.1 locc70=126
+#include "S2"
+
+// Sound Variation = Pizzicato (3)
+<group> ampeg_release=1.1 locc70=3 hicc70=3
+#include "P1"

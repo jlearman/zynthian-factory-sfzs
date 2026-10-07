@@ -1,0 +1,23 @@
+<group>
+ampeg_decay=41.427
+ampeg_sustain=0.001
+ampeg_release=1.856
+fillfo_freq=3.001
+amplfo_freq=3.001
+
+<region> sample=Samples\Night Pads\JPC BASS 13.flac
+lokey=12
+hikey=61
+pitch_keycenter=42
+
+<region> sample=Samples\Night Pads\JPC BASS 23.flac
+lokey=62
+hikey=76
+pitch_keycenter=59
+
+<region> sample=Samples\Night Pads\JPC BASS 33.flac
+lokey=77
+hikey=127
+pitch_keycenter=73
+
+

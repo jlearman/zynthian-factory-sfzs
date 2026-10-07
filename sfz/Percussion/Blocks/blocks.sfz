@@ -1,0 +1,65 @@
+<group>
+lovel=100
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=6 ampeg_decay=6
+<region>
+sample=3_C_e.flac
+lokey=58 hikey=61 pitch_keycenter=60
+<region>
+sample=3_D_e.flac
+lokey=62 hikey=64 pitch_keycenter=62
+<region>
+sample=3_Gb_e.flac
+lokey=65 hikey=67 pitch_keycenter=66
+<region>
+sample=3_Bb_e.flac
+lokey=68 hikey=71 pitch_keycenter=70
+<region>
+sample=4_D_e.flac
+lokey=72 hikey=75 pitch_keycenter=74
+<region>
+sample=4_Gb_e.flac
+lokey=76 hikey=88 pitch_keycenter=78
+
+<group>
+lovel=65 hivel=99
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=6 ampeg_decay=6
+<region>
+sample=3_C_d.flac
+lokey=58 hikey=61 pitch_keycenter=60
+<region>
+sample=3_D_d.flac
+lokey=62 hikey=64 pitch_keycenter=62
+<region>
+sample=3_Gb_d.flac
+lokey=65 hikey=67 pitch_keycenter=66
+<region>
+sample=3_Bb_d.flac
+lokey=68 hikey=71 pitch_keycenter=70
+<region>
+sample=4_D_d.flac
+lokey=72 hikey=75 pitch_keycenter=74
+<region>
+sample=4_Gb_d.flac
+lokey=76 hikey=88 pitch_keycenter=78
+
+<group>
+hivel=64
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=6 ampeg_decay=6
+<region>
+sample=3_C_c.flac
+lokey=58 hikey=61 pitch_keycenter=60
+<region>
+sample=3_D_c.flac
+lokey=62 hikey=64 pitch_keycenter=62
+<region>
+sample=3_Gb_c.flac
+lokey=65 hikey=67 pitch_keycenter=66
+<region>
+sample=3_Bb_c.flac
+lokey=68 hikey=71 pitch_keycenter=70
+<region>
+sample=4_D_c.flac
+lokey=72 hikey=75 pitch_keycenter=74
+<region>
+sample=4_Gb_c.flac
+lokey=76 hikey=88 pitch_keycenter=78

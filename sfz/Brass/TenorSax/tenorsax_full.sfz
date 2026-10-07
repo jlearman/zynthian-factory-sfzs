@@ -1,0 +1,23 @@
+// Sound Variation Controller (MIDI CC#70) = Sustain (0) or Vibrato (1)
+<group> group=1 hicc70=1 lovel=64
+ampeg_release=.1 ampeg_attackcc67=.55
+#include "V1"
+<group> group=1 hicc70=1 hivel=63
+ampeg_release=.1 ampeg_attackcc67=.55
+#include "V2"
+// Sound Variation Controller (MIDI CC#70) = Legato (127) or Legato Vibrato (126)
+<group> group=1 locc70=126 lovel=64
+ampeg_attack=.05 ampeg_release=.1
+#include "V1l"
+<group> group=1 locc70=126 hivel=63
+ampeg_attack=.05 ampeg_release=.1
+#include "V2l"
+
+// MOD Wheel brings in growl
+<group> group=1 ampeg_release=.3 ampeg_attackcc67=.55 xfin_locc1=0 xfin_hicc1=127
+#include "G1"
+
+<group> trigger=release
+group=2 off_by=1
+loop_mode=one_shot ampeg_attack=.05    
+#include "R1"

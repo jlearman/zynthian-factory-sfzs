@@ -1,0 +1,581 @@
+// Sustained clean electric guitar.
+// Soft pedal selects hammer off.
+
+<control> default_path=Sustain\
+
+// Hi vel
+<group>
+	ampeg_decay=30.0 ampeg_sustain=0.001 ampeg_release=0.4
+	locc67=0 hicc67=63
+	lovel=100
+<region>
+	sample=2_E_f.flac
+	pitch_keycenter=e2 hikey=e2
+	ampeg_decay=30.0
+<region>
+	sample=2_Gb_f.flac
+	pitch_keycenter=f#2 lokey=f2 hikey=f#2
+	ampeg_decay=29.0
+<region>
+	sample=2_Ab_f.flac
+	pitch_keycenter=g#2 lokey=g2 hikey=g#2
+	ampeg_decay=28.0
+<region>
+	sample=2_Bb_f.flac
+	pitch_keycenter=a#2 lokey=a2 hikey=a#2
+	ampeg_decay=27.0
+<region>
+	sample=3_C_f.flac
+	pitch_keycenter=c3 lokey=b2 hikey=c3
+	ampeg_decay=26.0
+<region>
+	sample=3_D_f.flac
+	pitch_keycenter=d3 lokey=c#3 hikey=d3
+	ampeg_decay=25.0
+<region>
+	sample=3_E_f.flac
+	pitch_keycenter=e3 lokey=d#3 hikey=e3
+	ampeg_decay=24.0
+<region>
+	sample=3_Gb_f.flac
+	pitch_keycenter=f#3 lokey=f3 hikey=f#3
+	ampeg_decay=23.0
+<region>
+	sample=3_Ab_f.flac
+	pitch_keycenter=g#3 lokey=g3 hikey=a3
+	ampeg_decay=22.0
+<region>
+	sample=3_B_f.flac
+	pitch_keycenter=b3 lokey=a#3 hikey=c4
+	ampeg_decay=21
+<region>
+	sample=4_Eb_f.flac
+	pitch_keycenter=d#4 lokey=c#4 hikey=e4
+	ampeg_decay=18.6
+<region>
+	sample=4_Gb_f.flac
+	pitch_keycenter=f#4 lokey=f4 hikey=f#4
+	ampeg_decay=17.6
+<region>
+	sample=4_Ab_f.flac
+	pitch_keycenter=g#4 lokey=g4 hikey=g#4
+	ampeg_decay=16.8
+<region>
+	sample=4_Bb_f.flac
+	pitch_keycenter=a#4 lokey=a4 hikey=a#4
+	ampeg_decay=16.0
+<region>
+	sample=5_C_f.flac
+	pitch_keycenter=c5 lokey=b4 hikey=c5
+	ampeg_decay=15.0
+<region>
+	sample=5_D_f.flac
+	pitch_keycenter=d5 lokey=c#5 hikey=d5
+	ampeg_decay=13.8
+<region>
+	sample=5_E_f.flac
+	pitch_keycenter=e5 lokey=d#5 hikey=e5
+	ampeg_decay=13
+<region>
+	sample=5_Gb_f.flac
+	pitch_keycenter=f#5 lokey=f5 hikey=f#5
+	ampeg_decay=12
+<region>
+	sample=5_Ab_f.flac
+	pitch_keycenter=g#5 lokey=g5 hikey=g#5
+	ampeg_decay=11
+<region>
+	sample=5_Bb_f.flac
+	pitch_keycenter=a#5 lokey=a5 hikey=a#5
+	ampeg_decay=10.5
+<region>
+	sample=6_C_f.flac
+	pitch_keycenter=c6 lokey=b5
+	ampeg_decay=10.0
+
+// Hammer off, hi vel
+<group>
+	ampeg_decay=30.0 ampeg_sustain=0.001 ampeg_release=0.4
+	locc67=64
+	lovel=100
+<region>
+	sample=2_E_f.flac
+	pitch_keycenter=e2 hikey=e2
+	ampeg_decay=30.0
+	offset=39847
+<region>
+	sample=2_Gb_f.flac
+	pitch_keycenter=f#2 lokey=f2 hikey=f#2
+	ampeg_decay=29.0
+	offset=39768
+<region>
+	sample=2_Ab_f.flac
+	pitch_keycenter=g#2 lokey=g2 hikey=g#2
+	ampeg_decay=28.0
+	offset=34338
+<region>
+	sample=2_Bb_f.flac
+	pitch_keycenter=a#2 lokey=a2 hikey=a#2
+	ampeg_decay=27.0
+	offset=32478
+<region>
+	sample=3_C_f.flac
+	pitch_keycenter=c3 lokey=b2 hikey=c3
+	ampeg_decay=26.0
+	offset=26644
+<region>
+	sample=3_D_f.flac
+	pitch_keycenter=d3 lokey=c#3 hikey=d3
+	ampeg_decay=25.0
+	offset=28712
+<region>
+	sample=3_E_f.flac
+	pitch_keycenter=e3 lokey=d#3 hikey=e3
+	ampeg_decay=24.0
+	offset=28212
+<region>
+	sample=3_Gb_f.flac
+	pitch_keycenter=f#3 lokey=f3 hikey=f#3
+	ampeg_decay=23.0
+	offset=23056
+<region>
+	sample=3_Ab_f.flac
+	pitch_keycenter=g#3 lokey=g3 hikey=a3
+	ampeg_decay=22.0
+	offset=24985
+<region>
+	sample=3_B_f.flac
+	pitch_keycenter=b3 lokey=a#3 hikey=c4
+	ampeg_decay=21
+	offset=20338
+<region>
+	sample=4_Eb_f.flac
+	pitch_keycenter=d#4 lokey=c#4 hikey=e4
+	ampeg_decay=18.6
+	offset=21719
+<region>
+	sample=4_Gb_f.flac
+	pitch_keycenter=f#4 lokey=f4 hikey=f#4
+	ampeg_decay=17.6
+	offset=16542
+<region>
+	sample=4_Ab_f.flac
+	pitch_keycenter=g#4 lokey=g4 hikey=g#4
+	ampeg_decay=16.8
+	offset=16790
+<region>
+	sample=4_Bb_f.flac
+	pitch_keycenter=a#4 lokey=a4 hikey=a#4
+	ampeg_decay=16.0
+	offset=14532
+<region>
+	sample=5_C_f.flac
+	pitch_keycenter=c5 lokey=b4 hikey=c5
+	ampeg_decay=15.0
+	offset=17346
+<region>
+	sample=5_D_f.flac
+	pitch_keycenter=d5 lokey=c#5 hikey=d5
+	ampeg_decay=13.8
+	offset=15036
+<region>
+	sample=5_E_f.flac
+	pitch_keycenter=e5 lokey=d#5 hikey=e5
+	ampeg_decay=13
+	offset=12976
+<region>
+	sample=5_Gb_f.flac
+	pitch_keycenter=f#5 lokey=f5 hikey=f#5
+	ampeg_decay=12
+	offset=16389
+<region>
+	sample=5_Ab_f.flac
+	pitch_keycenter=g#5 lokey=g5 hikey=g#5
+	ampeg_decay=11
+	offset=13754
+<region>
+	sample=5_Bb_f.flac
+	pitch_keycenter=a#5 lokey=a5 hikey=a#5
+	ampeg_decay=10.5
+	offset=15014
+<region>
+	sample=6_C_f.flac
+	pitch_keycenter=c6 lokey=b5
+	ampeg_decay=10.0
+	offset=12154
+
+// Med vel
+<group>
+	ampeg_decay=30.0 ampeg_sustain=0.001 ampeg_release=0.4
+	hicc67=63
+	lovel=50 hivel=99
+<region>
+	sample=2_E_mf.flac
+	pitch_keycenter=e2 hikey=e2
+	ampeg_decay=30.0
+<region>
+	sample=2_Gb_mf.flac
+	pitch_keycenter=f#2 lokey=f2 hikey=f#2
+	ampeg_decay=29.0
+<region>
+	sample=2_Ab_mf.flac
+	pitch_keycenter=g#2 lokey=g2 hikey=g#2
+	ampeg_decay=28.0
+<region>
+	sample=2_Bb_mf.flac
+	pitch_keycenter=a#2 lokey=a2 hikey=a#2
+	ampeg_decay=27.0
+<region>
+	sample=3_C_mf.flac
+	pitch_keycenter=c3 lokey=b2 hikey=c3
+	ampeg_decay=26.0
+<region>
+	sample=3_D_mf.flac
+	pitch_keycenter=d3 lokey=c#3 hikey=d3
+	ampeg_decay=25.0
+<region>
+	sample=3_E_mf.flac
+	pitch_keycenter=e3 lokey=d#3 hikey=f3
+	ampeg_decay=24.0
+<region>
+	sample=3_Ab_mf.flac
+	pitch_keycenter=g#3 lokey=f#3 hikey=g#3
+	ampeg_decay=22.0
+<region>
+	sample=3_Bb_mf.flac
+	pitch_keycenter=a#3 lokey=a3 hikey=c4
+	ampeg_decay=21
+<region>
+	sample=4_C_mf.flac
+	pitch_keycenter=c4 lokey=b3 hikey=c4
+	ampeg_decay=20.5
+<region>
+	sample=4_D_mf.flac
+	pitch_keycenter=d4 lokey=c#4 hikey=d4
+	ampeg_decay=20
+<region>
+	sample=4_E_mf.flac
+	pitch_keycenter=e4 lokey=d#4 hikey=f4
+	ampeg_decay=18.6
+<region>
+	sample=4_Ab_mf.flac
+	pitch_keycenter=g#4 lokey=f#4 hikey=g#4
+	ampeg_decay=16.8
+<region>
+	sample=4_Bb_mf.flac
+	pitch_keycenter=a#4 lokey=a4 hikey=a#4
+	ampeg_decay=16.0
+<region>
+	sample=5_C_mf.flac
+	pitch_keycenter=c5 lokey=b4 hikey=c#5
+	ampeg_decay=15.0
+<region>
+	sample=5_E_mf.flac
+	pitch_keycenter=e5 lokey=d5 hikey=e5
+	ampeg_decay=13.5
+<region>
+	sample=5_Gb_mf.flac
+	pitch_keycenter=f#5 lokey=f5 hikey=f#5
+	ampeg_decay=12
+<region>
+	sample=5_Ab_mf.flac
+	pitch_keycenter=g#5 lokey=g5 hikey=a#5
+	ampeg_decay=11
+<region>
+	sample=6_Db_mf.flac
+	pitch_keycenter=c#6 lokey=b5
+	ampeg_decay=10.0
+
+// Hammer off, mid vel
+<group>
+	ampeg_decay=30.0 ampeg_sustain=0.001 ampeg_release=0.4
+	locc67=64
+	lovel=50 hivel=99
+<region>
+	sample=2_E_mf.flac
+	pitch_keycenter=e2 hikey=e2
+	ampeg_decay=30.0
+	offset=41980
+<region>
+	sample=2_Gb_mf.flac
+	pitch_keycenter=f#2 lokey=f2 hikey=f#2
+	ampeg_decay=29.0
+	offset=40656
+<region>
+	sample=2_Ab_mf.flac
+	pitch_keycenter=g#2 lokey=g2 hikey=g#2
+	ampeg_decay=28.0
+	offset=36016
+<region>
+	sample=2_Bb_mf.flac
+	pitch_keycenter=a#2 lokey=a2 hikey=a#2
+	ampeg_decay=27.0
+	offset=39425
+<region>
+	sample=3_C_mf.flac
+	pitch_keycenter=c3 lokey=b2 hikey=c3
+	ampeg_decay=26.0
+	offset=39318
+<region>
+	sample=3_D_mf.flac
+	pitch_keycenter=d3 lokey=c#3 hikey=d3
+	ampeg_decay=25.0
+	offset=37994
+<region>
+	sample=3_E_mf.flac
+	pitch_keycenter=e3 lokey=d#3 hikey=f3
+	ampeg_decay=24.0
+	offset=30208
+<region>
+	sample=3_Ab_mf.flac
+	pitch_keycenter=g#3 lokey=f#3 hikey=g#3
+	ampeg_decay=22.0
+	offset=35873
+<region>
+	sample=3_Bb_mf.flac
+	pitch_keycenter=a#3 lokey=a3 hikey=c4
+	ampeg_decay=21
+	offset=33696
+<region>
+	sample=4_C_mf.flac
+	pitch_keycenter=c4 lokey=b3 hikey=c4
+	ampeg_decay=20.5
+	offset=29126
+<region>
+	sample=4_D_mf.flac
+	pitch_keycenter=d4 lokey=c#4 hikey=d4
+	ampeg_decay=20
+	offset=25214
+<region>
+	sample=4_E_mf.flac
+	pitch_keycenter=e4 lokey=d#4 hikey=f4
+	ampeg_decay=18.6
+	offset=31241
+<region>
+	sample=4_Ab_mf.flac
+	pitch_keycenter=g#4 lokey=f#4 hikey=g#4
+	ampeg_decay=16.8
+	offset=24082
+<region>
+	sample=4_Bb_mf.flac
+	pitch_keycenter=a#4 lokey=a4 hikey=a#4
+	ampeg_decay=16.0
+	offset=27357
+<region>
+	sample=5_C_mf.flac
+	pitch_keycenter=c5 lokey=b4 hikey=c#5
+	ampeg_decay=15.0
+	offset=18340
+<region>
+	sample=5_E_mf.flac
+	pitch_keycenter=e5 lokey=d5 hikey=e5
+	ampeg_decay=13.5
+	offset=17073
+<region>
+	sample=5_Gb_mf.flac
+	pitch_keycenter=f#5 lokey=f5 hikey=f#5
+	ampeg_decay=12
+	offset=25337
+<region>
+	sample=5_Ab_mf.flac
+	pitch_keycenter=g#5 lokey=g5 hikey=a#5
+	ampeg_decay=11
+	offset=20093
+<region>
+	sample=6_Db_mf.flac
+	pitch_keycenter=c#6 lokey=b5
+	ampeg_decay=10.0
+	offset=23810
+
+// Lo vel
+<group>
+	ampeg_decay=30.0 ampeg_sustain=0.001 ampeg_release=0.4
+	hicc67=63
+	hivel=49
+<region>
+	sample=2_E_p.flac
+	pitch_keycenter=e2 hikey=e2
+	ampeg_decay=30.0
+<region>
+	sample=2_Gb_p.flac
+	pitch_keycenter=f#2 lokey=f2 hikey=f#2
+	ampeg_decay=29.0
+<region>
+	sample=2_Ab_p.flac
+	pitch_keycenter=g#2 lokey=g2 hikey=g#2
+	ampeg_decay=28.0
+<region>
+	sample=2_Bb_p.flac
+	pitch_keycenter=a#2 lokey=a2 hikey=a#2
+	ampeg_decay=27.0
+<region>
+	sample=3_C_p.flac
+	pitch_keycenter=c3 lokey=b2 hikey=c3
+	ampeg_decay=26.0
+<region>
+	sample=3_D_p.flac
+	pitch_keycenter=d3 lokey=c#3 hikey=d3
+	ampeg_decay=25.0
+<region>
+	sample=3_E_p.flac
+	pitch_keycenter=e3 lokey=d#3 hikey=f3
+	ampeg_decay=24.0
+<region>
+	sample=3_Ab_p.flac
+	pitch_keycenter=g#3 lokey=f#3 hikey=g#3
+	ampeg_decay=22.0
+<region>
+	sample=3_Bb_p.flac
+	pitch_keycenter=a#3 lokey=a3 hikey=c4
+	ampeg_decay=21
+<region>
+	sample=4_C_p.flac
+	pitch_keycenter=c4 lokey=b3 hikey=c4
+	ampeg_decay=20.5
+<region>
+	sample=4_D_p.flac
+	pitch_keycenter=d4 lokey=c#4 hikey=d4
+	ampeg_decay=20
+<region>
+	sample=4_E_p.flac
+	pitch_keycenter=e4 lokey=d#4 hikey=e4
+	ampeg_decay=18.6
+<region>
+	sample=4_Gb_p.flac
+	pitch_keycenter=f#4 lokey=f4 hikey=g4
+	ampeg_decay=17.6
+<region>
+	sample=4_Bb_p.flac
+	pitch_keycenter=a#4 lokey=g#4 hikey=a#4
+	ampeg_decay=16.0
+<region>
+	sample=5_C_p.flac
+	pitch_keycenter=c5 lokey=b4 hikey=c#5
+	ampeg_decay=15.0
+<region>
+	sample=5_E_p.flac
+	pitch_keycenter=e5 lokey=d5 hikey=e5
+	ampeg_decay=13.5
+<region>
+	sample=5_Gb_p.flac
+	pitch_keycenter=f#5 lokey=f5 hikey=f#5
+	ampeg_decay=12
+<region>
+	sample=5_Ab_p.flac
+	pitch_keycenter=g#5 lokey=g5 hikey=g#5
+	ampeg_decay=11
+<region>
+	sample=5_Bb_p.flac
+	pitch_keycenter=a#5 lokey=a5 hikey=b5
+	ampeg_decay=10.5
+<region>
+	sample=6_Db_mf.flac
+	pitch_keycenter=c#6 lokey=c5
+	ampeg_decay=10.0
+
+
+// Lo vel, hammer off
+<group>
+	ampeg_decay=30.0 ampeg_sustain=0.001 ampeg_release=0.4
+	locc67=64
+	hivel=49
+<region>
+	sample=2_E_p.flac
+	pitch_keycenter=e2 hikey=e2
+	ampeg_decay=30.0
+	offset=39858
+<region>
+	sample=2_Gb_p.flac
+	pitch_keycenter=f#2 lokey=f2 hikey=f#2
+	ampeg_decay=29.0
+	offset=35418
+<region>
+	sample=2_Ab_p.flac
+	pitch_keycenter=g#2 lokey=g2 hikey=g#2
+	ampeg_decay=28.0
+	offset=34304
+<region>
+	sample=2_Bb_p.flac
+	pitch_keycenter=a#2 lokey=a2 hikey=a#2
+	ampeg_decay=27.0
+	offset=43455
+<region>
+	sample=3_C_p.flac
+	pitch_keycenter=c3 lokey=b2 hikey=c3
+	ampeg_decay=26.0
+	offset=32286
+<region>
+	sample=3_D_p.flac
+	pitch_keycenter=d3 lokey=c#3 hikey=d3
+	ampeg_decay=25.0
+	offset=40212
+<region>
+	sample=3_E_p.flac
+	pitch_keycenter=e3 lokey=d#3 hikey=f3
+	ampeg_decay=24.0
+	offset=34729
+<region>
+	sample=3_Ab_p.flac
+	pitch_keycenter=g#3 lokey=f#3 hikey=g#3
+	ampeg_decay=22.0
+	offset=36383
+<region>
+	sample=3_Bb_p.flac
+	pitch_keycenter=a#3 lokey=a3 hikey=c4
+	ampeg_decay=21
+	offset=38656
+<region>
+	sample=4_C_p.flac
+	pitch_keycenter=c4 lokey=b3 hikey=c4
+	ampeg_decay=20.5
+	offset=39894
+<region>
+	sample=4_D_p.flac
+	pitch_keycenter=d4 lokey=c#4 hikey=d4
+	ampeg_decay=20
+	offset=39840
+<region>
+	sample=4_E_p.flac
+	pitch_keycenter=e4 lokey=d#4 hikey=e4
+	ampeg_decay=18.6
+	offset=32209
+<region>
+	sample=4_Gb_p.flac
+	pitch_keycenter=f#4 lokey=f4 hikey=g4
+	ampeg_decay=17.6
+	offset=21496
+<region>
+	sample=4_Bb_p.flac
+	pitch_keycenter=a#4 lokey=g#4 hikey=a#4
+	ampeg_decay=16.0
+	offset=23626
+<region>
+	sample=5_C_p.flac
+	pitch_keycenter=c5 lokey=b4 hikey=c#5
+	ampeg_decay=15.0
+	offset=22223
+<region>
+	sample=5_E_p.flac
+	pitch_keycenter=e5 lokey=d5 hikey=e5
+	ampeg_decay=13.5
+	offset=16594
+<region>
+	sample=5_Gb_p.flac
+	pitch_keycenter=f#5 lokey=f5 hikey=f#5
+	ampeg_decay=12
+	offset=18299
+<region>
+	sample=5_Ab_p.flac
+	pitch_keycenter=g#5 lokey=g5 hikey=g#5
+	ampeg_decay=11
+	offset=16236
+<region>
+	sample=5_Bb_p.flac
+	pitch_keycenter=a#5 lokey=a5 hikey=b5
+	ampeg_decay=10.5
+	offset=14736
+<region>
+	sample=6_Db_mf.flac
+	pitch_keycenter=c#6 lokey=c5
+	ampeg_decay=10.0
+	offset=23810

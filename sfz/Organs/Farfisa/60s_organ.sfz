@@ -1,0 +1,110 @@
+<control>
+	set_cc1=0
+	set_cc11=127
+	set_cc64=0
+
+<group>
+	ampeg_hold=100
+	ampeg_release=0.01
+	pan=-100
+<region>
+	sample=3_Ab.flac
+	pitch_keycenter=56
+	lokey=0 hikey=57
+<region>
+	sample=4_C.flac
+	pitch_keycenter=60
+	lokey=58 hikey=61
+<region>
+	sample=4_Eb.flac
+	pitch_keycenter=63
+	lokey=62 hikey=64
+<region>
+	sample=4_Gb.flac
+	pitch_keycenter=66
+	lokey=65 hikey=67
+<region>
+	sample=4_A.flac
+	pitch_keycenter=69
+	lokey=68 hikey=70
+<region>
+	sample=5_C.flac
+	pitch_keycenter=72
+	lokey=71 hikey=73
+<region>
+	sample=5_Eb.flac
+	pitch_keycenter=75
+	lokey=74 hikey=76
+<region>
+	sample=5_Gb.flac
+	pitch_keycenter=78
+	lokey=77 hikey=79
+<region>
+	sample=5_A.flac
+	pitch_keycenter=81
+	lokey=80 hikey=82
+<region>
+	sample=6_C.flac
+	pitch_keycenter=84
+	lokey=83 hikey=85
+<region>
+	sample=6_E.flac
+	pitch_keycenter=88
+	lokey=86 hikey=90
+<region>
+	sample=6_A.flac
+	pitch_keycenter=93
+	lokey=91 hikey=127
+
+<group>
+	ampeg_hold=100
+	ampeg_release=0.01
+	pan=100
+<region>
+	sample=3_Ab_b.flac
+	pitch_keycenter=56
+	lokey=0 hikey=57
+<region>
+	sample=4_C_b.flac
+	pitch_keycenter=60
+	lokey=58 hikey=61
+<region>
+	sample=4_Eb_b.flac
+	pitch_keycenter=63
+	lokey=62 hikey=64
+<region>
+	sample=4_Gb_b.flac
+	pitch_keycenter=66
+	lokey=65 hikey=67
+<region>
+	sample=4_A_b.flac
+	pitch_keycenter=69
+	lokey=68 hikey=70
+<region>
+	sample=5_C_b.flac
+	pitch_keycenter=72
+	lokey=71 hikey=73
+<region>
+	sample=5_Eb_b.flac
+	pitch_keycenter=75
+	lokey=74 hikey=76
+<region>
+	sample=5_Gb_b.flac
+	pitch_keycenter=78
+	lokey=77 hikey=79
+<region>
+	sample=5_A_b.flac
+	pitch_keycenter=81
+	lokey=80 hikey=82
+<region>
+	sample=6_C_b.flac
+	pitch_keycenter=84
+	lokey=83 hikey=85
+<region>
+	sample=6_E_b.flac
+	pitch_keycenter=88
+	lokey=86 hikey=90
+<region>
+	sample=6_A_b.flac
+	pitch_keycenter=93
+	lokey=91 hikey=127

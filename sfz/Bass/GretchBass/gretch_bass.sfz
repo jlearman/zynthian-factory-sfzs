@@ -1,0 +1,175 @@
+<group>
+ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.4
+loop_mode=loop_continuous
+seq_length=4
+
+<region> sample=28-v01.flac hikey=28 pitch_keycenter=28
+ampeg_hold=9.00047
+<region> sample=28-v02.flac hikey=28 pitch_keycenter=28 seq_position=2
+ampeg_hold=9.00047
+<region> sample=28-v03.flac hikey=28 pitch_keycenter=28 seq_position=3
+ampeg_hold=9.00047
+<region> sample=28-v04.flac hikey=28 pitch_keycenter=28 seq_position=4
+ampeg_hold=9.00047
+
+<region> sample=30-v01.flac lokey=29 hikey=32 pitch_keycenter=30
+ampeg_hold=9
+<region> sample=30-v02.flac lokey=29 hikey=32 pitch_keycenter=30 seq_position=2
+ampeg_hold=9
+<region> sample=30-v03.flac lokey=29 hikey=32 pitch_keycenter=30 seq_position=3
+ampeg_hold=9
+<region> sample=30-v04.flac lokey=29 hikey=32 pitch_keycenter=30 seq_position=4
+ampeg_hold=9
+
+<region> sample=35-v01.flac lokey=33 hikey=35 pitch_keycenter=35
+ampeg_hold=8.6
+<region> sample=35-v02.flac lokey=33 hikey=35 pitch_keycenter=35 seq_position=2
+ampeg_hold=8.6
+<region> sample=35-v03.flac lokey=33 hikey=35 pitch_keycenter=35 seq_position=3
+ampeg_hold=8.6
+<region> sample=35-v04.flac lokey=33 hikey=35 pitch_keycenter=35 seq_position=4
+ampeg_hold=8.6
+
+<region> sample=37-v01.flac lokey=36 hikey=37 pitch_keycenter=37
+ampeg_hold=8.1
+<region> sample=37-v02.flac lokey=36 hikey=37 pitch_keycenter=37 seq_position=2
+ampeg_hold=8.1
+<region> sample=37-v03.flac lokey=36 hikey=37 pitch_keycenter=37 seq_position=3
+ampeg_hold=8.1
+<region> sample=37-v04.flac lokey=36 hikey=37 pitch_keycenter=37 seq_position=4
+ampeg_hold=8.1
+
+<region> sample=39-v01.flac lokey=38 hikey=39 pitch_keycenter=39
+ampeg_hold=7.8
+<region> sample=39-v02.flac lokey=38 hikey=39 pitch_keycenter=39 seq_position=2
+ampeg_hold=7.8
+<region> sample=39-v03.flac lokey=38 hikey=39 pitch_keycenter=39 seq_position=3
+ampeg_hold=7.8
+<region> sample=39-v04.flac lokey=38 hikey=39 pitch_keycenter=39 seq_position=4
+ampeg_hold=7.8
+
+<region> sample=41-v01.flac lokey=40 hikey=41 pitch_keycenter=41
+ampeg_hold=7.1
+<region> sample=41-v02.flac lokey=40 hikey=41 pitch_keycenter=41 seq_position=2
+ampeg_hold=7.1
+<region> sample=41-v03.flac lokey=40 hikey=41 pitch_keycenter=41 seq_position=3
+ampeg_hold=7.1
+<region> sample=41-v04.flac lokey=40 hikey=41 pitch_keycenter=41 seq_position=4
+ampeg_hold=7.1
+
+<region> sample=43-v01.flac lokey=42 hikey=43 pitch_keycenter=43
+ampeg_hold=6.7
+<region> sample=43-v02.flac lokey=42 hikey=43 pitch_keycenter=43 seq_position=2
+ampeg_hold=6.7
+<region> sample=43-v03.flac lokey=42 hikey=43 pitch_keycenter=43 seq_position=3
+ampeg_hold=6.7
+<region> sample=43-v04.flac lokey=42 hikey=43 pitch_keycenter=43 seq_position=4
+ampeg_hold=6.7
+
+<region> sample=44-v01.flac key=44
+ampeg_hold=6.5
+<region> sample=44-v02.flac key=44 seq_position=2
+ampeg_hold=6.5
+<region> sample=44-v03.flac key=44 seq_position=3
+ampeg_hold=6.5
+<region> sample=44-v04.flac key=44 seq_position=4
+ampeg_hold=6.5
+
+<region> sample=45-v01.flac key=45
+ampeg_hold=6.3
+<region> sample=45-v02.flac key=45 seq_position=2
+ampeg_hold=6.3
+<region> sample=45-v03.flac key=45 seq_position=3
+ampeg_hold=6.3
+<region> sample=45-v04.flac key=45 seq_position=4
+ampeg_hold=6.3
+
+<region> sample=47-v01.flac lokey=46 hikey=47 pitch_keycenter=47
+ampeg_hold=6.2
+<region> sample=47-v02.flac lokey=46 hikey=47 pitch_keycenter=47 seq_position=2
+ampeg_hold=6.2
+<region> sample=47-v03.flac lokey=46 hikey=47 pitch_keycenter=47 seq_position=3
+ampeg_hold=6.2
+<region> sample=47-v04.flac lokey=46 hikey=47 pitch_keycenter=47 seq_position=4
+ampeg_hold=6.2
+
+<region> sample=48-v01.flac key=48
+ampeg_hold=6
+<region> sample=48-v02.flac key=48 seq_position=2
+ampeg_hold=6
+<region> sample=48-v03.flac key=48 seq_position=3
+ampeg_hold=6
+<region> sample=48-v04.flac key=48 seq_position=4
+ampeg_hold=6
+
+<region> sample=49-v01.flac key=49
+ampeg_hold=5.7
+<region> sample=49-v02.flac key=49 seq_position=2
+ampeg_hold=5.7
+<region> sample=49-v03.flac key=49 seq_position=3
+ampeg_hold=5.7
+<region> sample=49-v04.flac key=49 seq_position=4
+ampeg_hold=5.7
+
+<region> sample=50-v01.flac key=50
+ampeg_hold=5.5
+<region> sample=50-v02.flac key=50 seq_position=2
+ampeg_hold=5.5
+<region> sample=50-v03.flac key=50 seq_position=3
+ampeg_hold=5.5
+<region> sample=50-v04.flac key=50 seq_position=4
+ampeg_hold=5.5
+
+<region> sample=52-v01.flac lokey=51 hikey=52 pitch_keycenter=52
+ampeg_hold=5.3
+<region> sample=52-v02.flac lokey=51 hikey=52 pitch_keycenter=52 seq_position=2
+ampeg_hold=5.3
+<region> sample=52-v03.flac lokey=51 hikey=52 pitch_keycenter=52 seq_position=3
+ampeg_hold=5.3
+<region> sample=52-v04.flac lokey=51 hikey=52 pitch_keycenter=52 seq_position=4
+ampeg_hold=5.3
+
+<region> sample=54-v01.flac lokey=53 hikey=54 pitch_keycenter=54
+ampeg_hold=5.1
+<region> sample=54-v02.flac lokey=53 hikey=54 pitch_keycenter=54 seq_position=2
+ampeg_hold=5.1
+<region> sample=54-v03.flac lokey=53 hikey=54 pitch_keycenter=54 seq_position=3
+ampeg_hold=5.1
+<region> sample=54-v04.flac lokey=53 hikey=54 pitch_keycenter=54 seq_position=4
+ampeg_hold=5.1
+
+<region> sample=55-v01.flac key=55
+ampeg_hold=5
+<region> sample=55-v02.flac key=55 seq_position=2
+ampeg_hold=5
+<region> sample=55-v03.flac key=55 seq_position=3
+ampeg_hold=5
+<region> sample=55-v04.flac key=55 seq_position=4
+ampeg_hold=5
+
+<region> sample=57-v01.flac lokey=56 hikey=57 pitch_keycenter=57
+ampeg_hold=4.8
+<region> sample=57-v02.flac lokey=56 hikey=57 pitch_keycenter=57 seq_position=2
+ampeg_hold=4.8
+<region> sample=57-v03.flac lokey=56 hikey=57 pitch_keycenter=57 seq_position=3
+ampeg_hold=4.8
+<region> sample=57-v04.flac lokey=56 hikey=57 pitch_keycenter=57 seq_position=4
+ampeg_hold=4.8
+
+<region> sample=59-v01.flac lokey=58 hikey=59 pitch_keycenter=59
+ampeg_hold=4.1
+<region> sample=59-v02.flac lokey=58 hikey=59 pitch_keycenter=59 seq_position=2
+ampeg_hold=4.1
+<region> sample=59-v03.flac lokey=58 hikey=59 pitch_keycenter=59 seq_position=3
+ampeg_hold=4.1
+<region> sample=59-v04.flac lokey=58 hikey=59 pitch_keycenter=59 seq_position=4
+ampeg_hold=4.1
+
+<region> sample=60-v01.flac lokey=60 pitch_keycenter=60
+ampeg_hold=4
+<region> sample=60-v02.flac lokey=60 pitch_keycenter=60 seq_position=2
+ampeg_hold=4
+<region> sample=60-v03.flac lokey=60 pitch_keycenter=60 seq_position=3
+ampeg_hold=4
+<region> sample=60-v04.flac lokey=60 pitch_keycenter=60 seq_position=4
+ampeg_hold=4

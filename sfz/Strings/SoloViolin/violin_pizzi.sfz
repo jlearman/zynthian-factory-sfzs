@@ -1,0 +1,87 @@
+<control> default_path=Pizzicato\
+<group> hicc1=10 ampeg_release=0.4
+<region> sample=3_G.flac hikey=55 pitch_keycenter=55
+<region> sample=3_Ab.flac key=56
+<region> sample=3_A.flac key=57
+<region> sample=3_Bb.flac key=58
+<region> sample=3_B.flac key=59
+<region> sample=4_C.flac key=60
+<region> sample=4_Db.flac key=61
+<region> sample=4_D.flac key=62
+<region> sample=4_Eb.flac key=63
+<region> sample=4_E.flac key=64
+<region> sample=4_F.flac key=65
+<region> sample=4_Gb.flac key=66
+<region> sample=4_G.flac key=67
+<region> sample=4_Ab.flac key=68
+<region> sample=4_A.flac key=69
+<region> sample=4_Bb.flac key=70
+<region> sample=4_B.flac key=71
+<region> sample=5_C.flac key=72
+<region> sample=5_Db.flac key=73
+<region> sample=5_D.flac key=74
+<region> sample=5_Eb.flac key=75
+<region> sample=5_E.flac key=76
+<region> sample=5_F.flac key=77
+<region> sample=5_Gb.flac key=78
+<region> sample=5_G.flac key=79
+<region> sample=5_Ab.flac key=80
+<region> sample=5_A.flac key=81
+<region> sample=5_Bb.flac key=82
+<region> sample=5_B.flac key=83
+<region> sample=6_C.flac key=84
+<region> sample=6_Db.flac key=85
+<region> sample=6_D.flac key=86
+<region> sample=6_Eb.flac key=87
+<region> sample=6_E.flac key=88
+<region> sample=6_F.flac key=89
+<region> sample=6_Gb.flac key=90
+<region> sample=6_G.flac key=91
+<region> sample=6_Ab.flac key=92
+<region> sample=6_A.flac key=93
+<region> sample=6_Bb.flac key=94
+<region> sample=6_B.flac lokey=95 pitch_keycenter=95
+
+<control> default_path=PizzicatoVib\
+<group> locc1=11 ampeg_release=0.4
+<region> sample=3_G.flac hikey=55 pitch_keycenter=55
+<region> sample=3_Ab.flac key=56
+<region> sample=3_A.flac key=57
+<region> sample=3_Bb.flac key=58
+<region> sample=3_B.flac key=59
+<region> sample=4_C.flac key=60
+<region> sample=4_Db.flac key=61
+<region> sample=4_D.flac key=62
+<region> sample=4_Eb.flac key=63
+<region> sample=4_E.flac key=64
+<region> sample=4_F.flac key=65
+<region> sample=4_Gb.flac key=66
+<region> sample=4_G.flac key=67
+<region> sample=4_Ab.flac key=68
+<region> sample=4_A.flac key=69
+<region> sample=4_Bb.flac key=70
+<region> sample=4_B.flac key=71
+<region> sample=5_C.flac key=72
+<region> sample=5_Db.flac key=73
+<region> sample=5_D.flac key=74
+<region> sample=5_Eb.flac key=75
+<region> sample=5_E.flac key=76
+<region> sample=5_F.flac key=77
+<region> sample=5_Gb.flac key=78
+<region> sample=5_G.flac key=79
+<region> sample=5_Ab.flac key=80
+<region> sample=5_A.flac key=81
+<region> sample=5_Bb.flac key=82
+<region> sample=5_B.flac key=83
+<region> sample=6_C.flac key=84
+<region> sample=6_Db.flac key=85
+<region> sample=6_D.flac key=86
+<region> sample=6_Eb.flac key=87
+<region> sample=6_E.flac key=88
+<region> sample=6_F.flac key=89
+<region> sample=6_Gb.flac key=90
+<region> sample=6_G.flac key=91
+<region> sample=6_Ab.flac key=92
+<region> sample=6_A.flac key=93
+<region> sample=6_Bb.flac key=94
+<region> sample=6_B.flac lokey=95 pitch_keycenter=95

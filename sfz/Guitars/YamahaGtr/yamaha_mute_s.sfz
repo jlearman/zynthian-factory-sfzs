@@ -1,0 +1,572 @@
+// Stereo clean muted electric guitar.
+
+<control>
+	set_cc1=0
+	set_cc11=127
+	set_cc64=0
+
+<group>
+	ampeg_sustain=0.001
+	ampeg_release=0.4
+	loop_mode=loop_continuous
+	seq_length=4
+	pan=0
+<region>
+	lokey=0 hikey=42
+	sample=00_Mute_1.flac
+	pitch_keycenter=40
+	ampeg_decay=24
+<region>
+	seq_position=2
+	lokey=0 hikey=42
+	sample=00_Mute_2.flac
+	pitch_keycenter=40
+	ampeg_decay=24
+<region>
+	seq_position=3
+	lokey=0 hikey=42
+	sample=00_Mute_3.flac
+	pitch_keycenter=40
+	ampeg_decay=24
+<region>
+	seq_position=4
+	lokey=0 hikey=42
+	sample=00_Mute_4.flac
+	pitch_keycenter=40
+	ampeg_decay=24
+<region>
+	lokey=43 hikey=46
+	sample=04_Mute_1.flac
+	pitch_keycenter=44
+	ampeg_decay=20
+<region>
+	seq_position=2
+	lokey=43 hikey=46
+	sample=04_Mute_2.flac
+	pitch_keycenter=44
+	ampeg_decay=20
+<region>
+	seq_position=3
+	lokey=43 hikey=46
+	sample=04_Mute_3.flac
+	pitch_keycenter=44
+	ampeg_decay=20
+<region>
+	seq_position=4
+	lokey=43 hikey=46
+	sample=04_Mute_4.flac
+	pitch_keycenter=44
+	ampeg_decay=20
+<region>
+	lokey=47 hikey=50
+	sample=08_Mute_1.flac
+	pitch_keycenter=48
+	ampeg_decay=13
+<region>
+	seq_position=2
+	lokey=47 hikey=50
+	sample=08_Mute_2.flac
+	pitch_keycenter=48
+	ampeg_decay=13
+<region>
+	seq_position=3
+	lokey=47 hikey=50
+	sample=08_Mute_3.flac
+	pitch_keycenter=48
+	ampeg_decay=13
+<region>
+	seq_position=4
+	lokey=47 hikey=50
+	sample=08_Mute_4.flac
+	pitch_keycenter=48
+	ampeg_decay=13
+<region>
+	lokey=51 hikey=54
+	sample=12_Mute_1.flac
+	pitch_keycenter=52
+	ampeg_decay=8
+<region>
+	seq_position=2
+	lokey=51 hikey=54
+	sample=12_Mute_2.flac
+	pitch_keycenter=52
+	ampeg_decay=8
+<region>
+	seq_position=3
+	lokey=51 hikey=54
+	sample=12_Mute_3.flac
+	pitch_keycenter=52
+	ampeg_decay=8
+<region>
+	seq_position=4
+	lokey=51 hikey=54
+	sample=12_Mute_4.flac
+	pitch_keycenter=52
+	ampeg_decay=8
+<region>
+	lokey=55 hikey=58
+	sample=16_Mute_1.flac
+	pitch_keycenter=56
+	ampeg_decay=5
+<region>
+	seq_position=2
+	lokey=55 hikey=58
+	sample=16_Mute_2.flac
+	pitch_keycenter=56
+	ampeg_decay=5
+<region>
+	seq_position=3
+	lokey=55 hikey=58
+	sample=16_Mute_3.flac
+	pitch_keycenter=56
+	ampeg_decay=5
+<region>
+	seq_position=4
+	lokey=55 hikey=58
+	sample=16_Mute_4.flac
+	pitch_keycenter=56
+	ampeg_decay=5
+<region>
+	lokey=59 hikey=62
+	sample=20_Mute_1.flac
+	pitch_keycenter=60
+	ampeg_decay=4
+<region>
+	seq_position=2
+	lokey=59 hikey=62
+	sample=20_Mute_2.flac
+	pitch_keycenter=60
+	ampeg_decay=4
+<region>
+	seq_position=3
+	lokey=59 hikey=62
+	sample=20_Mute_3.flac
+	pitch_keycenter=60
+	ampeg_decay=4
+<region>
+	seq_position=4
+	lokey=59 hikey=62
+	sample=20_Mute_4.flac
+	pitch_keycenter=60
+	ampeg_decay=4
+<region>
+	lokey=63 hikey=66
+	sample=24_Mute_1.flac
+	pitch_keycenter=64
+	ampeg_decay=2.2
+<region>
+	seq_position=2
+	lokey=63 hikey=66
+	sample=24_Mute_2.flac
+	pitch_keycenter=64
+	ampeg_decay=2.2
+<region>
+	seq_position=3
+	lokey=63 hikey=66
+	sample=24_Mute_3.flac
+	pitch_keycenter=64
+	ampeg_decay=2.2
+<region>
+	seq_position=4
+	lokey=63 hikey=66
+	sample=24_Mute_4.flac
+	pitch_keycenter=64
+	ampeg_decay=2.2
+<region>
+	lokey=67 hikey=70
+	sample=28_Mute_1.flac
+	pitch_keycenter=68
+	ampeg_decay=2.2
+<region>
+	seq_position=2
+	lokey=67 hikey=70
+	sample=28_Mute_2.flac
+	pitch_keycenter=68
+	ampeg_decay=2.2
+<region>
+	seq_position=3
+	lokey=67 hikey=70
+	sample=28_Mute_3.flac
+	pitch_keycenter=68
+	ampeg_decay=2.2
+<region>
+	seq_position=4
+	lokey=67 hikey=70
+	sample=28_Mute_4.flac
+	pitch_keycenter=68
+	ampeg_decay=2.2
+<region>
+	lokey=71 hikey=74
+	sample=32_Mute_1.flac
+	pitch_keycenter=72
+	ampeg_decay=2.5
+<region>
+	seq_position=2
+	lokey=71 hikey=74
+	sample=32_Mute_2.flac
+	pitch_keycenter=72
+	ampeg_decay=2.5
+<region>
+	seq_position=3
+	lokey=71 hikey=74
+	sample=32_Mute_3.flac
+	pitch_keycenter=72
+	ampeg_decay=2.5
+<region>
+	seq_position=4
+	lokey=71 hikey=74
+	sample=32_Mute_4.flac
+	pitch_keycenter=72
+	ampeg_decay=2.5
+<region>
+	lokey=75 hikey=78
+	sample=36_Mute_1.flac
+	pitch_keycenter=76
+	ampeg_decay=4
+<region>
+	seq_position=2
+	lokey=75 hikey=78
+	sample=36_Mute_2.flac
+	pitch_keycenter=76
+	ampeg_decay=4
+<region>
+	seq_position=3
+	lokey=75 hikey=78
+	sample=36_Mute_3.flac
+	pitch_keycenter=76
+	ampeg_decay=4
+<region>
+	seq_position=4
+	lokey=75 hikey=78
+	sample=36_Mute_4.flac
+	pitch_keycenter=76
+	ampeg_decay=4
+<region>
+	lokey=79 hikey=82
+	sample=40_Mute_1.flac
+	pitch_keycenter=80
+	ampeg_decay=3
+<region>
+	seq_position=2
+	lokey=79 hikey=82
+	sample=40_Mute_2.flac
+	pitch_keycenter=80
+	ampeg_decay=3
+<region>
+	seq_position=3
+	lokey=79 hikey=82
+	sample=40_Mute_3.flac
+	pitch_keycenter=80
+	ampeg_decay=3
+<region>
+	seq_position=4
+	lokey=79 hikey=82
+	sample=40_Mute_4.flac
+	pitch_keycenter=80
+	ampeg_decay=3
+<region>
+	lokey=83 hikey=127
+	sample=44_Mute_1.flac
+	pitch_keycenter=84
+	ampeg_decay=5
+<region>
+	seq_position=2
+	lokey=83 hikey=127
+	sample=44_Mute_2.flac
+	pitch_keycenter=84
+	ampeg_decay=5
+<region>
+	seq_position=3
+	lokey=83 hikey=127
+	sample=44_Mute_3.flac
+	pitch_keycenter=84
+	ampeg_decay=5
+<region>
+	seq_position=4
+	lokey=83 hikey=127
+	sample=44_Mute_4.flac
+	pitch_keycenter=84
+	ampeg_decay=5
+
+<group>
+	ampeg_sustain=0.001
+	ampeg_release=0.4
+	loop_mode=loop_continuous
+	seq_length=4
+	pan=100
+<region>
+	lokey=0 hikey=43
+	sample=02_Mute_1.flac
+	pitch_keycenter=42
+	ampeg_decay=24.0
+<region>
+	seq_position=2
+	lokey=0 hikey=43
+	sample=02_Mute_2.flac
+	pitch_keycenter=42
+	ampeg_decay=24.0
+<region>
+	seq_position=3
+	lokey=0 hikey=43
+	sample=02_Mute_3.flac
+	pitch_keycenter=42
+	ampeg_decay=24.0
+<region>
+	seq_position=4
+	lokey=0 hikey=43
+	sample=02_Mute_4.flac
+	pitch_keycenter=42
+	ampeg_decay=24.0
+<region>
+	lokey=44 hikey=47
+	sample=06_Mute_1.flac
+	pitch_keycenter=46
+	ampeg_decay=17
+<region>
+	seq_position=2
+	lokey=44 hikey=47
+	sample=06_Mute_2.flac
+	pitch_keycenter=46
+	ampeg_decay=17
+<region>
+	seq_position=3
+	lokey=44 hikey=47
+	sample=06_Mute_3.flac
+	pitch_keycenter=46
+	ampeg_decay=17
+<region>
+	seq_position=4
+	lokey=44 hikey=47
+	sample=06_Mute_4.flac
+	pitch_keycenter=46
+	ampeg_decay=17
+<region>
+	lokey=48 hikey=51
+	sample=10_Mute_1.flac
+	pitch_keycenter=50
+	ampeg_decay=10
+<region>
+	seq_position=2
+	lokey=48 hikey=51
+	sample=10_Mute_2.flac
+	pitch_keycenter=50
+	ampeg_decay=10
+<region>
+	seq_position=3
+	lokey=48 hikey=51
+	sample=10_Mute_3.flac
+	pitch_keycenter=50
+	ampeg_decay=10
+<region>
+	seq_position=4
+	lokey=48 hikey=51
+	sample=10_Mute_4.flac
+	pitch_keycenter=50
+	ampeg_decay=10
+<region>
+	lokey=52 hikey=55
+	sample=14_Mute_1.flac
+	pitch_keycenter=54
+	ampeg_decay=5
+<region>
+	seq_position=2
+	lokey=52 hikey=55
+	sample=14_Mute_2.flac
+	pitch_keycenter=54
+	ampeg_decay=5
+<region>
+	seq_position=3
+	lokey=52 hikey=55
+	sample=14_Mute_3.flac
+	pitch_keycenter=54
+	ampeg_decay=5
+<region>
+	seq_position=4
+	lokey=52 hikey=55
+	sample=14_Mute_4.flac
+	pitch_keycenter=54
+	ampeg_decay=5
+<region>
+	lokey=56 hikey=59
+	sample=18_Mute_1.flac
+	pitch_keycenter=58
+	ampeg_decay=4.5
+<region>
+	seq_position=2
+	lokey=56 hikey=59
+	sample=18_Mute_2.flac
+	pitch_keycenter=58
+	ampeg_decay=4.5
+<region>
+	seq_position=3
+	lokey=56 hikey=59
+	sample=18_Mute_3.flac
+	pitch_keycenter=58
+	ampeg_decay=4.5
+<region>
+	seq_position=4
+	lokey=56 hikey=59
+	sample=18_Mute_4.flac
+	pitch_keycenter=58
+	ampeg_decay=4.5
+<region>
+	lokey=60 hikey=63
+	sample=22_Mute_1.flac
+	pitch_keycenter=62
+	ampeg_decay=3.5
+<region>
+	seq_position=2
+	lokey=60 hikey=63
+	sample=22_Mute_2.flac
+	pitch_keycenter=62
+	ampeg_decay=3.5
+<region>
+	seq_position=3
+	lokey=60 hikey=63
+	sample=22_Mute_3.flac
+	pitch_keycenter=62
+	ampeg_decay=3.5
+<region>
+	seq_position=4
+	lokey=60 hikey=63
+	sample=22_Mute_4.flac
+	pitch_keycenter=62
+	ampeg_decay=3.5
+<region>
+	lokey=64 hikey=67
+	sample=26_Mute_1.flac
+	pitch_keycenter=66
+	ampeg_decay=2.2
+<region>
+	seq_position=2
+	lokey=64 hikey=67
+	sample=26_Mute_2.flac
+	pitch_keycenter=66
+	ampeg_decay=2.2
+<region>
+	seq_position=3
+	lokey=64 hikey=67
+	sample=26_Mute_3.flac
+	pitch_keycenter=66
+	ampeg_decay=2.2
+<region>
+	seq_position=4
+	lokey=64 hikey=67
+	sample=26_Mute_4.flac
+	pitch_keycenter=66
+	ampeg_decay=2.2
+<region>
+	lokey=68 hikey=71
+	sample=30_Mute_1.flac
+	pitch_keycenter=70
+	ampeg_decay=2.2
+<region>
+	seq_position=2
+	lokey=68 hikey=71
+	sample=30_Mute_2.flac
+	pitch_keycenter=70
+	ampeg_decay=2.2
+<region>
+	seq_position=3
+	lokey=68 hikey=71
+	sample=30_Mute_3.flac
+	pitch_keycenter=70
+	ampeg_decay=2.2
+<region>
+	seq_position=4
+	lokey=68 hikey=71
+	sample=30_Mute_4.flac
+	pitch_keycenter=70
+	ampeg_decay=2.2
+<region>
+	lokey=72 hikey=75
+	sample=34_Mute_1.flac
+	pitch_keycenter=74
+	ampeg_decay=3.0
+<region>
+	seq_position=2
+	lokey=72 hikey=75
+	sample=34_Mute_2.flac
+	pitch_keycenter=74
+	ampeg_decay=3.0
+<region>
+	seq_position=3
+	lokey=72 hikey=75
+	sample=34_Mute_3.flac
+	pitch_keycenter=74
+	ampeg_decay=3.0
+<region>
+	seq_position=4
+	lokey=72 hikey=75
+	sample=34_Mute_4.flac
+	pitch_keycenter=74
+	ampeg_decay=3.0
+<region>
+	lokey=76 hikey=79
+	sample=38_Mute_1.flac
+	pitch_keycenter=78
+	ampeg_decay=4
+<region>
+	seq_position=2
+	lokey=76 hikey=79
+	sample=38_Mute_2.flac
+	pitch_keycenter=78
+	ampeg_decay=4
+<region>
+	seq_position=3
+	lokey=76 hikey=79
+	sample=38_Mute_3.flac
+	pitch_keycenter=78
+	ampeg_decay=4
+<region>
+	seq_position=4
+	lokey=76 hikey=79
+	sample=38_Mute_4.flac
+	pitch_keycenter=78
+	ampeg_decay=4
+<region>
+	lokey=80 hikey=83
+	sample=42_Mute_1.flac
+	pitch_keycenter=82
+	ampeg_decay=10
+<region>
+	seq_position=2
+	lokey=80 hikey=83
+	sample=42_Mute_2.flac
+	pitch_keycenter=82
+	ampeg_decay=10
+<region>
+	seq_position=3
+	lokey=80 hikey=83
+	sample=42_Mute_3.flac
+	pitch_keycenter=82
+	ampeg_decay=10
+<region>
+	seq_position=4
+	lokey=80 hikey=83
+	sample=42_Mute_4.flac
+	pitch_keycenter=82
+	ampeg_decay=10
+<region>
+	lokey=84 hikey=127
+	sample=46_Mute_1.flac
+	pitch_keycenter=86
+	ampeg_decay=5
+<region>
+	seq_position=2
+	lokey=84 hikey=127
+	sample=46_Mute_2.flac
+	pitch_keycenter=86
+	ampeg_decay=5
+<region>
+	seq_position=3
+	lokey=84 hikey=127
+	sample=46_Mute_3.flac
+	pitch_keycenter=86
+	ampeg_decay=5
+<region>
+	seq_position=4
+	lokey=84 hikey=127
+	sample=46_Mute_4.flac
+	pitch_keycenter=86
+	ampeg_decay=5

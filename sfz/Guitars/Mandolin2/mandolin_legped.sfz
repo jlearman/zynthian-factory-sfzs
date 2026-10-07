@@ -1,0 +1,7 @@
+<group> ampeg_decay=12 ampeg_sustain=0.001 ampeg_release=0.4 ampeg_hold=1.8
+hicc68=63
+#include "S1.sfz"
+
+<group> ampeg_attack=.05 ampeg_decay=12 ampeg_sustain=0.001 ampeg_release=0.4 ampeg_hold=1.8
+locc68=64
+#include "S2.sfz"

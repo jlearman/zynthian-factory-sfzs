@@ -1,0 +1,24 @@
+<group>
+ampeg_release=3.34
+
+<region> sample=Samples\Chinesse\01.flac
+lokey=0
+hikey=53
+pitch_keycenter=48
+
+<region> sample=Samples\Chinesse\02.flac
+lokey=54
+hikey=65
+pitch_keycenter=60
+
+<region> sample=Samples\Chinesse\03.flac
+lokey=66
+hikey=77
+pitch_keycenter=72
+
+<region> sample=Samples\Chinesse\04.flac
+lokey=78
+hikey=127
+pitch_keycenter=84
+
+

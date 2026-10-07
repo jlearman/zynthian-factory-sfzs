@@ -1,0 +1,51 @@
+<group>
+ampeg_attack=0.052
+ampeg_decay=0.15
+ampeg_release=0.15
+cutoff=19997.1
+pitcheg_attack=0.003
+pitcheg_decay=0.15
+pitcheg_sustain=0
+pitcheg_release=0.403
+fileg_attack=0.003
+fileg_decay=0.15
+fileg_sustain=0
+fileg_release=0.403
+
+<region> sample=Samples\Erhu\ERHUVB F4MF.flac
+lokey=21
+hikey=66
+pitch_keycenter=65
+tune=30
+
+<region> sample=Samples\Erhu\ERHUVB G4MF.flac
+lokey=67
+hikey=70
+pitch_keycenter=67
+tune=12
+
+<region> sample=Samples\Erhu\ERHUVB B4MF.flac
+lokey=71
+hikey=74
+pitch_keycenter=71
+tune=2
+
+<region> sample=Samples\Erhu\ERHUVB F5MF.flac
+lokey=75
+hikey=78
+pitch_keycenter=77
+tune=5
+
+<region> sample=Samples\Erhu\ERHUVB A5MF.flac
+lokey=79
+hikey=82
+pitch_keycenter=81
+tune=1
+
+<region> sample=Samples\Erhu\ERHUVB C6MF.flac
+lokey=83
+hikey=108
+pitch_keycenter=84
+tune=-85
+
+

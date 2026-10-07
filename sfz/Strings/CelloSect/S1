@@ -1,0 +1,14 @@
+<control> default_path=Sustain\
+<region> hikey=d2 pitch_keycenter=c#2 sample=2_Db.flac
+<region> lokey=d#2 hikey=f2 pitch_keycenter=e2 sample=2_E.flac
+<region> lokey=f#2 hikey=g#2 pitch_keycenter=g2 sample=2_G.flac
+<region> lokey=a2 hikey=b2 pitch_keycenter=a#2 sample=2_Bb.flac
+<region> lokey=c3 hikey=d3 pitch_keycenter=c#3 sample=3_Db.flac
+<region> lokey=d#3 hikey=f#3 pitch_keycenter=e3 sample=3_E.flac
+<region> lokey=g3 hikey=b3 pitch_keycenter=a#3 sample=3_Bb.flac volume=-3
+<region> lokey=c4 hikey=d4 pitch_keycenter=c#4 sample=4_Db.flac volume=-3
+<region> lokey=d#4 hikey=f4 pitch_keycenter=e4 sample=4_E.flac
+<region> lokey=f#4 hikey=g#4 pitch_keycenter=g4 sample=4_G.flac
+<region> lokey=a4 hikey=c5 pitch_keycenter=a#4 sample=4_Bb.flac
+<region> lokey=c#5 hikey=f#5 pitch_keycenter=e5 sample=5_E.flac
+<region> lokey=g5 hikey=e6 pitch_keycenter=a#5 sample=5_Bb.flac

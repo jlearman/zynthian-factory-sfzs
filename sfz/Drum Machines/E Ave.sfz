@@ -1,0 +1,13 @@
+<region> sample=Samples\E Ave\E Ave Clap.flac
+key=39
+
+<region> sample=Samples\E Ave\E Ave Kick.flac
+key=36
+
+<region> sample=Samples\E Ave\E Ave Snare 1.flac
+key=38
+
+<region> sample=Samples\E Ave\E Ave Snare 2.flac
+key=40
+
+

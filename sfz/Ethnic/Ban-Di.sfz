@@ -1,0 +1,41 @@
+<group>
+ampeg_attack=0.127
+ampeg_decay=50.944
+ampeg_release=0.134
+cutoff=19997.1
+pitcheg_decay=50.944
+pitcheg_release=50.944
+fileg_decay=50.944
+fileg_release=50.944
+
+<region> sample=Samples\Ban-Di\BANDIVB B4P.flac
+lokey=21
+hikey=72
+pitch_keycenter=71
+tune=-17
+
+<region> sample=Samples\Ban-Di\BANDIVBC#5P.flac
+lokey=73
+hikey=77
+pitch_keycenter=73
+tune=-10
+
+<region> sample=Samples\Ban-Di\BANDIVBG#5P.flac
+lokey=78
+hikey=82
+pitch_keycenter=80
+tune=8
+
+<region> sample=Samples\Ban-Di\BANDIVB B5P.flac
+lokey=83
+hikey=87
+pitch_keycenter=83
+tune=-1
+
+<region> sample=Samples\Ban-Di\BANDIVB E6P.flac
+lokey=88
+hikey=108
+pitch_keycenter=88
+tune=-6
+
+

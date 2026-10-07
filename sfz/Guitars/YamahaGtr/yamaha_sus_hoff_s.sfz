@@ -1,0 +1,859 @@
+// Stereo sustained clean electric guitar.
+// Low velocity notes (less than 58) play hammer off.
+
+<control>
+	set_cc1=0
+	set_cc11=127
+	set_cc64=0
+<group>
+	ampeg_sustain=0.001
+	ampeg_decay=30.0
+	ampeg_release=0.4
+	loop_mode=loop_continuous
+	seq_length=3
+	lovel=58 hivel=127
+	pan=0
+<region>
+	lokey=0 hikey=42
+	sample=00_Sus_1.flac
+	pitch_keycenter=40
+<region>
+	seq_position=2
+	lokey=0 hikey=42
+	sample=00_Sus_2.flac
+	pitch_keycenter=40
+<region>
+	seq_position=3
+	lokey=0 hikey=42
+	sample=00_Sus_3.flac
+	pitch_keycenter=40
+<region>
+	lokey=43 hikey=46
+	sample=04_Sus_1.flac
+	pitch_keycenter=44
+<region>
+	seq_position=2
+	lokey=43 hikey=46
+	sample=04_Sus_2.flac
+	pitch_keycenter=44
+<region>
+	seq_position=3
+	lokey=43 hikey=46
+	sample=04_Sus_3.flac
+	pitch_keycenter=44
+<region>
+	lokey=47 hikey=50
+	sample=08_Sus_1.flac
+	pitch_keycenter=48
+<region>
+	seq_position=2
+	lokey=47 hikey=50
+	sample=08_Sus_2.flac
+	pitch_keycenter=48
+<region>
+	seq_position=3
+	lokey=47 hikey=50
+	sample=08_Sus_3.flac
+	pitch_keycenter=48
+<region>
+	lokey=51 hikey=54
+	sample=12_Sus_1.flac
+	pitch_keycenter=52
+<region>
+	seq_position=2
+	lokey=51 hikey=54
+	sample=12_Sus_2.flac
+	pitch_keycenter=52
+<region>
+	seq_position=3
+	lokey=51 hikey=54
+	sample=12_Sus_3.flac
+	pitch_keycenter=52
+<region>
+	lokey=55 hikey=58
+	sample=16_Sus_1.flac
+	pitch_keycenter=56
+<region>
+	seq_position=2
+	lokey=55 hikey=58
+	sample=16_Sus_2.flac
+	pitch_keycenter=56
+<region>
+	seq_position=3
+	lokey=55 hikey=58
+	sample=16_Sus_3.flac
+	pitch_keycenter=56
+<region>
+	lokey=59 hikey=62
+	sample=20_Sus_1.flac
+	pitch_keycenter=60
+<region>
+	seq_position=2
+	lokey=59 hikey=62
+	sample=20_Sus_2.flac
+	pitch_keycenter=60
+<region>
+	seq_position=3
+	lokey=59 hikey=62
+	sample=20_Sus_3.flac
+	pitch_keycenter=60
+<region>
+	lokey=63 hikey=66
+	sample=24_Sus_1.flac
+	pitch_keycenter=64
+<region>
+	seq_position=2
+	lokey=63 hikey=66
+	sample=24_Sus_2.flac
+	pitch_keycenter=64
+<region>
+	seq_position=3
+	lokey=63 hikey=66
+	sample=24_Sus_3.flac
+	pitch_keycenter=64
+<region>
+	lokey=67 hikey=70
+	sample=28_Sus_1.flac
+	pitch_keycenter=68
+<region>
+	seq_position=2
+	lokey=67 hikey=70
+	sample=28_Sus_2.flac
+	pitch_keycenter=68
+<region>
+	seq_position=3
+	lokey=67 hikey=70
+	sample=28_Sus_3.flac
+	pitch_keycenter=68
+<region>
+	lokey=71 hikey=74
+	sample=32_Sus_1.flac
+	pitch_keycenter=72
+<region>
+	seq_position=2
+	lokey=71 hikey=74
+	sample=32_Sus_2.flac
+	pitch_keycenter=72
+<region>
+	seq_position=3
+	lokey=71 hikey=74
+	sample=32_Sus_3.flac
+	pitch_keycenter=72
+<region>
+	lokey=75 hikey=78
+	sample=36_Sus_1.flac
+	pitch_keycenter=76
+<region>
+	seq_position=2
+	lokey=75 hikey=78
+	sample=36_Sus_2.flac
+	pitch_keycenter=76
+<region>
+	seq_position=3
+	lokey=75 hikey=78
+	sample=36_Sus_3.flac
+	pitch_keycenter=76
+<region>
+	lokey=79 hikey=82
+	sample=40_Sus_1.flac
+	pitch_keycenter=80
+<region>
+	seq_position=2
+	lokey=79 hikey=82
+	sample=40_Sus_2.flac
+	pitch_keycenter=80
+<region>
+	seq_position=3
+	lokey=79 hikey=82
+	sample=40_Sus_3.flac
+	pitch_keycenter=80
+<region>
+	lokey=83 hikey=127
+	sample=44_Sus_1.flac
+	pitch_keycenter=84
+<region>
+	seq_position=2
+	lokey=83 hikey=127
+	sample=44_Sus_2.flac
+	pitch_keycenter=84
+<region>
+	seq_position=3
+	lokey=83 hikey=127
+	sample=44_Sus_3.flac
+	pitch_keycenter=84
+
+<group>
+	ampeg_sustain=0.001
+	ampeg_decay=30.0
+	ampeg_release=0.4
+	loop_mode=loop_continuous
+	seq_length=3
+	lovel=58 hivel=127
+	pan=100
+<region>
+	lokey=0 hikey=43
+	sample=02_Sus_1.flac
+	pitch_keycenter=42
+<region>
+	seq_position=2
+	lokey=0 hikey=43
+	sample=02_Sus_2.flac
+	pitch_keycenter=42
+<region>
+	seq_position=3
+	lokey=0 hikey=43
+	sample=02_Sus_3.flac
+	pitch_keycenter=42
+<region>
+	lokey=44 hikey=47
+	sample=06_Sus_1.flac
+	pitch_keycenter=46
+<region>
+	seq_position=2
+	lokey=44 hikey=47
+	sample=06_Sus_2.flac
+	pitch_keycenter=46
+<region>
+	seq_position=3
+	lokey=44 hikey=47
+	sample=06_Sus_3.flac
+	pitch_keycenter=46
+<region>
+	lokey=48 hikey=51
+	sample=10_Sus_1.flac
+	pitch_keycenter=50
+<region>
+	seq_position=2
+	lokey=48 hikey=51
+	sample=10_Sus_2.flac
+	pitch_keycenter=50
+<region>
+	seq_position=3
+	lokey=48 hikey=51
+	sample=10_Sus_3.flac
+	pitch_keycenter=50
+<region>
+	lokey=52 hikey=55
+	sample=14_Sus_1.flac
+	pitch_keycenter=54
+<region>
+	seq_position=2
+	lokey=52 hikey=55
+	sample=14_Sus_2.flac
+	pitch_keycenter=54
+<region>
+	seq_position=3
+	lokey=52 hikey=55
+	sample=14_Sus_3.flac
+	pitch_keycenter=54
+<region>
+	lokey=56 hikey=59
+	sample=18_Sus_1.flac
+	pitch_keycenter=58
+<region>
+	seq_position=2
+	lokey=56 hikey=59
+	sample=18_Sus_2.flac
+	pitch_keycenter=58
+<region>
+	seq_position=3
+	lokey=56 hikey=59
+	sample=18_Sus_3.flac
+	pitch_keycenter=58
+<region>
+	lokey=60 hikey=63
+	sample=22_Sus_1.flac
+	pitch_keycenter=62
+<region>
+	seq_position=2
+	lokey=60 hikey=63
+	sample=22_Sus_2.flac
+	pitch_keycenter=62
+<region>
+	seq_position=3
+	lokey=60 hikey=63
+	sample=22_Sus_3.flac
+	pitch_keycenter=62
+<region>
+	lokey=64 hikey=67
+	sample=26_Sus_1.flac
+	pitch_keycenter=66
+<region>
+	seq_position=2
+	lokey=64 hikey=67
+	sample=26_Sus_2.flac
+	pitch_keycenter=66
+<region>
+	seq_position=3
+	lokey=64 hikey=67
+	sample=26_Sus_3.flac
+	pitch_keycenter=66
+<region>
+	lokey=68 hikey=71
+	sample=30_Sus_1.flac
+	pitch_keycenter=70
+<region>
+	seq_position=2
+	lokey=68 hikey=71
+	sample=30_Sus_2.flac
+	pitch_keycenter=70
+<region>
+	seq_position=3
+	lokey=68 hikey=71
+	sample=30_Sus_3.flac
+	pitch_keycenter=70
+<region>
+	lokey=72 hikey=75
+	sample=34_Sus_1.flac
+	pitch_keycenter=74
+<region>
+	seq_position=2
+	lokey=72 hikey=75
+	sample=34_Sus_2.flac
+	pitch_keycenter=74
+<region>
+	seq_position=3
+	lokey=72 hikey=75
+	sample=34_Sus_3.flac
+	pitch_keycenter=74
+<region>
+	lokey=76 hikey=79
+	sample=38_Sus_1.flac
+	pitch_keycenter=78
+<region>
+	seq_position=2
+	lokey=76 hikey=79
+	sample=38_Sus_2.flac
+	pitch_keycenter=78
+<region>
+	seq_position=3
+	lokey=76 hikey=79
+	sample=38_Sus_3.flac
+	pitch_keycenter=78
+<region>
+	lokey=80 hikey=83
+	sample=42_Sus_1.flac
+	pitch_keycenter=82
+<region>
+	seq_position=2
+	lokey=80 hikey=83
+	sample=42_Sus_2.flac
+	pitch_keycenter=82
+<region>
+	seq_position=3
+	lokey=80 hikey=83
+	sample=42_Sus_3.flac
+	pitch_keycenter=82
+<region>
+	lokey=84 hikey=127
+	sample=46_Sus_1.flac
+	pitch_keycenter=86
+<region>
+	seq_position=2
+	lokey=84 hikey=127
+	sample=46_Sus_2.flac
+	pitch_keycenter=86
+<region>
+	seq_position=3
+	lokey=84 hikey=127
+	sample=46_Sus_3.flac
+	pitch_keycenter=86
+
+// Hammer off
+<group>
+	ampeg_sustain=0.001
+	ampeg_release=0.4
+	loop_mode=loop_continuous
+	seq_length=3
+	lovel=1 hivel=57
+	pan=0
+<region>
+	sample=00_Sus_1.flac
+	pitch_keycenter=40
+	lokey=0 hikey=42
+	ampeg_decay=30.0
+	offset=49308
+<region>
+	seq_position=2
+	sample=00_Sus_2.flac
+	pitch_keycenter=40
+	lokey=0 hikey=42
+	ampeg_decay=30.0
+	offset=29575
+<region>
+	seq_position=3
+	sample=00_Sus_3.flac
+	pitch_keycenter=40
+	lokey=0 hikey=42
+	ampeg_decay=30.0
+	seq_position=3
+	offset=46555
+<region>
+	sample=04_Sus_1.flac
+	pitch_keycenter=44
+	lokey=43 hikey=46
+	ampeg_decay=30.0
+	offset=46458
+<region>
+	seq_position=2
+	sample=04_Sus_2.flac
+	pitch_keycenter=44
+	lokey=43 hikey=46
+	ampeg_decay=30.0
+	offset=50620
+<region>
+	seq_position=3
+	sample=04_Sus_3.flac
+	pitch_keycenter=44
+	lokey=43 hikey=46
+	ampeg_decay=30.0
+	offset=39464
+<region>
+	sample=08_Sus_1.flac
+	pitch_keycenter=48
+	lokey=47 hikey=50
+	ampeg_decay=30.0
+	offset=18049
+<region>
+	seq_position=2
+	sample=08_Sus_2.flac
+	pitch_keycenter=48
+	lokey=47 hikey=50
+	ampeg_decay=30.0
+	offset=17584
+<region>
+	seq_position=3
+	sample=08_Sus_3.flac
+	pitch_keycenter=48
+	lokey=47 hikey=50
+	ampeg_decay=30.0
+	offset=27406
+<region>
+	sample=12_Sus_1.flac
+	pitch_keycenter=52
+	lokey=51 hikey=54
+	ampeg_decay=30.0
+	offset=23222
+<region>
+	seq_position=2
+	sample=12_Sus_2.flac
+	pitch_keycenter=52
+	lokey=51 hikey=54
+	ampeg_decay=30.0
+	offset=24039
+<region>
+	seq_position=3
+	sample=12_Sus_3.flac
+	pitch_keycenter=52
+	lokey=51 hikey=54
+	ampeg_decay=30.0
+	offset=24930
+<region>
+	sample=16_Sus_1.flac
+	pitch_keycenter=56
+	lokey=55 hikey=58
+	ampeg_decay=30.0
+	offset=23575
+<region>
+	seq_position=2
+	sample=16_Sus_2.flac
+	pitch_keycenter=56
+	lokey=55 hikey=58
+	ampeg_decay=30.0
+	offset=23706
+<region>
+	seq_position=3
+	sample=16_Sus_3.flac
+	pitch_keycenter=56
+	lokey=55 hikey=58
+	ampeg_decay=30.0
+	offset=24132
+<region>
+	sample=20_Sus_1.flac
+	pitch_keycenter=60
+	lokey=59 hikey=62
+	ampeg_decay=30.0
+	offset=41424
+<region>
+	seq_position=2
+	sample=20_Sus_2.flac
+	pitch_keycenter=60
+	lokey=59 hikey=62
+	ampeg_decay=30.0
+	offset=45015
+<region>
+	seq_position=3
+	sample=20_Sus_3.flac
+	pitch_keycenter=60
+	lokey=59 hikey=62
+	ampeg_decay=30.0
+	offset=36306
+<region>
+	sample=24_Sus_1.flac
+	pitch_keycenter=64
+	lokey=63 hikey=66
+	ampeg_decay=30.0
+	offset=13245
+<region>
+	seq_position=2
+	sample=24_Sus_2.flac
+	pitch_keycenter=64
+	lokey=63 hikey=66
+	ampeg_decay=30.0
+	offset=15286
+<region>
+	seq_position=3
+	sample=24_Sus_3.flac
+	pitch_keycenter=64
+	lokey=63 hikey=66
+	ampeg_decay=30.0
+	offset=15824
+<region>
+	sample=28_Sus_1.flac
+	pitch_keycenter=68
+	lokey=67 hikey=70
+	ampeg_decay=30.0
+	offset=13494
+<region>
+	seq_position=2
+	sample=28_Sus_2.flac
+	pitch_keycenter=68
+	lokey=67 hikey=70
+	ampeg_decay=30.0
+	offset=16463
+<region>
+	seq_position=3
+	sample=28_Sus_3.flac
+	lokey=67 hikey=70
+	lokey=67 hikey=68
+	ampeg_decay=30.0
+	offset=21686
+<region>
+	sample=32_Sus_1.flac
+	pitch_keycenter=72
+	lokey=71 hikey=74
+	ampeg_decay=30.0
+	offset=22240
+<region>
+	seq_position=2
+	sample=32_Sus_2.flac
+	pitch_keycenter=72
+	lokey=71 hikey=74
+	ampeg_decay=30.0
+	offset=19122
+<region>
+	seq_position=3
+	sample=32_Sus_3.flac
+	pitch_keycenter=72
+	lokey=71 hikey=74
+	ampeg_decay=30.0
+	offset=26503
+<region>
+	sample=36_Sus_1.flac
+	pitch_keycenter=76
+	lokey=75 hikey=78
+	ampeg_decay=30.0
+	offset=25699
+<region>
+	seq_position=2
+	sample=36_Sus_2.flac
+	pitch_keycenter=76
+	lokey=75 hikey=78
+	ampeg_decay=30.0
+	offset=31759
+<region>
+	seq_position=3
+	sample=36_Sus_3.flac
+	pitch_keycenter=76
+	lokey=75 hikey=78
+	ampeg_decay=30.0
+	offset=33069
+<region>
+	sample=40_Sus_1.flac
+	pitch_keycenter=80
+	lokey=79 hikey=82
+	ampeg_decay=30.0
+	offset=18025
+<region>
+	seq_position=2
+	sample=40_Sus_2.flac
+	pitch_keycenter=80
+	lokey=79 hikey=82
+	ampeg_decay=30.0
+	offset=19957
+<region>
+	seq_position=3
+	sample=40_Sus_3.flac
+	pitch_keycenter=80
+	lokey=79 hikey=82
+	ampeg_decay=30.0
+	offset=17462
+<region>
+	sample=44_Sus_1.flac
+	pitch_keycenter=84
+	lokey=83 hikey=127
+	ampeg_decay=30.0
+	offset=24053
+<region>
+	seq_position=2
+	sample=44_Sus_2.flac
+	pitch_keycenter=84
+	lokey=83 hikey=127
+	ampeg_decay=30.0
+	offset=24628
+<region>
+	seq_position=3
+	sample=44_Sus_3.flac
+	pitch_keycenter=84
+	lokey=83 hikey=127
+	ampeg_decay=30.0
+	offset=13173
+
+// Hammer off
+<group>
+	ampeg_sustain=0.001
+	ampeg_release=0.4
+	loop_mode=loop_continuous
+	seq_length=3
+	lovel=1 hivel=57
+	pan=100
+<region>
+	sample=02_Sus_1.flac
+	pitch_keycenter=42
+	lokey=0 hikey=43
+	ampeg_decay=30.0
+	offset=33722
+<region>
+	seq_position=2
+	sample=02_Sus_2.flac
+	pitch_keycenter=42
+	lokey=0 hikey=43
+	ampeg_decay=30.0
+	offset=37651
+<region>
+	seq_position=3
+	sample=02_Sus_3.flac
+	pitch_keycenter=42
+	lokey=0 hikey=43
+	ampeg_decay=30.0
+	offset=49458
+<region>
+	sample=06_Sus_1.flac
+	pitch_keycenter=46
+	lokey=44 hikey=47
+	ampeg_decay=30.0
+	offset=26342
+<region>
+	seq_position=2
+	sample=06_Sus_2.flac
+	pitch_keycenter=46
+	lokey=44 hikey=47
+	ampeg_decay=30.0
+	offset=30559
+<region>
+	seq_position=3
+	sample=06_Sus_3.flac
+	pitch_keycenter=46
+	lokey=44 hikey=47
+	ampeg_decay=30.0
+	offset=38730
+<region>
+	sample=10_Sus_1.flac
+	pitch_keycenter=50
+	lokey=48 hikey=51
+	ampeg_decay=30.0
+	offset=26713
+<region>
+	seq_position=2
+	sample=10_Sus_2.flac
+	pitch_keycenter=50
+	lokey=48 hikey=51
+	ampeg_decay=30.0
+	offset=44632
+<region>
+	seq_position=3
+	sample=10_Sus_3.flac
+	pitch_keycenter=50
+	lokey=48 hikey=51
+	ampeg_decay=30.0
+	offset=26050
+<region>
+	sample=14_Sus_1.flac
+	pitch_keycenter=54
+	lokey=52 hikey=55
+	ampeg_decay=30.0
+	offset=13281
+<region>
+	seq_position=2
+	sample=14_Sus_2.flac
+	pitch_keycenter=54
+	lokey=52 hikey=55
+	ampeg_decay=30.0
+	offset=12172
+<region>
+	seq_position=3
+	sample=14_Sus_3.flac
+	pitch_keycenter=54
+	lokey=52 hikey=55
+	ampeg_decay=30.0
+	offset=12249
+<region>
+	sample=18_Sus_1.flac
+	pitch_keycenter=58
+	lokey=56 hikey=59
+	ampeg_decay=30.0
+	offset=27657
+<region>
+	seq_position=2
+	sample=18_Sus_2.flac
+	pitch_keycenter=58
+	lokey=56 hikey=59
+	ampeg_decay=30.0
+	offset=36533
+<region>
+	seq_position=3
+	sample=18_Sus_3.flac
+	pitch_keycenter=58
+	lokey=56 hikey=59
+	ampeg_decay=30.0
+	offset=27719
+<region>
+	sample=22_Sus_1.flac
+	pitch_keycenter=62
+	lokey=60 hikey=63
+	ampeg_decay=30.0
+	offset=23609
+<region>
+	seq_position=2
+	sample=22_Sus_2.flac
+	pitch_keycenter=62
+	lokey=60 hikey=63
+	ampeg_decay=30.0
+	offset=18972
+<region>
+	seq_position=3
+	sample=22_Sus_3.flac
+	pitch_keycenter=62
+	lokey=60 hikey=63
+	ampeg_decay=30.0
+	offset=19834
+<region>
+	sample=26_Sus_1.flac
+	pitch_keycenter=66
+	lokey=64 hikey=67
+	ampeg_decay=30.0
+	offset=17715
+<region>
+	seq_position=2
+	sample=26_Sus_2.flac
+	pitch_keycenter=66
+	lokey=64 hikey=67
+	ampeg_decay=30.0
+	offset=25477
+<region>
+	seq_position=3
+	sample=26_Sus_3.flac
+	pitch_keycenter=66
+	lokey=64 hikey=67
+	ampeg_decay=30.0
+	offset=27690
+<region>
+	sample=30_Sus_1.flac
+	pitch_keycenter=70
+	lokey=68 hikey=71
+	ampeg_decay=30.0
+	offset=20236
+<region>
+	seq_position=2
+	sample=30_Sus_2.flac
+	pitch_keycenter=70
+	lokey=68 hikey=71
+	ampeg_decay=30.0
+	offset=26530
+<region>
+	seq_position=3
+	sample=30_Sus_3.flac
+	pitch_keycenter=70
+	lokey=68 hikey=71
+	ampeg_decay=30.0
+	offset=16527
+<region>
+	sample=34_Sus_1.flac
+	pitch_keycenter=74
+	lokey=72 hikey=75
+	ampeg_decay=30.0
+	offset=20445
+<region>
+	seq_position=2
+	sample=34_Sus_2.flac
+	pitch_keycenter=74
+	lokey=72 hikey=75
+	ampeg_decay=30.0
+	offset=28677
+<region>
+	seq_position=3
+	sample=34_Sus_3.flac
+	pitch_keycenter=74
+	lokey=72 hikey=75
+	ampeg_decay=30.0
+	offset=30102
+<region>
+	sample=38_Sus_1.flac
+	pitch_keycenter=78
+	lokey=76 hikey=79
+	ampeg_decay=30.0
+	offset=21365
+<region>
+	seq_position=2
+	sample=38_Sus_2.flac
+	pitch_keycenter=78
+	lokey=76 hikey=79
+	ampeg_decay=30.0
+	offset=28810
+<region>
+	seq_position=3
+	sample=38_Sus_3.flac
+	pitch_keycenter=78
+	lokey=76 hikey=79
+	ampeg_decay=30.0
+	offset=22624
+<region>
+	sample=42_Sus_1.flac
+	pitch_keycenter=82
+	lokey=80 hikey=83
+	ampeg_decay=30.0
+	offset=20787
+<region>
+	seq_position=2
+	sample=42_Sus_2.flac
+	pitch_keycenter=82
+	lokey=80 hikey=83
+	ampeg_decay=30.0
+	offset=23815
+<region>
+	seq_position=3
+	sample=42_Sus_3.flac
+	pitch_keycenter=82
+	lokey=80 hikey=83
+	ampeg_decay=30.0
+	offset=23066
+<region>
+	sample=46_Sus_1.flac
+	pitch_keycenter=86
+	lokey=84 hikey=127
+	ampeg_decay=30.0
+	offset=19076
+<region>
+	seq_position=2
+	sample=46_Sus_2.flac
+	pitch_keycenter=86
+	lokey=84 hikey=127
+	ampeg_decay=30.0
+	offset=11977
+<region>
+	seq_position=3
+	sample=46_Sus_3.flac
+	pitch_keycenter=86
+	lokey=84 hikey=127
+	ampeg_decay=30.0
+	offset=16382

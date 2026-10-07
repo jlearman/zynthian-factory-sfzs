@@ -1,0 +1,22 @@
+<group>
+ampeg_release=1.176
+effect1=7
+pitcheg_release=0.538
+fileg_release=0.538
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Shofars\Shofar Loop.flac
+lokey=21
+hikey=71
+pitch_keycenter=62
+
+<region> sample=Samples\Shofars\Shofar Rlse.flac
+lokey=72
+hikey=108
+pitch_keycenter=86
+ampeg_hold=9.221
+ampeg_decay=3.786
+ampeg_sustain=0.001
+
+

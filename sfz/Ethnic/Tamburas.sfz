@@ -1,0 +1,23 @@
+<group>
+volume=0.385
+ampeg_attack=0.395
+ampeg_release=1.485
+effect1=7
+effect2=22
+pitcheg_release=0.538
+fileg_release=0.538
+pitchlfo_freq=4.978
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Tamburas\TambouraC#2.flac
+lokey=21
+hikey=81
+pitch_keycenter=49
+
+<region> sample=Samples\Tamburas\TambouraC#5.flac
+lokey=82
+hikey=103
+pitch_keycenter=85
+
+

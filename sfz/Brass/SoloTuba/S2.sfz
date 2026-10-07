@@ -1,0 +1,11 @@
+<control> default_path=Sustain\
+<region> sample=1_C.flac pitch_keycenter=c1 hikey=d#1 offset=26984
+<region> sample=1_G.flac pitch_keycenter=g1 lokey=e1 hikey=g#1 offset=29571
+<region> sample=1_Bb.flac pitch_keycenter=a#1 lokey=a1 hikey=b1 offset=28861
+<region> sample=2_Db.flac pitch_keycenter=c#2 lokey=c2 hikey=d2 offset=17165
+<region> sample=2_F.flac pitch_keycenter=f2 lokey=d#2 hikey=f#2 offset=33737
+<region> sample=2_A.flac pitch_keycenter=a2 lokey=g2 hikey=a#2 offset=14670
+<region> sample=3_Db.flac pitch_keycenter=c#3 lokey=b2 hikey=d3 offset=11172
+<region> sample=3_F.flac pitch_keycenter=f3 lokey=d#3 hikey=f#3 offset=12860
+<region> sample=3_Ab.flac pitch_keycenter=g#3 lokey=g3 hikey=a3 offset=26626
+<region> sample=4_C.flac pitch_keycenter=c4 lokey=a#3 offset=8593

@@ -1,0 +1,83 @@
+<group>
+volume=9.9715
+
+<region> sample=Samples\Chinese Percussion\xiaoluo2.flac
+key=65
+pan=51.8
+ampeg_release=30.661
+
+<region> sample=Samples\Chinese Percussion\Xiaoluo1.flac
+key=64
+pan=65
+ampeg_release=30.661
+
+<region> sample=Samples\Chinese Percussion\xiaoba_m1.flac
+key=62
+pan=-50.4
+ampeg_release=8.107
+
+<region> sample=Samples\Chinese Percussion\xiaoba21.flac
+key=60
+pan=-62
+ampeg_release=11.281
+
+<region> sample=Samples\Chinese Percussion\Daluo1_m1.flac
+key=55
+group=1
+pan=-21.2
+ampeg_release=3.173
+
+<region> sample=Samples\Chinese Percussion\Daluo21.flac
+key=57
+pan=2.2
+ampeg_release=48.279
+
+<region> sample=Samples\Chinese Percussion\Daluo3_m1.flac
+key=59
+group=2
+pan=28.4
+ampeg_release=3.173
+
+<region> sample=Samples\Chinese Percussion\Xiaotanggu.flac
+key=67
+pan=-38.6
+ampeg_release=5.287
+effect1=7
+
+<region> sample=Samples\Chinese Percussion\Bangzi11.flac
+key=69
+pan=81
+ampeg_release=11.986
+
+<region> sample=Samples\Chinese Percussion\Xiaotanggu.flac
+key=68
+pan=-82.4
+ampeg_release=14.099
+effect1=7
+
+<region> sample=Samples\Chinese Percussion\Bangzi11.flac
+key=70
+pan=81
+ampeg_release=24.675
+
+<region> sample=Samples\Chinese Percussion\Daluo3_m1.flac
+lokey=58
+hikey=58
+pitch_keycenter=59
+group=2
+transpose=1
+pan=28.4
+ampeg_hold=0.001
+ampeg_decay=0.001
+ampeg_release=0.706
+
+<region> sample=Samples\Chinese Percussion\Daluo1_m1.flac
+lokey=54
+hikey=54
+pitch_keycenter=55
+group=1
+transpose=1
+pan=-21.2
+ampeg_release=0.706
+
+

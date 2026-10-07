@@ -1,0 +1,64 @@
+<control> default_path=Tremulo\
+<group> group=1 ampeg_release=0.3 off_mode=normal
+<region> sample=3_G.flac hikey=g3 pitch_keycenter=g3
+<region> sample=3_A.flac lokey=g#3 hikey=a3 pitch_keycenter=a3
+<region> sample=3_B.flac lokey=a#3 hikey=b3 pitch_keycenter=b3
+<region> sample=4_Db.flac lokey=c4 hikey=c#4 pitch_keycenter=c#4
+<region> sample=4_Eb.flac lokey=d4 hikey=d#4 pitch_keycenter=d#4
+<region> sample=4_F.flac lokey=e4 hikey=f4 pitch_keycenter=f4
+<region> sample=4_G.flac lokey=f#4 hikey=g4 pitch_keycenter=g4
+<region> sample=4_A.flac lokey=g#4 hikey=a4 pitch_keycenter=a4
+<region> sample=4_B.flac lokey=a#4 hikey=b4 pitch_keycenter=b4
+<region> sample=5_Db.flac lokey=c5 hikey=c#5 pitch_keycenter=c#5
+<region> sample=5_Eb.flac lokey=d5 hikey=d#5 pitch_keycenter=d#5
+<region> sample=5_F.flac lokey=e5 hikey=f5 pitch_keycenter=f5
+<region> sample=5_G.flac lokey=f#5 hikey=g5 pitch_keycenter=g5
+<region> sample=5_A.flac lokey=g#5 hikey=a5 pitch_keycenter=a5
+<region> sample=5_B.flac lokey=a#5 hikey=b5 pitch_keycenter=b5
+<region> sample=6_Db.flac lokey=c6 hikey=c#6 pitch_keycenter=c#6
+<region> sample=6_Eb.flac lokey=d6 hikey=d#6 pitch_keycenter=d#6
+<region> sample=6_F.flac lokey=e6 hikey=f6 pitch_keycenter=f6
+<region> sample=6_G.flac lokey=f#6 hikey=g6 pitch_keycenter=g6
+<region> sample=6_A.flac lokey=g#6 hikey=a6 pitch_keycenter=a6
+<region> sample=6_B.flac lokey=a#6 hikey=b6 pitch_keycenter=b6
+
+<group> group=2 off_by=1 hicc68=63 trigger=release loop_mode=one_shot sw_lokey=0 sw_hikey=127 ampeg_attack=0.05
+<region> sample=3_G_r.flac pitch_keycenter=g3 lokey=e3 hikey=g3
+<region> sample=3_Ab_r.flac pitch_keycenter=g#3 lokey=g#3 hikey=g#3
+<region> sample=3_A_r.flac pitch_keycenter=a3 lokey=a3 hikey=a3
+<region> sample=3_Bb_r.flac pitch_keycenter=a#3 lokey=a#3 hikey=a#3
+<region> sample=3_B_r.flac pitch_keycenter=b3 lokey=b3 hikey=b3
+<region> sample=4_C_r.flac pitch_keycenter=c4 lokey=c4 hikey=c4
+<region> sample=4_Db_r.flac pitch_keycenter=c#4 lokey=c#4 hikey=c#4
+<region> sample=4_D_r.flac pitch_keycenter=d4 lokey=d4 hikey=d4
+<region> sample=4_Eb_r.flac pitch_keycenter=d#4 lokey=d#4 hikey=d#4
+<region> sample=4_E_r.flac pitch_keycenter=e4 lokey=e4 hikey=e4
+<region> sample=4_F_r.flac pitch_keycenter=f4 lokey=f4 hikey=f4
+<region> sample=4_Gb_r.flac pitch_keycenter=f#4 lokey=f#4 hikey=f#4
+<region> sample=4_G_r.flac pitch_keycenter=g4 lokey=g4 hikey=g4
+<region> sample=4_Ab_r.flac pitch_keycenter=g#4 lokey=g#4 hikey=g#4
+<region> sample=4_A_r.flac pitch_keycenter=a4 lokey=a4 hikey=a4
+<region> sample=4_Bb_r.flac pitch_keycenter=a#4 lokey=a#4 hikey=a#4
+<region> sample=4_B_r.flac pitch_keycenter=b4 lokey=b4 hikey=b4
+<region> sample=5_C_r.flac pitch_keycenter=c5 lokey=c5 hikey=c5
+<region> sample=5_Db_r.flac pitch_keycenter=c#5 lokey=c#5 hikey=c#5
+<region> sample=5_D_r.flac pitch_keycenter=d5 lokey=d5 hikey=d5
+<region> sample=5_Eb_r.flac pitch_keycenter=d#5 lokey=d#5 hikey=d#5
+<region> sample=5_E_r.flac pitch_keycenter=e5 lokey=e5 hikey=e5
+<region> sample=5_F_r.flac pitch_keycenter=f5 lokey=f5 hikey=f5
+<region> sample=5_Gb_r.flac pitch_keycenter=f#5 lokey=f#5 hikey=f#5
+<region> sample=5_G_r.flac pitch_keycenter=g5 lokey=g5 hikey=g5
+<region> sample=5_Ab_r.flac pitch_keycenter=g#5 lokey=g#5 hikey=g#5
+<region> sample=5_A_r.flac pitch_keycenter=a5 lokey=a5 hikey=a5
+<region> sample=5_Bb_r.flac pitch_keycenter=a#5 lokey=a#5 hikey=a#5
+<region> sample=5_B_r.flac pitch_keycenter=b5 lokey=b5 hikey=b5
+<region> sample=6_C_r.flac pitch_keycenter=c6 lokey=c6 hikey=c6
+<region> sample=6_Db_r.flac pitch_keycenter=c#6 lokey=c#6 hikey=c#6
+<region> sample=6_Eb_r.flac pitch_keycenter=d#6 lokey=d6 hikey=d#6
+<region> sample=6_E_r.flac pitch_keycenter=e6 lokey=e6 hikey=e6
+<region> sample=6_F_r.flac pitch_keycenter=f6 lokey=f6 hikey=f6
+<region> sample=6_Gb_r.flac pitch_keycenter=f#6 lokey=f#6 hikey=f#6
+<region> sample=6_G_r.flac pitch_keycenter=g6 lokey=g6 hikey=g6
+<region> sample=6_A_r.flac pitch_keycenter=a6 lokey=g#6 hikey=a6
+<region> sample=6_Bb_r.flac pitch_keycenter=a#6 lokey=a#6 hikey=a#6
+<region> sample=6_B_r.flac pitch_keycenter=b6 lokey=b6 hikey=e7

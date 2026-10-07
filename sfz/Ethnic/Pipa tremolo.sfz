@@ -1,0 +1,59 @@
+<group>
+tune=1
+ampeg_decay=0.002
+ampeg_release=0.134
+cutoff=19997.1
+pitcheg_decay=0.002
+fileg_decay=0.002
+
+<region> sample=Samples\Pipa tremolo\PIPA TRM B3.flac
+lokey=21
+hikey=61
+pitch_keycenter=59
+
+<region> sample=Samples\Pipa tremolo\PIPA TRM E4.flac
+lokey=62
+hikey=65
+pitch_keycenter=64
+
+<region> sample=Samples\Pipa tremolo\PIPA TRM G4.flac
+lokey=66
+hikey=69
+pitch_keycenter=67
+
+<region> sample=Samples\Pipa tremolo\PIPA TRM B4.flac
+lokey=70
+hikey=72
+pitch_keycenter=71
+
+<region> sample=Samples\Pipa tremolo\PIPA TRM D5.flac
+lokey=73
+hikey=75
+pitch_keycenter=74
+
+<region> sample=Samples\Pipa tremolo\PIPA TRM E5.flac
+lokey=76
+hikey=78
+pitch_keycenter=76
+
+<region> sample=Samples\Pipa tremolo\PIPA TRM A5.flac
+lokey=79
+hikey=82
+pitch_keycenter=81
+
+<region> sample=Samples\Pipa tremolo\PIPA TRM B5.flac
+lokey=83
+hikey=85
+pitch_keycenter=83
+
+<region> sample=Samples\Pipa tremolo\PIPA TRM E6.flac
+lokey=86
+hikey=89
+pitch_keycenter=88
+
+<region> sample=Samples\Pipa tremolo\PIPA TRM G6.flac
+lokey=90
+hikey=108
+pitch_keycenter=91
+
+

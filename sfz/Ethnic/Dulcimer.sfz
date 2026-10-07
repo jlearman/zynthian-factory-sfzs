@@ -1,0 +1,149 @@
+<group>
+ampeg_sustain=0.001
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=36
+hikey=36
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=37
+hikey=37
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=38
+hikey=38
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=39
+hikey=39
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=40
+hikey=40
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=41
+hikey=41
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=42
+hikey=42
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=43
+hikey=43
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=44
+hikey=44
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=45
+hikey=45
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\HammrdDulcimerE1-.flac
+lokey=46
+hikey=54
+pitch_keycenter=52
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\Dlcmr A1-L.flac
+lokey=55
+hikey=56
+pitch_keycenter=57
+ampeg_decay=25.575
+ampeg_release=25.575
+
+<region> sample=Samples\Dulcimer\Dlcmr A1-L.flac
+key=57
+ampeg_decay=25.575
+ampeg_release=25.575
+
+<region> sample=Samples\Dulcimer\Dlcmr A1-L.flac
+lokey=58
+hikey=59
+pitch_keycenter=57
+ampeg_decay=25.575
+ampeg_release=25.575
+
+<region> sample=Samples\Dulcimer\Dlcmr C#2-L.flac
+lokey=60
+hikey=63
+pitch_keycenter=61
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\Dlcmr F#2-L.flac
+lokey=64
+hikey=69
+pitch_keycenter=66
+ampeg_decay=25.575
+ampeg_release=25.575
+
+<region> sample=Samples\Dulcimer\Dlcmr C3-L.flac
+lokey=70
+hikey=75
+pitch_keycenter=72
+ampeg_decay=27.825
+ampeg_release=27.825
+
+<region> sample=Samples\Dulcimer\Dlcmr F#3-L.flac
+lokey=76
+hikey=80
+pitch_keycenter=78
+ampeg_decay=26.355
+ampeg_release=26.355
+
+<region> sample=Samples\Dulcimer\Dlcmr B3-L.flac
+lokey=81
+hikey=83
+pitch_keycenter=83
+ampeg_decay=28.492
+ampeg_release=28.492
+
+<region> sample=Samples\Dulcimer\Dlcmr B3-L.flac
+lokey=84
+hikey=85
+pitch_keycenter=83
+ampeg_decay=28.492
+ampeg_release=28.492
+
+<region> sample=Samples\Dulcimer\Dlcmr E4-L.flac
+lokey=86
+hikey=96
+pitch_keycenter=88
+ampeg_decay=27.143
+ampeg_release=27.143
+
+

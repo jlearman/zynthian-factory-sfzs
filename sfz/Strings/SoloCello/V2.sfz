@@ -1,0 +1,11 @@
+<control> default_path=Vibrato\
+<region> hikey=d#2 pitch_keycenter=d2 sample=2_D.flac offset=27788
+<region> lokey=e2 hikey=g#2 pitch_keycenter=f#2 sample=2_Gb.flac offset=15206
+<region> lokey=g2 hikey=a#2 pitch_keycenter=a2 sample=2_A.flac offset=20484
+<region> lokey=b2 hikey=d#3 pitch_keycenter=c#3 sample=3_Db.flac offset=16591
+<region> lokey=e3 hikey=f#3 pitch_keycenter=f3 sample=3_F.flac offset=15943
+<region> lokey=g3 hikey=a#3 pitch_keycenter=a3 sample=3_A.flac offset=13175
+<region> lokey=b3 hikey=c#4 pitch_keycenter=c4 sample=4_C.flac offset=14802
+<region> lokey=d4 hikey=e4 pitch_keycenter=d#4 sample=4_Eb.flac offset=22379
+<region> lokey=f4 hikey=g#4 pitch_keycenter=g4 sample=4_G.flac offset=20645
+<region> lokey=a4 pitch_keycenter=a#4 sample=4_Bb.flac offset=19748

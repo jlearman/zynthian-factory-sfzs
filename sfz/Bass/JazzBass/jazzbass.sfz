@@ -1,0 +1,145 @@
+<group>
+ampeg_sustain=.01
+ampeg_decay=15
+ampeg_release=.4
+<region>
+sample=Gb1.flac hikey=f#1 pitch_keycenter=f#1
+<region>
+sample=G1.flac key=g1
+<region>
+sample=Ab1.flac key=g#1
+<region>
+sample=A1.flac key=a1
+<region>
+sample=Bb1.flac key=a#1
+<region>
+sample=B1.flac key=b1
+<region>
+sample=C2.flac key=c2
+<region>
+sample=Db2.flac key=c#2
+<region>
+sample=D2.flac key=d2
+<region>
+sample=Eb2.flac key=d#2
+<region>
+sample=E2.flac key=e2
+<region>
+sample=F2.flac key=f2
+<region>
+sample=Gb2.flac key=f#2
+<region>
+sample=G2.flac key=g2
+<region>
+sample=Ab2.flac key=g#2
+<region>
+sample=A2.flac key=a2
+<region>
+sample=Bb2.flac key=a#2
+<region>
+sample=B2.flac key=b2
+<region>
+sample=C3.flac key=c3
+<region>
+sample=Db3.flac key=c#3
+<region>
+sample=D3.flac key=d3
+<region>
+sample=Eb3.flac key=d#3
+<region>
+sample=E3.flac key=e3
+<region>
+sample=F3.flac key=f3
+<region>
+sample=Gb3.flac key=f#3
+<region>
+sample=G3.flac key=g3
+<region>
+sample=Ab3.flac key=g#3
+<region>
+sample=A3.flac key=a3
+<region>
+sample=Bb3.flac key=a#3
+<region>
+sample=B3.flac key=b3
+<region>
+sample=C4.flac key=c4
+<region>
+sample=Db4.flac key=c#4
+<region>
+sample=D4.flac key=d4
+<region>
+sample=Eb4.flac lokey=d#4 pitch_keycenter=d#4
+
+<group>
+trigger=release
+//lorand=0 hirand=0.2
+loop_mode=one_shot
+<region>
+sample=_Gb1.flac hikey=f#1 pitch_keycenter=f#1
+<region>
+sample=_G1.flac key=g1
+<region>
+sample=_Ab1.flac key=g#1
+<region>
+sample=_A1.flac key=a1
+<region>
+sample=_Bb1.flac key=a#1
+<region>
+sample=_B1.flac key=b1
+<region>
+sample=_C2.flac key=c2
+<region>
+sample=_Db2.flac key=c#2
+<region>
+sample=_D2.flac key=d2
+<region>
+sample=_Eb2.flac key=d#2
+<region>
+sample=_E2.flac key=e2
+<region>
+sample=_F2.flac key=f2
+<region>
+sample=_Gb2.flac key=f#2
+<region>
+sample=_G2.flac key=g2
+<region>
+sample=_Ab2.flac key=g#2
+<region>
+sample=_A2.flac key=a2
+<region>
+sample=_Bb2.flac key=a#2
+<region>
+sample=_B2.flac key=b2
+<region>
+sample=_C3.flac key=c3
+<region>
+sample=_Db3.flac key=c#3
+<region>
+sample=_D3.flac key=d3
+<region>
+sample=_Eb3.flac key=d#3
+<region>
+sample=_E3.flac key=e3
+<region>
+sample=_F3.flac key=f3
+<region>
+sample=_Gb3.flac key=f#3
+<region>
+sample=_G3.flac key=g3
+<region>
+sample=_Ab3.flac key=g#3
+<region>
+sample=_A3.flac key=a3
+<region>
+sample=_Bb3.flac key=a#3
+<region>
+sample=_B3.flac key=b3
+<region>
+sample=_C4.flac key=c4
+<region>
+sample=_Db4.flac key=c#4
+<region>
+sample=_D4.flac key=d4
+<region>
+sample=_Eb4.flac lokey=d#4 pitch_keycenter=d#4

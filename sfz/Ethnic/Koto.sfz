@@ -1,0 +1,138 @@
+<group>
+ampeg_sustain=0.001
+
+<region> sample=Samples\Koto\Koto D2-L.flac
+lokey=21
+hikey=52
+pitch_keycenter=50
+ampeg_decay=5.997
+ampeg_release=5.364
+
+<region> sample=Samples\Koto\Koto G2-L.flac
+lokey=53
+hikey=55
+pitch_keycenter=55
+ampeg_decay=5.997
+ampeg_release=5.364
+
+<region> sample=Samples\Koto\Koto A2-L.flac
+lokey=56
+hikey=57
+pitch_keycenter=57
+ampeg_decay=5.997
+ampeg_release=5.364
+
+<region> sample=Samples\Koto\Koto A#2-L.flac
+lokey=58
+hikey=59
+pitch_keycenter=58
+ampeg_decay=5.997
+ampeg_release=5.364
+
+<region> sample=Samples\Koto\Koto D3-L.flac
+lokey=60
+hikey=61
+pitch_keycenter=62
+ampeg_decay=5.997
+ampeg_release=5.364
+
+<region> sample=Samples\Koto\Koto D3-L.flac
+key=62
+ampeg_decay=5.997
+ampeg_release=4.732
+
+<region> sample=Samples\Koto\Koto D3-L.flac
+lokey=63
+hikey=63
+pitch_keycenter=62
+ampeg_decay=5.997
+ampeg_release=5.364
+
+<region> sample=Samples\Koto\Koto D3-L.flac
+lokey=64
+hikey=64
+pitch_keycenter=62
+ampeg_decay=5.997
+ampeg_release=4.732
+
+<region> sample=Samples\Koto\Koto G3-L.flac
+lokey=65
+hikey=65
+pitch_keycenter=67
+ampeg_decay=5.997
+ampeg_release=4.732
+
+<region> sample=Samples\Koto\Koto G3-L.flac
+lokey=66
+hikey=67
+pitch_keycenter=67
+ampeg_decay=5.997
+ampeg_release=5.364
+
+<region> sample=Samples\Koto\Koto A3-L.flac
+lokey=68
+hikey=68
+pitch_keycenter=69
+ampeg_decay=5.997
+ampeg_release=5.364
+
+<region> sample=Samples\Koto\Koto A3-L.flac
+key=69
+ampeg_decay=5.997
+ampeg_release=5.048
+
+<region> sample=Samples\Koto\Koto A#3-L.flac
+key=70
+ampeg_decay=5.997
+ampeg_release=5.048
+
+<region> sample=Samples\Koto\Koto A#3-L.flac
+lokey=71
+hikey=71
+pitch_keycenter=70
+ampeg_decay=5.997
+ampeg_release=4.732
+
+<region> sample=Samples\Koto\Koto  D4-L.flac
+lokey=72
+hikey=74
+pitch_keycenter=74
+ampeg_decay=5.68
+ampeg_release=4.415
+
+<region> sample=Samples\Koto\Koto D#4-L.flac
+lokey=75
+hikey=76
+pitch_keycenter=75
+ampeg_decay=5.68
+ampeg_release=4.415
+
+<region> sample=Samples\Koto\Koto G4-L.flac
+lokey=77
+hikey=80
+pitch_keycenter=79
+ampeg_decay=5.68
+ampeg_release=4.415
+
+<region> sample=Samples\Koto\Koto A4-L.flac
+lokey=81
+hikey=83
+pitch_keycenter=81
+ampeg_decay=5.68
+ampeg_release=4.415
+
+<region> sample=Samples\Koto\Koto A4-L.flac
+lokey=84
+hikey=89
+pitch_keycenter=81
+ampeg_decay=1.143
+ampeg_release=1.515
+
+<region> sample=Samples\Koto\Koto A4-L.flac
+lokey=90
+hikey=108
+pitch_keycenter=81
+ampeg_decay=1.143
+ampeg_release=1.515
+
+

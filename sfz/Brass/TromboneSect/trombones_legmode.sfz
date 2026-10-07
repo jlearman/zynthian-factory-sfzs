@@ -1,0 +1,5 @@
+<group> ampeg_release=0.6 trigger=first off_by=1 group=2 off_mode=normal
+#include "S1.sfz"
+
+<group> ampeg_release=0.6 trigger=legato ampeg_attack=.2 group=1 off_by=1 off_mode=normal
+#include "S2.sfz"

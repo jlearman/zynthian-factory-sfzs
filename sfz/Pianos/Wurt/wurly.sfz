@@ -1,0 +1,477 @@
+<control>
+ hint_ram_based=1
+ set_cc1=0
+ set_cc11=127
+ set_cc64=0
+
+<global>
+ lfo06_wave=0
+ lfo06_pitch=0 lfo06_pitch_oncc129=50 lfo06_pitch_oncc1=50
+ lfo06_freq=8.176
+ amplitude_oncc11=100 amplitude_curvecc11=7
+
+<master>
+<group>
+ ampeg_decay=36.9926
+ ampeg_sustain=0.001
+ ampeg_release=0.35
+ loop_mode=loop_continuous
+
+///////////////////////////////////////////////////////////////////////////
+// A1
+
+<region>
+sample=1_A_a.flac 
+lokey=0 hikey=34
+pitch_keycenter=33
+lovel=111 hivel=127
+ampeg_decay=25.0
+
+////////////////////////////////////////////////////////////////////////////
+// C2
+
+<region>
+sample=2_C_a.flac
+lokey=35 hikey=38
+pitch_keycenter=36
+lovel=111 hivel=127
+ampeg_decay=23.8
+
+/////////////////////////////////////////////////////////////////////////////
+// F2
+
+<region>
+sample=2_F_a.flac
+lokey=39 hikey=43
+pitch_keycenter=41
+lovel=111 hivel=127
+ampeg_decay=22.9
+
+////////////////////////////////////////////////////////////////////////////
+// B2
+
+<region>
+sample=2_B_a.flac
+lokey=44 hikey=49
+pitch_keycenter=47
+lovel=111 hivel=127
+ampeg_decay=22
+
+/////////////////////////////////////////////////////////////////////////////
+// E3
+
+<region>
+sample=3_E_a.flac
+lokey=50 hikey=53
+pitch_keycenter=52
+lovel=111 hivel=127
+ampeg_decay=21.7
+
+/////////////////////////////////////////////////////////////////////////////
+// Ab3
+
+<region>
+sample=3_Ab_a.flac
+lokey=54 hikey=58
+pitch_keycenter=56
+lovel=111 hivel=127
+ampeg_decay=20.3
+
+/////////////////////////////////////////////////////////////////////////////
+// Db4
+
+<region>
+sample=4_Db_a.flac
+lokey=59 hikey=62
+pitch_keycenter=61
+lovel=111 hivel=127
+ampeg_decay=18.7
+
+/////////////////////////////////////////////////////////////////////////////
+// E4
+
+<region>
+sample=4_E_a.flac
+lokey=63 hikey=65
+pitch_keycenter=64
+lovel=111 hivel=127
+ampeg_decay=15.0
+
+/////////////////////////////////////////////////////////////////////////////
+// G4
+
+<region>
+sample=4_G_a.flac
+lokey=66 hikey=69
+pitch_keycenter=67
+lovel=111 hivel=127
+ampeg_decay=10.0
+
+/////////////////////////////////////////////////////////////////////////////
+// Db5
+
+<region>
+sample=5_Db_a.flac
+lokey=70 hikey=75
+pitch_keycenter=73
+lovel=111 hivel=127
+ampeg_decay=7
+
+/////////////////////////////////////////////////////////////////////////////
+// G5
+
+<region>
+sample=5_G_a.flac
+lokey=76 hikey=127
+pitch_keycenter=79
+lovel=111 hivel=127
+ampeg_decay=4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////
+// Ab1
+
+<region>
+sample=1_Ab_b.flac 
+lokey=0 hikey=34
+pitch_keycenter=33
+lovel=80 hivel=110
+ampeg_decay=25.0
+
+////////////////////////////////////////////////////////////////////////////
+// Db2
+
+<region>
+sample=2_Db_b.flac
+lokey=35 hikey=38
+pitch_keycenter=36
+lovel=80 hivel=110
+ampeg_decay=23.8
+
+/////////////////////////////////////////////////////////////////////////////
+// Gb2
+
+<region>
+sample=2_Gb_b.flac
+lokey=39 hikey=43
+pitch_keycenter=41
+lovel=80 hivel=110
+ampeg_decay=22.9
+
+////////////////////////////////////////////////////////////////////////////
+// C3
+
+<region>
+sample=3_C_b.flac
+lokey=44 hikey=49
+pitch_keycenter=47
+lovel=80 hivel=110
+ampeg_decay=22
+
+/////////////////////////////////////////////////////////////////////////////
+// F3
+
+<region>
+sample=3_F_b.flac
+lokey=50 hikey=53
+pitch_keycenter=52
+lovel=80 hivel=110
+ampeg_decay=21.7
+
+/////////////////////////////////////////////////////////////////////////////
+// A3
+
+<region>
+sample=3_A_b.flac
+lokey=54 hikey=58
+pitch_keycenter=56
+lovel=80 hivel=110
+ampeg_decay=20.3
+
+/////////////////////////////////////////////////////////////////////////////
+// D4
+
+<region>
+sample=4_D_b.flac
+lokey=59 hikey=64
+pitch_keycenter=61
+lovel=80 hivel=110
+ampeg_decay=18.7
+
+/////////////////////////////////////////////////////////////////////////////
+// A4
+
+<region>
+sample=4_A_b.flac
+lokey=65 hikey=70
+pitch_keycenter=68
+lovel=80 hivel=110
+ampeg_decay=13.0
+
+/////////////////////////////////////////////////////////////////////////////
+// D5
+
+<region>
+sample=5_D_b.flac
+lokey=71 hikey=75
+pitch_keycenter=73
+lovel=80 hivel=110
+ampeg_decay=7.0
+
+/////////////////////////////////////////////////////////////////////////////
+// Ab5
+
+<region>
+sample=5_Ab_b.flac
+lokey=76 hikey=81
+pitch_keycenter=79
+lovel=80 hivel=110
+ampeg_decay=4.5
+
+/////////////////////////////////////////////////////////////////////////////
+// D6
+
+<region>
+sample=6_D_b.flac
+lokey=82 hikey=88
+pitch_keycenter=85
+lovel=80 hivel=110
+ampeg_decay=4
+
+/////////////////////////////////////////////////////////////////////////////
+// A6
+
+<region>
+sample=6_A_b.flac
+lokey=89 hikey=127
+pitch_keycenter=92
+lovel=80 hivel=110
+ampeg_decay=3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////
+// A1
+
+<region>
+sample=1_A_c.flac 
+lokey=0 hikey=36
+pitch_keycenter=33
+lovel=50 hivel=79
+ampeg_decay=25.0
+
+////////////////////////////////////////////////////////////////////////////
+// E2
+
+<region>
+sample=2_E_c.flac
+lokey=37 hikey=42
+pitch_keycenter=40
+lovel=50 hivel=79
+ampeg_decay=23.8
+
+/////////////////////////////////////////////////////////////////////////////
+// A2
+
+<region>
+sample=2_A_c.flac
+lokey=43 hikey=48
+pitch_keycenter=45
+lovel=50 hivel=79
+ampeg_decay=22.9
+
+////////////////////////////////////////////////////////////////////////////
+// Eb3
+
+<region>
+sample=3_Eb_c.flac
+lokey=49 hikey=53
+pitch_keycenter=51
+lovel=50 hivel=79
+ampeg_decay=22
+
+/////////////////////////////////////////////////////////////////////////////
+// Ab3
+
+<region>
+sample=3_Ab_c.flac
+lokey=54 hikey=58
+pitch_keycenter=56
+lovel=50 hivel=79
+ampeg_decay=21.7
+
+/////////////////////////////////////////////////////////////////////////////
+// Db4
+
+<region>
+sample=4_Db_c.flac
+lokey=59 hikey=63
+pitch_keycenter=61
+lovel=50 hivel=79
+ampeg_decay=18.7
+
+/////////////////////////////////////////////////////////////////////////////
+// Gb4
+
+<region>
+sample=4_Gb_c.flac
+lokey=64 hikey=68
+pitch_keycenter=66
+lovel=50 hivel=79
+ampeg_decay=13.0
+
+/////////////////////////////////////////////////////////////////////////////
+// b4
+
+<region>
+sample=4_B_c.flac
+lokey=69 hikey=71
+pitch_keycenter=71
+lovel=50 hivel=79
+ampeg_decay=11.0
+
+/////////////////////////////////////////////////////////////////////////////
+// Db5
+
+<region>
+sample=5_Db_c.flac
+lokey=72 hikey=75
+pitch_keycenter=73
+lovel=50 hivel=79
+ampeg_decay=7.0
+
+/////////////////////////////////////////////////////////////////////////////
+// G5
+
+<region>
+sample=5_G_c.flac
+lokey=76 hikey=81
+pitch_keycenter=79
+lovel=50 hivel=79
+ampeg_decay=4.5
+
+/////////////////////////////////////////////////////////////////////////////
+// Db6
+
+<region>
+sample=6_Db_c.flac
+lokey=82 hikey=88
+pitch_keycenter=85
+lovel=50 hivel=79
+ampeg_decay=4
+
+/////////////////////////////////////////////////////////////////////////////
+// Ab6
+
+<region>
+sample=6_Ab_c.flac
+lokey=89 hikey=127
+pitch_keycenter=92
+lovel=50 hivel=79
+ampeg_decay=3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////
+// A1
+
+<region>
+sample=1_A_d.flac 
+lokey=0 hikey=37
+pitch_keycenter=33
+lovel=0 hivel=49
+ampeg_decay=25.0
+
+/////////////////////////////////////////////////////////////////////////////
+// ab2
+
+<region>
+sample=2_Ab_d.flac
+lokey=38 hikey=47
+pitch_keycenter=44
+lovel=0 hivel=49
+ampeg_decay=22.9
+
+////////////////////////////////////////////////////////////////////////////
+// Eb3
+
+<region>
+sample=3_Eb_d.flac
+lokey=48 hikey=53
+pitch_keycenter=51
+lovel=0 hivel=49
+ampeg_decay=22
+
+/////////////////////////////////////////////////////////////////////////////
+// Ab3
+
+<region>
+sample=3_Ab_d.flac
+lokey=54 hikey=58
+pitch_keycenter=56
+lovel=0 hivel=49
+ampeg_decay=21.7
+
+/////////////////////////////////////////////////////////////////////////////
+// Db4
+
+<region>
+sample=4_Db_d.flac
+lokey=59 hikey=63
+pitch_keycenter=61
+lovel=0 hivel=49
+ampeg_decay=18.7
+
+/////////////////////////////////////////////////////////////////////////////
+// G4
+
+<region>
+sample=4_G_d.flac
+lokey=64 hikey=70
+pitch_keycenter=67
+lovel=0 hivel=49
+ampeg_decay=13.0
+
+/////////////////////////////////////////////////////////////////////////////
+// Db5
+
+<region>
+sample=5_Db_d.flac
+lokey=71 hikey=127
+pitch_keycenter=73
+lovel=0 hivel=49
+ampeg_decay=7.0

@@ -1,0 +1,33 @@
+<group> ampeg_release=0.4 ampeg_sustain=0.001 ampeg_decay=30.0
+<region> sample=2_E.flac pitch_keycenter=e1 hikey=f1
+<region> sample=2_Ab.flac pitch_keycenter=g#1 lokey=f#1 hikey=a1
+<region> sample=3_C.flac pitch_keycenter=c2 lokey=a#1 hikey=c#2
+<region> sample=3_E.flac pitch_keycenter=e2 lokey=d2 hikey=f2
+<region> sample=3_Ab.flac pitch_keycenter=g#2 lokey=f#2 hikey=a2
+<region> sample=4_C.flac pitch_keycenter=c3 lokey=a#2 hikey=c#3
+<region> sample=4_E.flac pitch_keycenter=e3 lokey=d3 hikey=f3
+<region> sample=4_Ab.flac pitch_keycenter=g#3 lokey=f#3 hikey=a3
+<region> sample=5_C.flac pitch_keycenter=c4 lokey=a#3 hikey=c#4
+<region> sample=5_E.flac pitch_keycenter=e4 lokey=d4 hikey=f4
+<region> sample=5_Ab.flac pitch_keycenter=g#4 lokey=f#4 hikey=a4
+<region> sample=6_C.flac pitch_keycenter=c5 lokey=a#4 hikey=c#5
+<region> sample=6_E.flac pitch_keycenter=e5 lokey=d5 hikey=f5
+<region> sample=6_Ab.flac pitch_keycenter=g#5 lokey=f#5 hikey=a5
+<region> sample=7_C.flac pitch_keycenter=c6 lokey=a#5
+
+<group> trigger=release loop_mode=one_shot
+<region> sample=2_Er.flac pitch_keycenter=e1 hikey=f1
+<region> sample=2_Abr.flac pitch_keycenter=g#1 lokey=f#1 hikey=a1
+<region> sample=3_Cr.flac pitch_keycenter=c2 lokey=a#1 hikey=c#2
+<region> sample=3_Er.flac pitch_keycenter=e2 lokey=d2 hikey=f2
+<region> sample=3_Abr.flac pitch_keycenter=g#2 lokey=f#2 hikey=a2
+<region> sample=4_Cr.flac pitch_keycenter=c3 lokey=a#2 hikey=c#3
+<region> sample=4_Er.flac pitch_keycenter=e3 lokey=d3 hikey=f3
+<region> sample=4_Abr.flac pitch_keycenter=g#3 lokey=f#3 hikey=a3
+<region> sample=5_Cr.flac pitch_keycenter=c4 lokey=a#3 hikey=c#4
+<region> sample=5_Er.flac pitch_keycenter=e4 lokey=d4 hikey=f4
+<region> sample=5_Abr.flac pitch_keycenter=g#4 lokey=f#4 hikey=a4
+<region> sample=6_Cr.flac pitch_keycenter=c5 lokey=a#4 hikey=c#5
+<region> sample=6_Er.flac pitch_keycenter=e5 lokey=d5 hikey=f5
+<region> sample=6_Abr.flac pitch_keycenter=g#5 lokey=f#5 hikey=a5
+<region> sample=7_Cr.flac pitch_keycenter=c6 lokey=a#5

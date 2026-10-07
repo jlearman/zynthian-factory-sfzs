@@ -1,0 +1,8 @@
+<control> default_path=Sustain\
+<region> sample=3_B.flac pitch_keycenter=b3 hikey=c#4
+<region> sample=4_E.flac pitch_keycenter=e4 lokey=d4 hikey=f#4
+<region> sample=4_A.flac pitch_keycenter=a4 lokey=g4 hikey=b4
+<region> sample=5_D.flac pitch_keycenter=d5 lokey=c5 hikey=e5
+<region> sample=5_G.flac pitch_keycenter=g5 lokey=f5 hikey=a5
+<region> sample=6_C.flac pitch_keycenter=c6 lokey=a#5 hikey=d6
+<region> sample=6_F.flac pitch_keycenter=f6 lokey=d#6

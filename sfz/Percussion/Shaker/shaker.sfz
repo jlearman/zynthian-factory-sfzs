@@ -1,0 +1,7 @@
+<group> key=70 loop_mode=one_shot seq_length=6
+<region> sample=shake_1.flac seq_position=1
+<region> sample=shake_2.flac seq_position=2
+<region> sample=shake_3.flac seq_position=3
+<region> sample=shake_4.flac seq_position=4
+<region> sample=shake_5.flac seq_position=5
+<region> sample=shake_6.flac seq_position=6

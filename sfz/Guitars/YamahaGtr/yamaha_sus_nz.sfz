@@ -1,0 +1,1345 @@
+// Sustained clean electric guitar with random fret/pick noises.
+// Soft pedal selects hammer off.
+
+<control>
+	set_cc1=0
+	set_cc11=127
+	set_cc64=0
+	set_cc67=0
+
+//========================
+<group>
+	trigger=first
+	pitch_keytrack=0
+	amp_veltrack=70
+	lorand=0.700 hirand=0.799
+	seq_length=29
+<region>
+	sample=Pick_01.flac
+<region>
+	sample=Pick_02.flac
+	seq_position=2
+<region>
+	sample=Pick_03.flac
+	seq_position=3
+<region>
+	sample=Pick_04.flac
+	seq_position=4
+<region>
+	sample=Pick_05.flac
+	seq_position=5
+<region>
+	sample=Pick_06.flac
+	seq_position=6
+<region>
+	sample=Pick_07.flac
+	seq_position=7
+<region>
+	sample=Pick_08.flac
+	seq_position=8
+<region>
+	sample=Pick_09.flac
+	seq_position=9
+<region>
+	sample=Pick_10.flac
+	seq_position=10
+<region>
+	sample=Pick_11.flac
+	seq_position=11
+<region>
+	sample=Pick_12.flac
+	seq_position=12
+<region>
+	sample=Pick_13.flac
+	seq_position=13
+<region>
+	sample=Pick_14.flac
+	seq_position=14
+<region>
+	sample=Pick_15.flac
+	seq_position=15
+<region>
+	sample=Pick_16.flac
+	seq_position=16
+<region>
+	sample=Pick_17.flac
+	seq_position=17
+<region>
+	sample=Pick_18.flac
+	seq_position=18
+<region>
+	sample=Pick_19.flac
+	seq_position=19
+<region>
+	sample=Pick_20.flac
+	seq_position=20
+<region>
+	sample=Pick_21.flac
+	seq_position=21
+<region>
+	sample=Pick_22.flac
+	seq_position=22
+<region>
+	sample=Pick_23.flac
+	seq_position=23
+<region>
+	sample=Pick_24.flac
+	seq_position=24
+<region>
+	sample=Pick_25.flac
+	seq_position=25
+<region>
+	sample=Pick_26.flac
+	seq_position=26
+<region>
+	sample=Pick_27.flac
+	seq_position=27
+<region>
+	sample=Pick_28.flac
+	seq_position=28
+<region>
+	sample=Pick_29.flac
+	seq_position=29
+
+//========================
+<group>
+	lokey=76 hikey=127
+	trigger=release
+	pitch_keytrack=0
+	amp_veltrack=70
+	ampeg_release=3
+	lorand=0.800 hirand=0.900
+	seq_length=34
+<region>
+	sample=Scrape_01a.flac
+<region>
+	sample=Click_01a.flac
+	seq_position=2
+<region>
+	sample=Scrape_02a.flac
+	seq_position=3
+<region>
+	sample=Click_02a.flac
+	seq_position=4
+<region>
+	sample=Scrape_03a.flac
+	seq_position=5
+<region>
+	sample=Scrape_04a.flac
+	seq_position=6
+<region>
+	sample=Click_03a.flac
+	seq_position=7
+<region>
+	sample=Scrape_05a.flac
+	seq_position=8
+<region>
+	sample=Click_04a.flac
+	seq_position=9
+<region>
+	sample=Click_05a.flac
+	seq_position=10
+<region>
+	sample=Scrape_06a.flac
+	seq_position=11
+<region>
+	sample=Click_06a.flac
+	seq_position=12
+<region>
+	sample=Scrape_07a.flac
+	seq_position=13
+<region>
+	sample=Scrape_08a.flac
+	seq_position=14
+<region>
+	sample=Click_07a.flac
+	seq_position=15
+<region>
+	sample=Scrape_09a.flac
+	seq_position=16
+<region>
+	sample=Click_08a.flac
+	seq_position=17
+<region>
+	sample=Scrape_10a.flac
+	seq_position=18
+<region>
+	sample=Click_10a.flac
+	seq_position=19
+<region>
+	sample=Scrape_11a.flac
+	seq_position=20
+<region>
+	sample=Click_11a.flac
+	seq_position=21
+<region>
+	sample=Scrape_12a.flac
+	seq_position=22
+<region>
+	sample=Scrape_13a.flac
+	seq_position=23
+<region>
+	sample=Click_12a.flac
+	seq_position=24
+<region>
+	sample=Scrape_14a.flac
+	seq_position=25
+<region>
+	sample=Click_13a.flac
+	seq_position=26
+<region>
+	sample=Scrape_15a.flac
+	seq_position=27
+<region>
+	sample=Scrape_16a.flac
+	seq_position=28
+<region>
+	sample=Click_14a.flac
+	seq_position=29
+<region>
+	sample=Scrape_17a.flac
+	seq_position=30
+<region>
+	sample=Scrape_18a.flac
+	seq_position=31
+<region>
+	sample=Scrape_19a.flac
+	seq_position=32
+<region>
+	sample=Click_09a.flac
+	seq_position=33
+<region>
+	sample=Scrape_20a.flac
+	seq_position=34
+
+
+//========================
+<group>
+	lokey=58 hikey=75
+	trigger=release
+	pitch_keytrack=0
+	amp_veltrack=70
+	ampeg_release=3
+	lorand=0.800 hirand=0.900
+	seq_length=34
+<region>
+	sample=Scrape_01b.flac
+<region>
+	sample=Click_01b.flac
+	seq_position=2
+<region>
+	sample=Scrape_02b.flac
+	seq_position=3
+<region>
+	sample=Click_02b.flac
+	seq_position=4
+<region>
+	sample=Scrape_03b.flac
+	seq_position=5
+<region>
+	sample=Scrape_04b.flac
+	seq_position=6
+<region>
+	sample=Click_03b.flac
+	seq_position=7
+<region>
+	sample=Scrape_05b.flac
+	seq_position=8
+<region>
+	sample=Click_04b.flac
+	seq_position=9
+<region>
+	sample=Click_05b.flac
+	seq_position=10
+<region>
+	sample=Scrape_06b.flac
+	seq_position=11
+<region>
+	sample=Click_06b.flac
+	seq_position=12
+<region>
+	sample=Scrape_07b.flac
+	seq_position=13
+<region>
+	sample=Scrape_08b.flac
+	seq_position=14
+<region>
+	sample=Click_07b.flac
+	seq_position=15
+<region>
+	sample=Scrape_09b.flac
+	seq_position=16
+<region>
+	sample=Click_08b.flac
+	seq_position=17
+<region>
+	sample=Scrape_10b.flac
+	seq_position=18
+<region>
+	sample=Click_10b.flac
+	seq_position=19
+<region>
+	sample=Scrape_11b.flac
+	seq_position=20
+<region>
+	sample=Click_11b.flac
+	seq_position=21
+<region>
+	sample=Scrape_12b.flac
+	seq_position=22
+<region>
+	sample=Scrape_13b.flac
+	seq_position=23
+<region>
+	sample=Click_12b.flac
+	seq_position=24
+<region>
+	sample=Scrape_14b.flac
+	seq_position=25
+<region>
+	sample=Click_13b.flac
+	seq_position=26
+<region>
+	sample=Scrape_15b.flac
+	seq_position=27
+<region>
+	sample=Scrape_16b.flac
+	seq_position=28
+<region>
+	sample=Click_14b.flac
+	seq_position=29
+<region>
+	sample=Scrape_17b.flac
+	seq_position=30
+<region>
+	sample=Scrape_18b.flac
+	seq_position=31
+<region>
+	sample=Scrape_19b.flac
+	seq_position=32
+<region>
+	sample=Click_09b.flac
+	seq_position=33
+<region>
+	sample=Scrape_20b.flac
+	seq_position=34
+
+
+//========================
+<group>
+	lokey=0 hikey=57
+	trigger=release
+	pitch_keytrack=0
+	amp_veltrack=70
+	ampeg_release=3
+	lorand=0.800 hirand=0.900
+	seq_length=34
+<region>
+	sample=Scrape_01c.flac
+<region>
+	sample=Click_01c.flac
+	seq_position=2
+<region>
+	sample=Scrape_02c.flac
+	seq_position=3
+<region>
+	sample=Click_02c.flac
+	seq_position=4
+<region>
+	sample=Scrape_03c.flac
+	seq_position=5
+<region>
+	sample=Scrape_04c.flac
+	seq_position=6
+<region>
+	sample=Click_03c.flac
+	seq_position=7
+<region>
+	sample=Scrape_05c.flac
+	seq_position=8
+<region>
+	sample=Click_04c.flac
+	seq_position=9
+<region>
+	sample=Click_05c.flac
+	seq_position=10
+<region>
+	sample=Scrape_06c.flac
+	seq_position=11
+<region>
+	sample=Click_06c.flac
+	seq_position=12
+<region>
+	sample=Scrape_07c.flac
+	seq_position=13
+<region>
+	sample=Scrape_08c.flac
+	seq_position=14
+<region>
+	sample=Click_07c.flac
+	seq_position=15
+<region>
+	sample=Scrape_09c.flac
+	seq_position=16
+<region>
+	sample=Click_08c.flac
+	seq_position=17
+<region>
+	sample=Scrape_10c.flac
+	seq_position=18
+<region>
+	sample=Click_10c.flac
+	seq_position=19
+<region>
+	sample=Scrape_11c.flac
+	seq_position=20
+<region>
+	sample=Click_11c.flac
+	seq_position=21
+<region>
+	sample=Scrape_12c.flac
+	seq_position=22
+<region>
+	sample=Scrape_13c.flac
+	seq_position=23
+<region>
+	sample=Click_12c.flac
+	seq_position=24
+<region>
+	sample=Scrape_14c.flac
+	seq_position=25
+<region>
+	sample=Click_13c.flac
+	seq_position=26
+<region>
+	sample=Scrape_15c.flac
+	seq_position=27
+<region>
+	sample=Scrape_16c.flac
+	seq_position=28
+<region>
+	sample=Click_14c.flac
+	seq_position=29
+<region>
+	sample=Scrape_17c.flac
+	seq_position=30
+<region>
+	sample=Scrape_18c.flac
+	seq_position=31
+<region>
+	sample=Scrape_19c.flac
+	seq_position=32
+<region>
+	sample=Click_09c.flac
+	seq_position=33
+<region>
+	sample=Scrape_20c.flac
+	seq_position=34
+
+//========================
+<group>
+	ampeg_sustain=0.001
+	ampeg_release=0.4
+	loop_mode=loop_continuous
+	seq_length=3
+	locc67=0 hicc67=63
+<region>
+	sample=00_Sus_1.flac
+	pitch_keycenter=40
+	lokey=0 hikey=40
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=00_Sus_2.flac
+	pitch_keycenter=40
+	lokey=0 hikey=40
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=00_Sus_3.flac
+	pitch_keycenter=40
+	lokey=0 hikey=40
+	ampeg_decay=30.0
+	seq_position=3
+<region>
+	sample=02_Sus_1.flac
+	pitch_keycenter=42
+	lokey=41 hikey=42
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=02_Sus_2.flac
+	pitch_keycenter=42
+	lokey=41 hikey=42
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=02_Sus_3.flac
+	pitch_keycenter=42
+	lokey=41 hikey=42
+	ampeg_decay=30.0
+<region>
+	sample=04_Sus_1.flac
+	pitch_keycenter=44
+	lokey=43 hikey=44
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=04_Sus_2.flac
+	pitch_keycenter=44
+	lokey=43 hikey=44
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=04_Sus_3.flac
+	pitch_keycenter=44
+	lokey=43 hikey=44
+	ampeg_decay=30.0
+<region>
+	sample=06_Sus_1.flac
+	pitch_keycenter=46
+	lokey=45 hikey=46
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=06_Sus_2.flac
+	pitch_keycenter=46
+	lokey=45 hikey=46
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=06_Sus_3.flac
+	pitch_keycenter=46
+	lokey=45 hikey=46
+	ampeg_decay=30.0
+<region>
+	sample=08_Sus_1.flac
+	pitch_keycenter=48
+	lokey=47 hikey=48
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=08_Sus_2.flac
+	pitch_keycenter=48
+	lokey=47 hikey=48
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=08_Sus_3.flac
+	pitch_keycenter=48
+	lokey=47 hikey=48
+	ampeg_decay=30.0
+<region>
+	sample=10_Sus_1.flac
+	pitch_keycenter=50
+	lokey=49 hikey=50
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=10_Sus_2.flac
+	pitch_keycenter=50
+	lokey=49 hikey=50
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=10_Sus_3.flac
+	pitch_keycenter=50
+	lokey=49 hikey=50
+	ampeg_decay=30.0
+<region>
+	sample=12_Sus_1.flac
+	pitch_keycenter=52
+	lokey=51 hikey=52
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=12_Sus_2.flac
+	pitch_keycenter=52
+	lokey=51 hikey=52
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=12_Sus_3.flac
+	pitch_keycenter=52
+	lokey=51 hikey=52
+	ampeg_decay=30.0
+<region>
+	sample=14_Sus_1.flac
+	pitch_keycenter=54
+	lokey=53 hikey=54
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=14_Sus_2.flac
+	pitch_keycenter=54
+	lokey=53 hikey=54
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=14_Sus_3.flac
+	pitch_keycenter=54
+	lokey=53 hikey=54
+	ampeg_decay=30.0
+<region>
+	sample=16_Sus_1.flac
+	pitch_keycenter=56
+	lokey=55 hikey=56
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=16_Sus_2.flac
+	pitch_keycenter=56
+	lokey=55 hikey=56
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=16_Sus_3.flac
+	pitch_keycenter=56
+	lokey=55 hikey=56
+	ampeg_decay=30.0
+<region>
+	sample=18_Sus_1.flac
+	pitch_keycenter=58
+	lokey=57 hikey=58
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=18_Sus_2.flac
+	pitch_keycenter=58
+	lokey=57 hikey=58
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=18_Sus_3.flac
+	pitch_keycenter=58
+	lokey=57 hikey=58
+	ampeg_decay=30.0
+<region>
+	sample=20_Sus_1.flac
+	pitch_keycenter=60
+	lokey=59 hikey=60
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=20_Sus_2.flac
+	pitch_keycenter=60
+	lokey=59 hikey=60
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=20_Sus_3.flac
+	pitch_keycenter=60
+	lokey=59 hikey=60
+	ampeg_decay=30.0
+<region>
+	sample=22_Sus_1.flac
+	pitch_keycenter=62
+	lokey=61 hikey=62
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=22_Sus_2.flac
+	pitch_keycenter=62
+	lokey=61 hikey=62
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=22_Sus_3.flac
+	pitch_keycenter=62
+	lokey=61 hikey=62
+	ampeg_decay=30.0
+<region>
+	sample=24_Sus_1.flac
+	pitch_keycenter=64
+	lokey=63 hikey=64
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=24_Sus_2.flac
+	pitch_keycenter=64
+	lokey=63 hikey=64
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=24_Sus_3.flac
+	pitch_keycenter=64
+	lokey=63 hikey=64
+	ampeg_decay=30.0
+<region>
+	sample=26_Sus_1.flac
+	pitch_keycenter=66
+	lokey=65 hikey=66
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=26_Sus_2.flac
+	pitch_keycenter=66
+	lokey=65 hikey=66
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=26_Sus_3.flac
+	pitch_keycenter=66
+	lokey=65 hikey=66
+	ampeg_decay=30.0
+<region>
+	sample=28_Sus_1.flac
+	pitch_keycenter=68
+	lokey=67 hikey=68
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=28_Sus_2.flac
+	pitch_keycenter=68
+	lokey=67 hikey=68
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=28_Sus_3.flac
+	pitch_keycenter=68
+	lokey=67 hikey=68
+	ampeg_decay=30.0
+<region>
+	sample=30_Sus_1.flac
+	pitch_keycenter=70
+	lokey=69 hikey=70
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=30_Sus_2.flac
+	pitch_keycenter=70
+	lokey=69 hikey=70
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=30_Sus_3.flac
+	pitch_keycenter=70
+	lokey=69 hikey=70
+	ampeg_decay=30.0
+<region>
+	sample=32_Sus_1.flac
+	pitch_keycenter=72
+	lokey=71 hikey=72
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=32_Sus_2.flac
+	pitch_keycenter=72
+	lokey=71 hikey=72
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=32_Sus_3.flac
+	pitch_keycenter=72
+	lokey=71 hikey=72
+	ampeg_decay=30.0
+<region>
+	sample=34_Sus_1.flac
+	pitch_keycenter=74
+	lokey=73 hikey=74
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=34_Sus_2.flac
+	pitch_keycenter=74
+	lokey=73 hikey=74
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=34_Sus_3.flac
+	pitch_keycenter=74
+	lokey=73 hikey=74
+	ampeg_decay=30.0
+<region>
+	sample=36_Sus_1.flac
+	pitch_keycenter=76
+	lokey=75 hikey=76
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=36_Sus_2.flac
+	pitch_keycenter=76
+	lokey=75 hikey=76
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=36_Sus_3.flac
+	pitch_keycenter=76
+	lokey=75 hikey=76
+	ampeg_decay=30.0
+<region>
+	sample=38_Sus_1.flac
+	pitch_keycenter=78
+	lokey=77 hikey=78
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=38_Sus_2.flac
+	pitch_keycenter=78
+	lokey=77 hikey=78
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=38_Sus_3.flac
+	pitch_keycenter=78
+	lokey=77 hikey=78
+	ampeg_decay=30.0
+<region>
+	sample=40_Sus_1.flac
+	pitch_keycenter=80
+	lokey=79 hikey=80
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=40_Sus_2.flac
+	pitch_keycenter=80
+	lokey=79 hikey=80
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=40_Sus_3.flac
+	pitch_keycenter=80
+	lokey=79 hikey=80
+	ampeg_decay=30.0
+<region>
+	sample=42_Sus_1.flac
+	pitch_keycenter=82
+	lokey=81 hikey=82
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=42_Sus_2.flac
+	pitch_keycenter=82
+	lokey=81 hikey=82
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=42_Sus_3.flac
+	pitch_keycenter=82
+	lokey=81 hikey=82
+	ampeg_decay=30.0
+<region>
+	sample=44_Sus_1.flac
+	pitch_keycenter=84
+	lokey=83 hikey=84
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=44_Sus_2.flac
+	pitch_keycenter=84
+	lokey=83 hikey=84
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=44_Sus_3.flac
+	pitch_keycenter=84
+	lokey=83 hikey=84
+	ampeg_decay=30.0
+<region>
+	sample=46_Sus_1.flac
+	pitch_keycenter=86
+	lokey=85 hikey=127
+	ampeg_decay=30.0
+<region>
+	seq_position=2
+	sample=46_Sus_2.flac
+	pitch_keycenter=86
+	lokey=85 hikey=127
+	ampeg_decay=30.0
+<region>
+	seq_position=3
+	sample=46_Sus_3.flac
+	pitch_keycenter=86
+	lokey=85 hikey=127
+	ampeg_decay=30.0
+
+
+// Hammer off
+<group>
+	ampeg_sustain=0.001
+	ampeg_release=0.4
+	loop_mode=loop_continuous
+	seq_length=3
+	locc67=64 hicc67=127
+<region>
+	sample=00_Sus_1.flac
+	pitch_keycenter=40
+	lokey=0 hikey=40
+	ampeg_decay=30.0
+	offset=49308
+<region>
+	seq_position=2
+	sample=00_Sus_2.flac
+	pitch_keycenter=40
+	lokey=0 hikey=40
+	ampeg_decay=30.0
+	offset=29575
+<region>
+	seq_position=3
+	sample=00_Sus_3.flac
+	pitch_keycenter=40
+	lokey=0 hikey=40
+	ampeg_decay=30.0
+	seq_position=3
+	offset=46555
+<region>
+	sample=02_Sus_1.flac
+	pitch_keycenter=42
+	lokey=41 hikey=42
+	ampeg_decay=30.0
+	offset=33722
+<region>
+	seq_position=2
+	sample=02_Sus_2.flac
+	pitch_keycenter=42
+	lokey=41 hikey=42
+	ampeg_decay=30.0
+	offset=37651
+<region>
+	seq_position=3
+	sample=02_Sus_3.flac
+	pitch_keycenter=42
+	lokey=41 hikey=42
+	ampeg_decay=30.0
+	offset=49458
+<region>
+	sample=04_Sus_1.flac
+	pitch_keycenter=44
+	lokey=43 hikey=44
+	ampeg_decay=30.0
+	offset=46458
+<region>
+	seq_position=2
+	sample=04_Sus_2.flac
+	pitch_keycenter=44
+	lokey=43 hikey=44
+	ampeg_decay=30.0
+	offset=50620
+<region>
+	seq_position=3
+	sample=04_Sus_3.flac
+	pitch_keycenter=44
+	lokey=43 hikey=44
+	ampeg_decay=30.0
+	offset=39464
+<region>
+	sample=06_Sus_1.flac
+	pitch_keycenter=46
+	lokey=45 hikey=46
+	ampeg_decay=30.0
+	offset=26342
+<region>
+	seq_position=2
+	sample=06_Sus_2.flac
+	pitch_keycenter=46
+	lokey=45 hikey=46
+	ampeg_decay=30.0
+	offset=30559
+<region>
+	seq_position=3
+	sample=06_Sus_3.flac
+	pitch_keycenter=46
+	lokey=45 hikey=46
+	ampeg_decay=30.0
+	offset=38730
+<region>
+	sample=08_Sus_1.flac
+	pitch_keycenter=48
+	lokey=47 hikey=48
+	ampeg_decay=30.0
+	offset=18049
+<region>
+	seq_position=2
+	sample=08_Sus_2.flac
+	pitch_keycenter=48
+	lokey=47 hikey=48
+	ampeg_decay=30.0
+	offset=17584
+<region>
+	seq_position=3
+	sample=08_Sus_3.flac
+	pitch_keycenter=48
+	lokey=47 hikey=48
+	ampeg_decay=30.0
+	offset=27406
+<region>
+	sample=10_Sus_1.flac
+	pitch_keycenter=50
+	lokey=49 hikey=50
+	ampeg_decay=30.0
+	offset=26713
+<region>
+	seq_position=2
+	sample=10_Sus_2.flac
+	pitch_keycenter=50
+	lokey=49 hikey=50
+	ampeg_decay=30.0
+	offset=44632
+<region>
+	seq_position=3
+	sample=10_Sus_3.flac
+	pitch_keycenter=50
+	lokey=49 hikey=50
+	ampeg_decay=30.0
+	offset=26050
+<region>
+	sample=12_Sus_1.flac
+	pitch_keycenter=52
+	lokey=51 hikey=52
+	ampeg_decay=30.0
+	offset=23222
+<region>
+	seq_position=2
+	sample=12_Sus_2.flac
+	pitch_keycenter=52
+	lokey=51 hikey=52
+	ampeg_decay=30.0
+	offset=24039
+<region>
+	seq_position=3
+	sample=12_Sus_3.flac
+	pitch_keycenter=52
+	lokey=51 hikey=52
+	ampeg_decay=30.0
+	offset=24930
+//
+<region>
+	sample=14_Sus_1.flac
+	pitch_keycenter=54
+	lokey=53 hikey=54
+	ampeg_decay=30.0
+	offset=13281
+<region>
+	seq_position=2
+	sample=14_Sus_2.flac
+	pitch_keycenter=54
+	lokey=53 hikey=54
+	ampeg_decay=30.0
+	offset=12172
+<region>
+	seq_position=3
+	sample=14_Sus_3.flac
+	pitch_keycenter=54
+	lokey=53 hikey=54
+	ampeg_decay=30.0
+	offset=12249
+<region>
+	sample=16_Sus_1.flac
+	pitch_keycenter=56
+	lokey=55 hikey=56
+	ampeg_decay=30.0
+	offset=23575
+<region>
+	seq_position=2
+	sample=16_Sus_2.flac
+	pitch_keycenter=56
+	lokey=55 hikey=56
+	ampeg_decay=30.0
+	offset=23706
+<region>
+	seq_position=3
+	sample=16_Sus_3.flac
+	pitch_keycenter=56
+	lokey=55 hikey=56
+	ampeg_decay=30.0
+	offset=24132
+<region>
+	sample=18_Sus_1.flac
+	pitch_keycenter=58
+	lokey=57 hikey=58
+	ampeg_decay=30.0
+	offset=27657
+<region>
+	seq_position=2
+	sample=18_Sus_2.flac
+	pitch_keycenter=58
+	lokey=57 hikey=58
+	ampeg_decay=30.0
+	offset=36533
+<region>
+	seq_position=3
+	sample=18_Sus_3.flac
+	pitch_keycenter=58
+	lokey=57 hikey=58
+	ampeg_decay=30.0
+	offset=27719
+<region>
+	sample=20_Sus_1.flac
+	pitch_keycenter=60
+	lokey=59 hikey=60
+	ampeg_decay=30.0
+	offset=41424
+<region>
+	seq_position=2
+	sample=20_Sus_2.flac
+	pitch_keycenter=60
+	lokey=59 hikey=60
+	ampeg_decay=30.0
+	offset=45015
+<region>
+	seq_position=3
+	sample=20_Sus_3.flac
+	pitch_keycenter=60
+	lokey=59 hikey=60
+	ampeg_decay=30.0
+	offset=36306
+<region>
+	sample=22_Sus_1.flac
+	pitch_keycenter=62
+	lokey=61 hikey=62
+	ampeg_decay=30.0
+	offset=23609
+<region>
+	seq_position=2
+	sample=22_Sus_2.flac
+	pitch_keycenter=62
+	lokey=61 hikey=62
+	ampeg_decay=30.0
+	offset=18972
+<region>
+	seq_position=3
+	sample=22_Sus_3.flac
+	pitch_keycenter=62
+	lokey=61 hikey=62
+	ampeg_decay=30.0
+	offset=19834
+<region>
+	sample=24_Sus_1.flac
+	pitch_keycenter=64
+	lokey=63 hikey=64
+	ampeg_decay=30.0
+	offset=13245
+<region>
+	seq_position=2
+	sample=24_Sus_2.flac
+	pitch_keycenter=64
+	lokey=63 hikey=64
+	ampeg_decay=30.0
+	offset=15286
+<region>
+	seq_position=3
+	sample=24_Sus_3.flac
+	pitch_keycenter=64
+	lokey=63 hikey=64
+	ampeg_decay=30.0
+	offset=15824
+<region>
+	sample=26_Sus_1.flac
+	pitch_keycenter=66
+	lokey=65 hikey=66
+	ampeg_decay=30.0
+	offset=17715
+<region>
+	seq_position=2
+	sample=26_Sus_2.flac
+	pitch_keycenter=66
+	lokey=65 hikey=66
+	ampeg_decay=30.0
+	offset=25477
+<region>
+	seq_position=3
+	sample=26_Sus_3.flac
+	pitch_keycenter=66
+	lokey=65 hikey=66
+	ampeg_decay=30.0
+	offset=27690
+<region>
+	sample=28_Sus_1.flac
+	pitch_keycenter=68
+	lokey=67 hikey=68
+	ampeg_decay=30.0
+	offset=13494
+<region>
+	seq_position=2
+	sample=28_Sus_2.flac
+	pitch_keycenter=68
+	lokey=67 hikey=68
+	ampeg_decay=30.0
+	offset=16463
+<region>
+	seq_position=3
+	sample=28_Sus_3.flac
+	pitch_keycenter=68
+	lokey=67 hikey=68
+	ampeg_decay=30.0
+	offset=21686
+<region>
+	sample=30_Sus_1.flac
+	pitch_keycenter=70
+	lokey=69 hikey=70
+	ampeg_decay=30.0
+	offset=20236
+<region>
+	seq_position=2
+	sample=30_Sus_2.flac
+	pitch_keycenter=70
+	lokey=69 hikey=70
+	ampeg_decay=30.0
+	offset=26530
+<region>
+	seq_position=3
+	sample=30_Sus_3.flac
+	pitch_keycenter=70
+	lokey=69 hikey=70
+	ampeg_decay=30.0
+	offset=16527
+<region>
+	sample=32_Sus_1.flac
+	pitch_keycenter=72
+	lokey=71 hikey=72
+	ampeg_decay=30.0
+	offset=22240
+<region>
+	seq_position=2
+	sample=32_Sus_2.flac
+	pitch_keycenter=72
+	lokey=71 hikey=72
+	ampeg_decay=30.0
+	offset=19122
+<region>
+	seq_position=3
+	sample=32_Sus_3.flac
+	pitch_keycenter=72
+	lokey=71 hikey=72
+	ampeg_decay=30.0
+	offset=26503
+<region>
+	sample=34_Sus_1.flac
+	pitch_keycenter=74
+	lokey=73 hikey=74
+	ampeg_decay=30.0
+	offset=20445
+<region>
+	seq_position=2
+	sample=34_Sus_2.flac
+	pitch_keycenter=74
+	lokey=73 hikey=74
+	ampeg_decay=30.0
+	offset=28677
+<region>
+	seq_position=3
+	sample=34_Sus_3.flac
+	pitch_keycenter=74
+	lokey=73 hikey=74
+	ampeg_decay=30.0
+	offset=30102
+<region>
+	sample=36_Sus_1.flac
+	pitch_keycenter=76
+	lokey=75 hikey=76
+	ampeg_decay=30.0
+	offset=25699
+<region>
+	seq_position=2
+	sample=36_Sus_2.flac
+	pitch_keycenter=76
+	lokey=75 hikey=76
+	ampeg_decay=30.0
+	offset=31759
+<region>
+	seq_position=3
+	sample=36_Sus_3.flac
+	pitch_keycenter=76
+	lokey=75 hikey=76
+	ampeg_decay=30.0
+	offset=33069
+<region>
+	sample=38_Sus_1.flac
+	pitch_keycenter=78
+	lokey=77 hikey=78
+	ampeg_decay=30.0
+	offset=21365
+<region>
+	seq_position=2
+	sample=38_Sus_2.flac
+	pitch_keycenter=78
+	lokey=77 hikey=78
+	ampeg_decay=30.0
+	offset=28810
+<region>
+	seq_position=3
+	sample=38_Sus_3.flac
+	pitch_keycenter=78
+	lokey=77 hikey=78
+	ampeg_decay=30.0
+	offset=22624
+<region>
+	sample=40_Sus_1.flac
+	pitch_keycenter=80
+	lokey=79 hikey=80
+	ampeg_decay=30.0
+	offset=18025
+<region>
+	seq_position=2
+	sample=40_Sus_2.flac
+	pitch_keycenter=80
+	lokey=79 hikey=80
+	ampeg_decay=30.0
+	offset=19957
+<region>
+	seq_position=3
+	sample=40_Sus_3.flac
+	pitch_keycenter=80
+	lokey=79 hikey=80
+	ampeg_decay=30.0
+	offset=17462
+<region>
+	sample=42_Sus_1.flac
+	pitch_keycenter=82
+	lokey=81 hikey=82
+	ampeg_decay=30.0
+	offset=20787
+<region>
+	seq_position=2
+	sample=42_Sus_2.flac
+	pitch_keycenter=82
+	lokey=81 hikey=82
+	ampeg_decay=30.0
+	offset=23815
+<region>
+	seq_position=3
+	sample=42_Sus_3.flac
+	pitch_keycenter=82
+	lokey=81 hikey=82
+	ampeg_decay=30.0
+	offset=23066
+<region>
+	sample=44_Sus_1.flac
+	pitch_keycenter=84
+	lokey=83 hikey=84
+	ampeg_decay=30.0
+	offset=24053
+<region>
+	seq_position=2
+	sample=44_Sus_2.flac
+	pitch_keycenter=84
+	lokey=83 hikey=84
+	ampeg_decay=30.0
+	offset=24628
+<region>
+	seq_position=3
+	sample=44_Sus_3.flac
+	pitch_keycenter=84
+	lokey=83 hikey=84
+	ampeg_decay=30.0
+	offset=13173
+<region>
+	sample=46_Sus_1.flac
+	pitch_keycenter=86
+	lokey=85 hikey=127
+	ampeg_decay=30.0
+	offset=19076
+<region>
+	seq_position=2
+	sample=46_Sus_2.flac
+	pitch_keycenter=86
+	lokey=85 hikey=127
+	ampeg_decay=30.0
+	offset=11977
+<region>
+	seq_position=3
+	sample=46_Sus_3.flac
+	pitch_keycenter=86
+	lokey=85 hikey=127
+	ampeg_decay=30.0
+	offset=16382

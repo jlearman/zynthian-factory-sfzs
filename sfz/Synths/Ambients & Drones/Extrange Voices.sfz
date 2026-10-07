@@ -1,0 +1,34 @@
+<group>
+ampeg_release=3.839
+
+<region> sample=Samples\Extrange Voices\05.flac
+lokey=0
+hikey=44
+pitch_keycenter=42
+
+<region> sample=Samples\Extrange Voices\012.flac
+lokey=45
+hikey=50
+pitch_keycenter=48
+
+<region> sample=Samples\Extrange Voices\06.flac
+lokey=51
+hikey=56
+pitch_keycenter=54
+
+<region> sample=Samples\Extrange Voices\022.flac
+lokey=57
+hikey=65
+pitch_keycenter=60
+
+<region> sample=Samples\Extrange Voices\032.flac
+lokey=66
+hikey=77
+pitch_keycenter=72
+
+<region> sample=Samples\Extrange Voices\041.flac
+lokey=78
+hikey=127
+pitch_keycenter=84
+
+

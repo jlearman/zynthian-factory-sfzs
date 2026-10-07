@@ -1,0 +1,13 @@
+<control> default_path=Vibrato\
+<region> sample=3_Gv.flac pitch_keycenter=g3 hikey=g3
+<region> sample=3_Av.flac pitch_keycenter=a3 lokey=g#3 hikey=a3
+<region> sample=3_Bv.flac pitch_keycenter=b3 lokey=a#3 hikey=b3
+<region> sample=4_Dbv.flac pitch_keycenter=c#4 lokey=c4 hikey=d4
+<region> sample=4_Fv.flac pitch_keycenter=f4 lokey=d#4 hikey=f4
+<region> sample=4_Gbv.flac pitch_keycenter=g4 lokey=f#4 hikey=g4
+<region> sample=4_Av.flac pitch_keycenter=a4 lokey=g#4 hikey=a4
+<region> sample=4_Bv.flac pitch_keycenter=b4 lokey=a#4 hikey=b4
+<region> sample=5_Dbv.flac pitch_keycenter=c#5 lokey=c5 hikey=d5
+<region> sample=5_Fv.flac pitch_keycenter=f5 lokey=d#5 hikey=f#5
+<region> sample=5_Av.flac pitch_keycenter=a5 lokey=g5 hikey=a#5
+<region> sample=6_Cv.flac pitch_keycenter=c6 lokey=b5

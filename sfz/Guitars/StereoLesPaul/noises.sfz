@@ -1,0 +1,43 @@
+// Clean electric guitar.
+// Fret noises, and chord thrums.
+
+<group> loop_mode=one_shot volume=-5
+<region> sample=noise\fret1.flac key=c4
+<region> sample=noise\fret2.flac key=d4
+<region> sample=noise\fret3.flac key=e4
+<region> sample=noise\fret4.flac key=f4
+<region> sample=noise\fret5.flac key=g4
+<region> sample=noise\fret6.flac key=a4
+<region> sample=noise\fret7.flac key=b4
+<region> sample=noise\fret8.flac key=c5
+<region> sample=noise\fret9.flac key=d5
+<region> sample=noise\fret10.flac key=e5
+<region> sample=noise\fret11.flac key=f5
+
+<group> lokey=a3 hikey=b3 pitch_keycenter=a#3 seq_length=8 loop_mode=one_shot
+<region> sample=noise\chunk_hi_1.flac
+<region> sample=noise\chunk_hi_2.flac seq_position=2
+<region> sample=noise\chunk_hi_3.flac seq_position=3
+<region> sample=noise\chunk_hi_4.flac seq_position=4
+<region> sample=noise\chunk_hi_5.flac seq_position=5
+<region> sample=noise\chunk_hi_6.flac seq_position=6
+<region> sample=noise\chunk_hi_7.flac seq_position=7
+<region> sample=noise\chunk_hi_8.flac seq_position=8
+<group> lokey=f3 hikey=g#3 pitch_keycenter=f#3 loop_mode=one_shot seq_length=8
+<region> sample=noise\chunk_mid_1.flac
+<region> sample=noise\chunk_mid_2.flac seq_position=2
+<region> sample=noise\chunk_mid_3.flac seq_position=3
+<region> sample=noise\chunk_mid_4.flac seq_position=4
+<region> sample=noise\chunk_mid_5.flac seq_position=5
+<region> sample=noise\chunk_mid_6.flac seq_position=6
+<region> sample=noise\chunk_mid_7.flac seq_position=7
+<region> sample=noise\chunk_mid_8.flac seq_position=8
+<group> lokey=d3 hikey=e3 pitch_keycenter=d#3 loop_mode=one_shot seq_length=8
+<region> sample=noise\chunk_lo_1.flac
+<region> sample=noise\chunk_lo_2.flac seq_position=2
+<region> sample=noise\chunk_lo_3.flac seq_position=3
+<region> sample=noise\chunk_lo_4.flac seq_position=4
+<region> sample=noise\chunk_lo_5.flac seq_position=5
+<region> sample=noise\chunk_lo_6.flac seq_position=6
+<region> sample=noise\chunk_lo_7.flac seq_position=7
+<region> sample=noise\chunk_lo_8.flac seq_position=8

@@ -1,0 +1,5 @@
+<group> ampeg_release=0.6 hicc68=63
+#include "S1.sfz"
+
+<group> ampeg_release=0.6 locc68=64
+#include "S2.sfz"

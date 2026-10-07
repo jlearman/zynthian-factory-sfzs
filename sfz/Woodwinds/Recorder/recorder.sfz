@@ -1,0 +1,18 @@
+<group> ampeg_release=.3
+<region> sample=4_F.flac pitch_keycenter=f4 hikey=f4
+<region> sample=4_G.flac pitch_keycenter=g4 lokey=f#4 hikey=g4
+<region> sample=4_A.flac pitch_keycenter=a4 lokey=g#4 hikey=a4
+<region> sample=4_B.flac pitch_keycenter=b4 lokey=a#4 hikey=b4
+<region> sample=5_C.flac pitch_keycenter=c5 lokey=c5 hikey=c5
+<region> sample=5_D.flac pitch_keycenter=d5 lokey=c#5 hikey=d5
+<region> sample=5_E.flac pitch_keycenter=e5 lokey=d#5 hikey=e5
+<region> sample=5_F.flac pitch_keycenter=f5 lokey=f5 hikey=f5
+<region> sample=5_G.flac pitch_keycenter=g5 lokey=f#5 hikey=g5
+<region> sample=5_A.flac pitch_keycenter=a5 lokey=g#5 hikey=a5
+<region> sample=5_B.flac pitch_keycenter=b5 lokey=a#5 hikey=b5
+<region> sample=6_C.flac pitch_keycenter=c6 lokey=c6 hikey=c6
+<region> sample=6_D.flac pitch_keycenter=d6 lokey=c#6 hikey=d6
+<region> sample=6_E.flac pitch_keycenter=e6 lokey=d#6 hikey=e6
+<region> sample=6_F.flac pitch_keycenter=f6 lokey=f6 hikey=g6
+<region> sample=6_B.flac pitch_keycenter=b6 lokey=g#6 hikey=c7
+<region> sample=7_D.flac pitch_keycenter=d7 lokey=c#7

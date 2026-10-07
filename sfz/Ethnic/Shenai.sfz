@@ -1,0 +1,26 @@
+<group>
+volume=-6.16
+ampeg_release=0.828
+effect1=7
+pitcheg_release=0.538
+fileg_release=0.538
+pitchlfo_freq=4.252
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Shenai\Shenai G4.flac
+lokey=21
+hikey=71
+pitch_keycenter=79
+
+<region> sample=Samples\Shenai\Shenai G4.flac
+lokey=72
+hikey=101
+pitch_keycenter=79
+
+<region> sample=Samples\Shenai\Shenai G6.flac
+lokey=102
+hikey=108
+pitch_keycenter=103
+
+

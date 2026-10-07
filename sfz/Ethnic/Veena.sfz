@@ -1,0 +1,84 @@
+<group>
+ampeg_sustain=0.001
+ampeg_release=1.683
+pitcheg_decay=1.21
+pitcheg_sustain=0
+pitcheg_release=2.097
+fileg_decay=1.21
+fileg_sustain=0
+fileg_release=2.097
+
+<region> sample=Samples\Veena\VEENA   A3.flac
+lokey=24
+hikey=56
+pitch_keycenter=57
+tune=24
+ampeg_decay=18.929
+cutoff=5859.9
+fileg_depth=12000
+
+<region> sample=Samples\Veena\VEENA  C#4.flac
+lokey=57
+hikey=61
+pitch_keycenter=61
+tune=1
+ampeg_decay=18.929
+cutoff=19997.1
+
+<region> sample=Samples\Veena\VEENA  D#4.flac
+lokey=62
+hikey=64
+pitch_keycenter=63
+tune=6
+ampeg_decay=23.588
+cutoff=19997.1
+
+<region> sample=Samples\Veena\VEENA  F#4.flac
+lokey=65
+hikey=68
+pitch_keycenter=66
+tune=1
+ampeg_decay=18.929
+cutoff=19997.1
+
+<region> sample=Samples\Veena\VEENA   A4.flac
+lokey=69
+hikey=71
+pitch_keycenter=69
+tune=1
+ampeg_decay=15.189
+cutoff=19997.1
+
+<region> sample=Samples\Veena\VEENA  C#5.flac
+lokey=72
+hikey=74
+pitch_keycenter=73
+tune=-21
+ampeg_decay=16.961
+cutoff=19997.1
+
+<region> sample=Samples\Veena\VEENA   E5.flac
+lokey=75
+hikey=76
+pitch_keycenter=76
+tune=-10
+ampeg_decay=15.189
+cutoff=19997.1
+
+<region> sample=Samples\Veena\VEENA  F#5.flac
+lokey=77
+hikey=79
+pitch_keycenter=78
+tune=-23
+ampeg_decay=15.189
+cutoff=19997.1
+
+<region> sample=Samples\Veena\VEENA   A5.flac
+lokey=80
+hikey=127
+pitch_keycenter=81
+tune=-21
+ampeg_decay=16.961
+cutoff=19997.1
+
+

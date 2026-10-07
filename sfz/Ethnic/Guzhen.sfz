@@ -1,0 +1,49 @@
+<group>
+ampeg_sustain=0.001
+cutoff=19997.1
+pitcheg_decay=0.002
+pitcheg_release=0.062
+fileg_decay=0.002
+fileg_release=0.062
+
+<region> sample=Samples\Guzhen\GUZHEN A#3.flac
+lokey=21
+hikey=59
+pitch_keycenter=58
+tune=1
+ampeg_decay=9.781
+ampeg_release=2.613
+
+<region> sample=Samples\Guzhen\GUZHEN D#4.flac
+lokey=60
+hikey=65
+pitch_keycenter=63
+tune=1
+ampeg_decay=8.764
+ampeg_release=2.613
+
+<region> sample=Samples\Guzhen\GUZHEN G#4.flac
+lokey=66
+hikey=71
+pitch_keycenter=68
+tune=1
+ampeg_decay=5.644
+ampeg_release=2.613
+
+<region> sample=Samples\Guzhen\GUZHEN C#5.flac
+lokey=72
+hikey=76
+pitch_keycenter=73
+tune=10
+ampeg_decay=5.057
+ampeg_release=2.613
+
+<region> sample=Samples\Guzhen\GUZHEN  F5.flac
+lokey=77
+hikey=127
+pitch_keycenter=77
+tune=1
+ampeg_decay=9.781
+ampeg_release=6.302
+
+

@@ -1,0 +1,27 @@
+<group> ampeg_sustain=0.01 ampeg_release=.3 ampeg_decay=25
+<region> sample=3_D.flac pitch_keycenter=d3 lokey=a2 hikey=d3
+<region> sample=3_Eb.flac key=d#3
+<region> sample=3_E.flac key=e3
+<region> sample=3_F.flac key=f3
+<region> sample=3_Gb.flac pitch_keycenter=f#3 lokey=f#3 hikey=g3
+<region> sample=3_A.flac pitch_keycenter=a3 lokey=g#3 hikey=a3
+<region> sample=3_Bb.flac key=a#3
+<region> sample=3_B.flac key=b3
+<region> sample=4_C.flac key=c4
+<region> sample=4_Db.flac key=c#4
+<region> sample=4_D.flac key=d4
+<region> sample=4_Eb.flac key=d#4
+<region> sample=4_E.flac key=e4
+<region> sample=4_F.flac key=f4
+<region> sample=4_Gb.flac key=f#4
+<region> sample=4_G.flac key=g4
+<region> sample=4_Ab.flac key=g#4
+<region> sample=4_A.flac key=a4
+<region> sample=4_Bb.flac key=a#4
+<region> sample=4_B.flac key=b4
+<region> sample=5_C.flac pitch_keycenter=c5 lokey=c5 hikey=d#5
+<region> sample=5_E.flac pitch_keycenter=e5 lokey=d#5 hikey=e5
+<region> sample=5_Gb.flac pitch_keycenter=f#5 lokey=f5 hikey=g#5
+<region> sample=5_B.flac pitch_keycenter=b5 lokey=a5 hikey=c6
+<region> sample=6_D.flac pitch_keycenter=d6 lokey=c#6 hikey=d6
+<region> sample=6_E.flac pitch_keycenter=e6 lokey=d#6 hikey=g6

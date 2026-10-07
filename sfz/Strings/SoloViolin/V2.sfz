@@ -1,0 +1,42 @@
+<control> default_path=Vibrato\
+<region> sample=3_G.flac hikey=55 pitch_keycenter=55 offset=6444 trigger=legato ampeg_attack=.1
+<region> sample=3_Ab.flac key=56 offset=4554 trigger=legato ampeg_attack=.1
+<region> sample=3_A.flac key=57 offset=4675 trigger=legato ampeg_attack=.1
+<region> sample=3_Bb.flac key=58 offset=2512 trigger=legato ampeg_attack=.1
+<region> sample=3_B.flac key=59 offset=3474 trigger=legato ampeg_attack=.1
+<region> sample=4_C.flac key=60 offset=3078 trigger=legato ampeg_attack=.1
+<region> sample=4_Db.flac key=61 offset=5058 trigger=legato ampeg_attack=.1
+<region> sample=4_D.flac key=62 offset=2339 trigger=legato ampeg_attack=.1
+<region> sample=4_Eb.flac key=63 offset=3047 trigger=legato ampeg_attack=.1
+<region> sample=4_E.flac key=64 offset=2750 trigger=legato ampeg_attack=.1
+<region> sample=4_F.flac key=65 offset=2979 trigger=legato ampeg_attack=.1
+<region> sample=4_Gb.flac key=66 offset=3744 trigger=legato ampeg_attack=.1
+<region> sample=4_G.flac key=67 offset=1580 trigger=legato ampeg_attack=.1
+<region> sample=4_Ab.flac key=68 offset=2575 trigger=legato ampeg_attack=.1
+<region> sample=4_A.flac key=69 offset=1313 trigger=legato ampeg_attack=.1
+<region> sample=4_Bb.flac key=70 offset=2388 trigger=legato ampeg_attack=.1
+<region> sample=4_B.flac key=71 offset=2826 trigger=legato ampeg_attack=.1
+<region> sample=5_C.flac key=72 offset=1324 trigger=legato ampeg_attack=.1
+<region> sample=5_Db.flac key=73 offset=2006 trigger=legato ampeg_attack=.1
+<region> sample=5_D.flac key=74 offset=1465 trigger=legato ampeg_attack=.1
+<region> sample=5_Eb.flac key=75 offset=1018 trigger=legato ampeg_attack=.1
+<region> sample=5_E.flac key=76 offset=1940 trigger=legato ampeg_attack=.1
+<region> sample=5_F.flac key=77 offset=1240 trigger=legato ampeg_attack=.1
+<region> sample=5_Gb.flac key=78 offset=2108 trigger=legato ampeg_attack=.1
+<region> sample=5_G.flac key=79 offset=1528 trigger=legato ampeg_attack=.1
+<region> sample=5_Ab.flac key=80 offset=2175 trigger=legato ampeg_attack=.1
+<region> sample=5_A.flac key=81 offset=1314 trigger=legato ampeg_attack=.1
+<region> sample=5_Bb.flac key=82 offset=2007 trigger=legato ampeg_attack=.1
+<region> sample=5_B.flac key=83 offset=2797 trigger=legato ampeg_attack=.1
+<region> sample=6_C.flac key=84 offset=1512 trigger=legato ampeg_attack=.1
+<region> sample=6_Db.flac key=85 offset=2408 trigger=legato ampeg_attack=.1
+<region> sample=6_D.flac key=86 offset=2869 trigger=legato ampeg_attack=.1
+<region> sample=6_Eb.flac key=87 offset=2853 trigger=legato ampeg_attack=.1
+<region> sample=6_E.flac key=88 offset=3119 trigger=legato ampeg_attack=.1
+<region> sample=6_F.flac key=89 offset=704 trigger=legato ampeg_attack=.1
+<region> sample=6_Gb.flac key=90 offset=1032 trigger=legato ampeg_attack=.1
+<region> sample=6_G.flac key=91 offset=737 trigger=legato ampeg_attack=.1
+<region> sample=6_Ab.flac key=92 offset=1194 trigger=legato ampeg_attack=.1
+<region> sample=6_A.flac key=93 offset=1435 trigger=legato ampeg_attack=.1
+<region> sample=6_Bb.flac key=94 offset=1057 trigger=legato ampeg_attack=.1
+<region> sample=6_B.flac lokey=95 pitch_keycenter=95 offset=1544 trigger=legato ampeg_attack=.1

@@ -1,0 +1,28 @@
+<group>
+volume=-5.39
+ampeg_release=0.931
+effect1=7
+pitcheg_release=0.538
+fileg_release=0.538
+pitchlfo_freq=4.252
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Mizmars\A#3 Mizmars.flac
+lokey=21
+hikey=83
+pitch_keycenter=70
+cutoff=10255.9
+
+<region> sample=Samples\Mizmars\A#3 Mizmars.flac
+lokey=84
+hikey=90
+pitch_keycenter=70
+cutoff=10255.9
+
+<region> sample=Samples\Mizmars\A#6 Mizmars.flac
+lokey=91
+hikey=103
+pitch_keycenter=106
+
+

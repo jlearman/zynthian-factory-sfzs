@@ -1,0 +1,10 @@
+<control> default_path=Growl\
+<region> sample=3_Eb_g.flac pitch_keycenter=d#3 hikey=e3
+<region> sample=3_Gb_g.flac pitch_keycenter=f#3 lokey=f3 hikey=g3
+<region> sample=3_A_g.flac pitch_keycenter=a3 lokey=g#3 hikey=a#3
+<region> sample=4_C_g.flac pitch_keycenter=c4 lokey=b3 hikey=c#4
+<region> sample=4_Eb_g.flac pitch_keycenter=d#4 lokey=d4 hikey=e4
+<region> sample=4_Gb_g.flac pitch_keycenter=f#4 lokey=f4 hikey=g4
+<region> sample=4_A_g.flac pitch_keycenter=a4 lokey=g#4 hikey=b4
+<region> sample=5_D_g.flac pitch_keycenter=d5 lokey=c5 hikey=e5
+<region> sample=5_G_g.flac pitch_keycenter=g5 lokey=f5

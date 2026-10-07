@@ -1,0 +1,277 @@
+<group>
+volume=3.85
+cutoff=11505.2
+pitchlfo_freq=4.252
+
+<region> sample=Samples\Tabla\Tabla Tone #1.flac
+lokey=53
+hikey=54
+pitch_keycenter=53
+ampeg_decay=3.178
+ampeg_sustain=0.001
+ampeg_release=3.178
+pitcheg_decay=1.22
+pitcheg_sustain=0
+pitcheg_release=1.22
+fileg_decay=1.22
+fileg_sustain=0
+fileg_release=1.22
+fileg_depth=6869
+
+<region> sample=Samples\Tabla\Tabla Tone #2.flac
+lokey=55
+hikey=56
+pitch_keycenter=55
+ampeg_decay=2.997
+ampeg_sustain=0.001
+ampeg_release=2.997
+pitcheg_decay=1.085
+pitcheg_sustain=0
+pitcheg_release=1.085
+fileg_decay=1.085
+fileg_sustain=0
+fileg_release=1.085
+fileg_depth=7469
+
+<region> sample=Samples\Tabla\Tabla Tone #3.flac
+lokey=57
+hikey=58
+pitch_keycenter=57
+ampeg_release=0.828
+pitcheg_decay=0.478
+pitcheg_sustain=0
+pitcheg_release=0.478
+fileg_decay=0.478
+fileg_sustain=0
+fileg_release=0.478
+fileg_depth=4801
+
+<region> sample=Samples\Tabla\Tabla Tone #4.flac
+key=59
+ampeg_release=0.828
+pitcheg_decay=0.641
+pitcheg_sustain=0
+pitcheg_release=0.641
+fileg_decay=0.641
+fileg_sustain=0
+fileg_release=0.641
+fileg_depth=3067
+
+<region> sample=Samples\Tabla\Tabla Tone #5.flac
+lokey=60
+hikey=61
+pitch_keycenter=60
+ampeg_release=0.828
+pitcheg_decay=0.721
+pitcheg_sustain=0
+pitcheg_release=0.721
+fileg_decay=0.721
+fileg_sustain=0
+fileg_release=0.721
+fileg_depth=3334
+
+<region> sample=Samples\Tabla\Tabla Tone #6.flac
+lokey=62
+hikey=63
+pitch_keycenter=62
+ampeg_release=0.828
+pitcheg_decay=0.764
+pitcheg_sustain=0
+pitcheg_release=0.764
+fileg_decay=0.764
+fileg_sustain=0
+fileg_release=0.764
+fileg_depth=3401
+
+<region> sample=Samples\Tabla\Tabla Slap #1.flac
+key=64
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Tabla Slap #2.flac
+lokey=65
+hikey=66
+pitch_keycenter=65
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Tabla Slap #3.flac
+lokey=67
+hikey=68
+pitch_keycenter=67
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Tabla Slap #4.flac
+lokey=69
+hikey=70
+pitch_keycenter=69
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Tabla Slap #5.flac
+key=71
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Tabla Tone #7.flac
+lokey=72
+hikey=73
+pitch_keycenter=72
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Tabla Tone #8.flac
+lokey=74
+hikey=75
+pitch_keycenter=74
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Open Tabla Hit.flac
+key=76
+ampeg_release=0.828
+pitcheg_decay=0.641
+pitcheg_sustain=0
+pitcheg_release=0.641
+fileg_decay=0.641
+fileg_sustain=0
+fileg_release=0.641
+fileg_depth=4068
+
+<region> sample=Samples\Tabla\Banya #1.flac
+lokey=77
+hikey=78
+pitch_keycenter=77
+ampeg_release=0.828
+pitcheg_decay=0.68
+pitcheg_sustain=0
+pitcheg_release=0.68
+fileg_decay=0.68
+fileg_sustain=0
+fileg_release=0.68
+fileg_depth=5868
+
+<region> sample=Samples\Tabla\Banya #2.flac
+lokey=79
+hikey=80
+pitch_keycenter=79
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Banya #3.flac
+lokey=81
+hikey=82
+pitch_keycenter=81
+ampeg_release=0.828
+pitcheg_decay=0.605
+pitcheg_sustain=0
+pitcheg_release=0.605
+fileg_decay=0.605
+fileg_sustain=0
+fileg_release=0.605
+fileg_depth=3067
+
+<region> sample=Samples\Tabla\Banya #4.flac
+key=83
+ampeg_release=0.828
+pitcheg_decay=0.764
+pitcheg_sustain=0
+pitcheg_release=0.764
+fileg_decay=0.764
+fileg_sustain=0
+fileg_release=0.764
+fileg_depth=2867
+
+<region> sample=Samples\Tabla\Banya #5.flac
+lokey=84
+hikey=85
+pitch_keycenter=84
+ampeg_release=0.828
+pitcheg_decay=0.721
+pitcheg_sustain=0
+pitcheg_release=0.721
+fileg_decay=0.721
+fileg_sustain=0
+fileg_release=0.721
+fileg_depth=4068
+
+<region> sample=Samples\Tabla\Banya Slap #1.flac
+lokey=86
+hikey=87
+pitch_keycenter=86
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Banya Slap #2.flac
+key=88
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Banya Slap #3.flac
+lokey=89
+hikey=90
+pitch_keycenter=89
+ampeg_release=0.828
+pitcheg_decay=0.68
+pitcheg_sustain=0
+pitcheg_release=0.538
+fileg_decay=0.68
+fileg_sustain=0
+fileg_release=0.538
+fileg_depth=4668
+
+<region> sample=Samples\Tabla\Sharp Hit.flac
+lokey=91
+hikey=92
+pitch_keycenter=91
+ampeg_release=0.828
+pitcheg_release=0.538
+fileg_release=0.538
+
+<region> sample=Samples\Tabla\Tabla#Banya #1.flac
+lokey=93
+hikey=94
+pitch_keycenter=93
+ampeg_release=0.828
+pitcheg_decay=0.721
+pitcheg_sustain=0
+pitcheg_release=0.721
+fileg_decay=0.721
+fileg_sustain=0
+fileg_release=0.721
+fileg_depth=2467
+
+<region> sample=Samples\Tabla\Tabla#Banya #2.flac
+key=95
+ampeg_release=0.828
+pitcheg_decay=0.721
+pitcheg_sustain=0
+pitcheg_release=0.721
+fileg_decay=0.721
+fileg_sustain=0
+fileg_release=0.721
+fileg_depth=3868
+
+<region> sample=Samples\Tabla\Tabla#Banya #3.flac
+key=96
+ampeg_release=0.828
+pitcheg_decay=0.605
+pitcheg_sustain=0
+pitcheg_release=0.605
+fileg_decay=0.605
+fileg_sustain=0
+fileg_release=0.605
+fileg_depth=2601
+
+

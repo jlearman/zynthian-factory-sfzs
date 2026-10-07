@@ -1,0 +1,97 @@
+<group>
+ampeg_decay=15.189
+ampeg_sustain=0.001
+ampeg_release=0.871
+pitcheg_sustain=0
+fileg_sustain=0
+fileg_depth=12000
+
+<region> sample=Samples\Luan\LUAN D3  MP.flac
+lokey=21
+hikey=51
+pitch_keycenter=50
+tune=-30
+cutoff=4107.8
+pitcheg_decay=2.097
+pitcheg_release=2.097
+fileg_decay=2.097
+fileg_release=2.097
+
+<region> sample=Samples\Luan\LUAN E3  MP.flac
+lokey=52
+hikey=53
+pitch_keycenter=52
+tune=-43
+cutoff=4735.1
+pitcheg_decay=3.634
+pitcheg_release=3.634
+fileg_decay=3.634
+fileg_release=3.634
+
+<region> sample=Samples\Luan\LUAN G3  MP.flac
+lokey=54
+hikey=59
+pitch_keycenter=55
+tune=-37
+cutoff=5859.9
+pitcheg_decay=3.634
+pitcheg_release=3.634
+fileg_decay=3.634
+fileg_release=3.634
+
+<region> sample=Samples\Luan\LUAN D4  MP.flac
+lokey=60
+hikey=63
+pitch_keycenter=62
+tune=-32
+cutoff=4735.1
+pitcheg_decay=3.634
+pitcheg_release=3.634
+fileg_decay=3.634
+fileg_release=3.634
+
+<region> sample=Samples\Luan\LUAN F#4 MP.flac
+lokey=64
+hikey=68
+pitch_keycenter=66
+tune=-41
+cutoff=4107.8
+pitcheg_decay=3.634
+pitcheg_release=3.634
+fileg_decay=3.634
+fileg_release=3.634
+
+<region> sample=Samples\Luan\LUAN A4  MP.flac
+lokey=69
+hikey=71
+pitch_keycenter=69
+tune=-55
+cutoff=3828.3
+pitcheg_decay=3.634
+pitcheg_release=3.634
+fileg_decay=3.634
+fileg_release=3.634
+
+<region> sample=Samples\Luan\LUAN C5  MP.flac
+lokey=72
+hikey=75
+pitch_keycenter=72
+tune=-43
+cutoff=4735.1
+pitcheg_decay=3.634
+pitcheg_release=3.634
+fileg_decay=3.634
+fileg_release=3.634
+
+<region> sample=Samples\Luan\LUAN G5  MP.flac
+lokey=76
+hikey=108
+pitch_keycenter=79
+tune=-43
+cutoff=4735.1
+pitcheg_decay=3.634
+pitcheg_release=3.634
+fileg_decay=3.634
+fileg_release=3.634
+
+

@@ -1,0 +1,72 @@
+<group>
+ampeg_decay=25.575
+ampeg_sustain=0.001
+
+<region> sample=Samples\Tar\Tar G1-L.flac
+lokey=36
+hikey=36
+pitch_keycenter=43
+ampeg_release=5.048
+
+<region> sample=Samples\Tar\Tar G1-L.flac
+lokey=37
+hikey=44
+pitch_keycenter=43
+ampeg_release=5.048
+
+<region> sample=Samples\Tar\Tar A#1-L.flac
+lokey=45
+hikey=48
+pitch_keycenter=46
+ampeg_release=4.098
+cutoff=9137
+
+<region> sample=Samples\Tar\Tar D2-L.flac
+lokey=49
+hikey=52
+pitch_keycenter=50
+ampeg_release=4.098
+
+<region> sample=Samples\Tar\Tar G2-L.flac
+lokey=53
+hikey=56
+pitch_keycenter=55
+ampeg_release=4.098
+
+<region> sample=Samples\Tar\Tar A#2-L.flac
+lokey=57
+hikey=60
+pitch_keycenter=58
+ampeg_release=4.098
+
+<region> sample=Samples\Tar\Tar D3-L.flac
+lokey=61
+hikey=63
+pitch_keycenter=62
+ampeg_release=4.098
+
+<region> sample=Samples\Tar\Tar F3-L.flac
+lokey=64
+hikey=66
+pitch_keycenter=65
+ampeg_release=4.098
+
+<region> sample=Samples\Tar\Tar A3-L.flac
+lokey=67
+hikey=72
+pitch_keycenter=68
+ampeg_release=3.782
+
+<region> sample=Samples\Tar\Tar D4-L.flac
+lokey=73
+hikey=73
+pitch_keycenter=74
+ampeg_release=3.466
+
+<region> sample=Samples\Tar\Tar D4-L.flac
+lokey=74
+hikey=96
+pitch_keycenter=74
+ampeg_release=3.466
+
+

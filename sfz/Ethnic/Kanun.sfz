@@ -1,0 +1,72 @@
+<group>
+ampeg_sustain=0.001
+ampeg_release=16.205
+cutoff=13086.9
+
+<region> sample=Samples\Kanun\Kanun G1-L.flac
+lokey=36
+hikey=45
+pitch_keycenter=43
+ampeg_decay=17.138
+
+<region> sample=Samples\Kanun\Kanun C2-L.flac
+lokey=46
+hikey=51
+pitch_keycenter=48
+ampeg_decay=17.138
+
+<region> sample=Samples\Kanun\Kanun G2-L.flac
+lokey=52
+hikey=54
+pitch_keycenter=55
+ampeg_decay=17.138
+
+<region> sample=Samples\Kanun\Kanun G2-L.flac
+lokey=55
+hikey=57
+pitch_keycenter=55
+ampeg_decay=17.138
+
+<region> sample=Samples\Kanun\Kanun C3-L.flac
+lokey=58
+hikey=63
+pitch_keycenter=60
+ampeg_decay=17.138
+
+<region> sample=Samples\Kanun\Kanun F3-L.flac
+lokey=64
+hikey=64
+pitch_keycenter=65
+ampeg_decay=17.138
+
+<region> sample=Samples\Kanun\Kanun F3-L.flac
+lokey=65
+hikey=69
+pitch_keycenter=65
+ampeg_decay=17.138
+
+<region> sample=Samples\Kanun\Kanun C4-L.flac
+lokey=70
+hikey=71
+pitch_keycenter=72
+ampeg_decay=17.138
+
+<region> sample=Samples\Kanun\Kanun C4-L.flac
+lokey=72
+hikey=75
+pitch_keycenter=72
+ampeg_decay=17.138
+
+<region> sample=Samples\Kanun\Kanun F4-L.flac
+lokey=76
+hikey=82
+pitch_keycenter=77
+ampeg_decay=17.138
+
+<region> sample=Samples\Kanun\Kanun D5-L.flac
+lokey=83
+hikey=96
+pitch_keycenter=86
+ampeg_decay=10.636
+
+

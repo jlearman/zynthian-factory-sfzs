@@ -1,0 +1,14 @@
+<group> group=1 ampeg_release=.1 lovel=60 hicc68=63 ampeg_attackcc67=.55
+#include "S1"
+
+<group> group=1 ampeg_release=.1 lovel=60 locc68=64
+#include "S1l"
+
+<group> group=1 ampeg_release=.1 hivel=59 hicc68=63 ampeg_attackcc67=.55
+#include "S2"
+
+<group> group=1 ampeg_release=.1 hivel=59 locc68=64
+#include "S2l"
+
+<group> group=5 off_by=1 trigger=release loop_mode=one_shot ampeg_attack=.05
+#include "R1"

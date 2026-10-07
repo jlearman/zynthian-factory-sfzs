@@ -1,0 +1,18 @@
+<html><head><title>The "No Budget" Orchestra</title></head><body>
+
+<p>For instruments that normally play one note at a time, you should use the legato mode mappings. These filenames have "legmode" in them (ie, bass_legmode.sfz, cello_legmode.sfz, flute_legmode.sfz, trumpet_legmode.sfz, etc). With legato mode, when you play a note, and then overlap the next note (ie, start the second note <u>before</u> you release the first note) it "smoothes" the transition between the two notes. For a bowed instrument, this simulates the musician playing both notes with a single bow stroke (instead of a separate bow stroke for each note). For wind/brass instruments, this simulates the musician playing both notes with a single breath/tonguing (ie, a slur). Legato mode is useful if you want to make the sampled instrument sound more realistic, by simulating real bowing/breath/tonguing. In music theory terms, it allows you to simulate realistic-sounding "phrasing" for string/wind/brass instruments.
+
+<p>To use legato mode on a midi track, go into the "Piano roll" editor, and overlap any series notes you want to be played with a single bow stroke (i.e., as a single phrase).
+
+<p>For live performances, physically play the second note before you release the first note. For musicians with limited technique, it may be difficult to control legato mode this way. So I offer 2 additional mappings for 2 alternate methods of controlling legato mode. Filenames that have "legsus" in them (ie, bass_legsus.sfz, cello_legsus.sfz, flute_legsus.sfz, trumpet_legsus.sfz, etc) control legato mode using MIDI sustain pedal (controller # 64). While the sustain pedal is on, notes are played legato. When the sustain pedal is off, notes are played normally. (To use this properly, you should have the pedal off for the first note of a phrase, and then immediately hold the pedal on while playing the subsequent notes of that phrase). Filenames that have "legped" in them instead use MIDI legato pedal (controller # 68) to control legato mode. Even this may be too difficult for musicians with very limited technique. So I offer the following simple sfz:
+
+<pre>
+&lt;region&gt; sample=Practice more, you lazy sod .flac
+</pre>
+
+<p>There's just one caveat with legato mappings. Due to the way it works, it's limited to single note lines. If you try to play 2 (or more) notes simultaneously, only one of the notes will sound. The others will be immediately cut off. So if you need to play chords, you can't use the legato mappings. Use a regular mapping (ie, bass.sfz, cello.sfz, flute.sfz, trumpet.sfz, etc).
+
+<p>Filenames with "_vib" mean that the instrument has vibrato. So "flute_vib_legsus.sfz"' is a legato mode (using sustain pedal) flute with vibrato.  "flute_legsus.sfz"' is without vibrato.
+
+<p>Sfz files with a short, nondescriptive name, usually a capital letter followed by a number such as S1.sfz, V2l.sfz, R1.sfz, etc, are not to be used directly. They're support files.
+</body></html>

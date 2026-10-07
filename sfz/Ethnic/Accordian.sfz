@@ -1,0 +1,52 @@
+<group>
+ampeg_release=0.828
+effect1=7
+pitcheg_release=0.538
+fileg_release=0.538
+pitchlfo_freq=4.978
+fillfo_freq=5.999
+amplfo_freq=5.999
+
+<region> sample=Samples\Accordian\Accord F#2.flac
+lokey=21
+hikey=44
+pitch_keycenter=54
+volume=-4.235
+
+<region> sample=Samples\Accordian\Accord F#2.flac
+lokey=45
+hikey=56
+pitch_keycenter=54
+volume=-5.005
+
+<region> sample=Samples\Accordian\Accord A#2.flac
+lokey=57
+hikey=59
+pitch_keycenter=58
+volume=-5.39
+
+<region> sample=Samples\Accordian\Accord A#2.flac
+lokey=60
+hikey=62
+pitch_keycenter=58
+volume=-5.39
+
+<region> sample=Samples\Accordian\Accord F#3.flac
+lokey=63
+hikey=74
+pitch_keycenter=66
+volume=-6.16
+
+<region> sample=Samples\Accordian\Accord F#3.flac
+lokey=75
+hikey=96
+pitch_keycenter=66
+volume=-6.93
+
+<region> sample=Samples\Accordian\Accord F#5.flac
+lokey=97
+hikey=108
+pitch_keycenter=90
+volume=-8.085
+
+

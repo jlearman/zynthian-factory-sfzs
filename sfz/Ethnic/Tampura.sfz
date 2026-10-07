@@ -1,0 +1,15 @@
+<group>
+tune=1
+ampeg_attack=1.577
+ampeg_decay=50.944
+ampeg_release=3.257
+cutoff=19997.1
+pitcheg_decay=0.002
+fileg_decay=0.002
+
+<region> sample=Samples\Tampura\TAMPURA 3-L.flac
+lokey=21
+hikey=127
+pitch_keycenter=69
+
+

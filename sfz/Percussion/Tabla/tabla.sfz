@@ -1,0 +1,93 @@
+<control> default_path=Samples\
+<group> group=1 loop_mode=one_shot key=c4 seq_length=12
+<region> sample=Tin_1.flac
+<region> sample=Tin_2.flac seq_position=2
+<region> sample=Tin_3.flac seq_position=3
+<region> sample=Tin_4.flac seq_position=4
+<region> sample=Tin_5.flac seq_position=5
+<region> sample=Tin_6.flac seq_position=6
+<region> sample=Tin_7.flac seq_position=7
+<region> sample=Tin_8.flac seq_position=8
+<region> sample=Tin_9.flac seq_position=9
+<region> sample=Tin_10.flac seq_position=10
+<region> sample=Tin_11.flac seq_position=11
+<region> sample=Tin_12.flac seq_position=12
+
+<group> group=1 loop_mode=one_shot key=d4 seq_length=25
+<region> sample=Taka_1.flac
+<region> sample=Taka_2.flac seq_position=2
+<region> sample=Taka_3.flac seq_position=3
+<region> sample=Taka_4.flac seq_position=4
+<region> sample=Taka_5.flac seq_position=5
+<region> sample=Taka_6.flac seq_position=6
+<region> sample=Taka_7.flac seq_position=7
+<region> sample=Taka_8.flac seq_position=8
+<region> sample=Taka_9.flac seq_position=9
+<region> sample=Taka_10.flac seq_position=10
+<region> sample=Taka_11.flac seq_position=11
+<region> sample=Taka_12.flac seq_position=12
+<region> sample=Taka_13.flac seq_position=13
+<region> sample=Taka_14.flac seq_position=14
+<region> sample=Taka_15.flac seq_position=15
+<region> sample=Taka_16.flac seq_position=16
+<region> sample=Taka_17.flac seq_position=17
+<region> sample=Taka_18.flac seq_position=18
+<region> sample=Taka_19.flac seq_position=19
+<region> sample=Taka_20.flac seq_position=20
+<region> sample=Taka_21.flac seq_position=21
+<region> sample=Taka_22.flac seq_position=22
+<region> sample=Taka_23.flac seq_position=23
+<region> sample=Taka_24.flac seq_position=24
+<region> sample=Taka_25.flac seq_position=25
+
+<group> group=1 loop_mode=one_shot key=e4 seq_length=5
+<region> sample=Ta_1.flac
+<region> sample=Ta_2.flac seq_position=2
+<region> sample=Ta_3.flac seq_position=3
+<region> sample=Ta_4.flac seq_position=4
+<region> sample=Ta_5.flac seq_position=5
+
+<group> group=2 loop_mode=one_shot key=g4 seq_length=9
+<region> sample=Na_1.flac
+<region> sample=Na_2.flac seq_position=2
+<region> sample=Na_3.flac seq_position=3
+<region> sample=Na_4.flac seq_position=4
+<region> sample=Na_5.flac seq_position=5
+<region> sample=Na_6.flac seq_position=6
+<region> sample=Na_7.flac seq_position=7
+<region> sample=Na_8.flac seq_position=8
+<region> sample=Na_9.flac seq_position=9
+
+<group> group=3 loop_mode=one_shot key=b4 seq_length=20
+<region> sample=Ghe_Open_1.flac
+<region> sample=Ghe_Open_2.flac seq_position=2
+<region> sample=Ghe_Open_3.flac seq_position=3
+<region> sample=Ghe_Open_4.flac seq_position=4
+<region> sample=Ghe_Open_5.flac seq_position=5
+<region> sample=Ghe_Open_6.flac seq_position=6
+<region> sample=Ghe_Open_7.flac seq_position=7
+<region> sample=Ghe_Open_8.flac seq_position=8
+<region> sample=Ghe_Open_9.flac seq_position=9
+<region> sample=Ghe_Open_10.flac seq_position=10
+<region> sample=Ghe_Open_11.flac seq_position=11
+<region> sample=Ghe_Open_12.flac seq_position=12
+<region> sample=Ghe_Open_13.flac seq_position=13
+<region> sample=Ghe_Open_14.flac seq_position=14
+<region> sample=Ghe_Open_15.flac seq_position=15
+<region> sample=Ghe_Open_16.flac seq_position=16
+<region> sample=Ghe_Open_17.flac seq_position=17
+<region> sample=Ghe_Open_18.flac seq_position=18
+<region> sample=Ghe_Open_19.flac seq_position=19
+<region> sample=Ghe_Open_20.flac seq_position=20
+
+<group> group=3 loop_mode=one_shot key=c5 seq_length=10
+<region> sample=Ghe_Bend_1.flac
+<region> sample=Ghe_Bend_2.flac seq_position=2
+<region> sample=Ghe_Bend_3.flac seq_position=3
+<region> sample=Ghe_Bend_4.flac seq_position=4
+<region> sample=Ghe_Bend_5.flac seq_position=5
+<region> sample=Ghe_Bend_6.flac seq_position=6
+<region> sample=Ghe_Bend_7.flac seq_position=7
+<region> sample=Ghe_Bend_8.flac seq_position=8
+<region> sample=Ghe_Bend_9.flac seq_position=9
+<region> sample=Ghe_Bend_10.flac seq_position=10

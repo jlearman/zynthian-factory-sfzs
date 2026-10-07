@@ -1,0 +1,14 @@
+<group> group=1 ampeg_release=0.2 lovel=60 hicc68=63
+#include "S1.sfz"
+
+<group> group=2 ampeg_release=0.1 lovel=60 locc68=64
+#include "S2.sfz"
+
+<group> group=1 ampeg_release=0.2 hivel=59 hicc68=63
+#include "S3.sfz"
+
+<group> group=2 ampeg_release=0.1 hivel=59 locc68=64
+#include "S4.sfz"
+
+<group> group=5 off_by=1 hicc68=63 trigger=release loop_mode=one_shot sw_lokey=0 sw_hikey=127 ampeg_attack=0.2
+#include "R1.sfz"

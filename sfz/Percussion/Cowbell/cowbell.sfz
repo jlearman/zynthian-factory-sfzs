@@ -1,0 +1,17 @@
+<group> key=56 loop_mode=one_shot seq_length=4 lovel=100
+<region> sample=cowbell_f1.flac
+<region> sample=cowbell_f2.flac seq_position=2
+<region> sample=cowbell_f3.flac seq_position=3
+<region> sample=cowbell_f4.flac seq_position=4
+<group> key=56 loop_mode=one_shot seq_length=4 lovel=70 hivel=99
+<region> sample=cowbell_mf1.flac
+<region> sample=cowbell_mf2.flac seq_position=2
+<region> sample=cowbell_mf3.flac seq_position=3
+<region> sample=cowbell_mf4.flac seq_position=4
+<group> key=56 loop_mode=one_shot seq_length=3 lovel=30 hivel=69
+<region> sample=cowbell_mp1.flac
+<region> sample=cowbell_mp2.flac seq_position=2
+<region> sample=cowbell_mp3.flac seq_position=3
+<group> key=56 loop_mode=one_shot seq_length=2 hivel=29
+<region> sample=cowbell_p1.flac
+<region> sample=cowbell_p2.flac seq_position=2

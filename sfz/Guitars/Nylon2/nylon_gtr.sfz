@@ -1,0 +1,123 @@
+<group>
+ampeg_decay=36
+ampeg_sustain=0.001
+ampeg_release=0.25
+lovel=101 hivel=127
+<region>
+sample=2_E_a.flac
+lokey=0 hikey=41
+pitch_keycenter=40
+<region>
+sample=2_G_a.flac
+lokey=42 hikey=43
+pitch_keycenter=43
+<region>
+sample=2_A_a.flac
+lokey=44 hikey=46
+pitch_keycenter=45
+<region>
+sample=3_C_a.flac
+lokey=47 hikey=48
+pitch_keycenter=48
+<region>
+sample=3_D_a.flac
+lokey=49 hikey=52
+pitch_keycenter=50
+<region>
+sample=3_G_a.flac
+lokey=53 hikey=55
+pitch_keycenter=55
+<region>
+sample=3_A_a.flac
+lokey=56 hikey=57
+pitch_keycenter=57
+<region>
+sample=3_B_a.flac
+lokey=58 hikey=60
+pitch_keycenter=59
+<region>
+sample=4_D_a.flac
+lokey=61 hikey=62
+pitch_keycenter=62
+<region>
+sample=4_E_a.flac
+lokey=63 hikey=65
+pitch_keycenter=64
+<region>
+sample=4_G_a.flac
+lokey=66 hikey=67
+pitch_keycenter=67
+<region>
+sample=4_A_a.flac
+lokey=68 hikey=69
+pitch_keycenter=69
+<region>
+sample=4_B_a.flac
+lokey=70 hikey=73
+pitch_keycenter=71
+<region>
+sample=5_D_a.flac
+lokey=73 hikey=127
+pitch_keycenter=74
+
+<group>
+ampeg_decay=36
+ampeg_sustain=0.001
+ampeg_release=0.25
+lovel=0 hivel=100
+<region>
+sample=2_E_b.flac
+lokey=0 hikey=41
+pitch_keycenter=40
+<region>
+sample=2_G_b.flac
+lokey=42 hikey=43
+pitch_keycenter=43
+<region>
+sample=2_A_b.flac
+lokey=44 hikey=46
+pitch_keycenter=45
+<region>
+sample=3_C_b.flac
+lokey=47 hikey=48
+pitch_keycenter=48
+<region>
+sample=3_D_b.flac
+lokey=49 hikey=52
+pitch_keycenter=50
+<region>
+sample=3_G_b.flac
+lokey=53 hikey=55
+pitch_keycenter=55
+<region>
+sample=3_A_b.flac
+lokey=56 hikey=57
+pitch_keycenter=57
+<region>
+sample=3_B_b.flac
+lokey=58 hikey=60
+pitch_keycenter=59
+<region>
+sample=4_D_b.flac
+lokey=61 hikey=62
+pitch_keycenter=62
+<region>
+sample=4_E_b.flac
+lokey=63 hikey=65
+pitch_keycenter=64
+<region>
+sample=4_G_b.flac
+lokey=66 hikey=67
+pitch_keycenter=67
+<region>
+sample=4_A_b.flac
+lokey=68 hikey=69
+pitch_keycenter=69
+<region>
+sample=4_B_b.flac
+lokey=70 hikey=73
+pitch_keycenter=71
+<region>
+sample=5_D_b.flac
+lokey=73 hikey=127
+pitch_keycenter=74

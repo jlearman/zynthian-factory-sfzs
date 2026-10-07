@@ -1,0 +1,5 @@
+<group> ampeg_release=1.1 hicc64=63 ampeg_attackcc67=.55
+#include "S1"
+
+<group> ampeg_release=1.1 locc64=64
+#include "S2"

@@ -1,0 +1,18 @@
+<control> default_path=A\
+<group> lovel=90 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=.3 trigger=first off_by=1 group=1 off_mode=normal
+#include "S1.sfz"
+
+<group> lovel=90 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.3 trigger=legato ampeg_attack=0 group=1 off_by=1 off_mode=fast
+#include "S1l.sfz"
+
+<group> lovel=50 hivel=89 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=.3 trigger=first off_by=1 group=1 off_mode=normal
+#include "S2.sfz"
+
+<group> lovel=50 hivel=89 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.3 trigger=legato ampeg_attack=0 group=1 off_by=1 off_mode=fast
+#include "S2l.sfz"
+
+<group> hivel=49 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=.3 trigger=first off_by=1 group=1 off_mode=normal
+#include "S3.sfz"
+
+<group> hivel=49 ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=0.3 trigger=legato ampeg_attack=0 group=1 off_by=1 off_mode=fast
+#include "S3l.sfz"

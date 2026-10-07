@@ -1,0 +1,129 @@
+<group>
+key=42
+//volume=-15
+group=1
+pan=20
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=HH_Brsh_Cl.flac
+
+<group>
+key=44
+volume=-8
+group=1
+pan=20
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=HH_Foot.flac
+
+<group>
+key=46
+//volume=-10
+group=3
+off_mode=normal off_by=1 off_by=2
+pan=20
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=HH_Brsh_O.flac
+
+<group>
+group=4
+key=38
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=SnrBrshSwirl.flac
+<group>
+group=5
+key=39
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=SnrBrshHit.flac
+<group>
+key=40
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+group=6
+off_mode=normal off_by=4 off_by=5
+<region>
+sample=SnrBrshSwish.flac
+
+<group>
+key=35
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=KickBrsh.flac
+
+<group>
+key=50
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=8 ampeg_decay=30
+pan=80
+<region>
+sample=TomBrshHi.flac
+<group>
+lokey=48 hikey=48 pitch_keycenter=49
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=10 ampeg_decay=30
+pan=40
+<region>
+sample=TomBrshHi.flac
+<group>
+key=47
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=12 ampeg_decay=30
+pan=20
+<region>
+sample=TomBrshLo.flac
+<group>
+lokey=45 hikey=45 pitch_keycenter=46
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=14 ampeg_decay=30
+pan=-20
+<region>
+sample=TomBrshLo.flac
+<group>
+key=43
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=16 ampeg_decay=30
+pan=-40
+<region>
+sample=TomBrshFl.flac
+<group>
+lokey=41 hikey=41 pitch_keycenter=42
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=18 ampeg_decay=30
+pan=-80
+<region>
+sample=TomBrshFl.flac
+
+<group>
+key=49
+volume=-15
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=CrashBrsh1.flac
+hivel=43
+<region>
+sample=CrashBrsh2.flac
+lovel=44 hivel=87
+<region>
+sample=CrashBrsh3.flac
+lovel=88
+
+<group>
+key=51
+volume=-15
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=RideBrsh1.flac
+hivel=43
+<region>
+sample=RideBrsh2.flac
+lovel=44 hivel=87
+<region>
+sample=RideBrsh3.flac
+lovel=88
+
+<group>
+key=53
+volume=-12
+ampeg_sustain=0.1 ampeg_hold=100 ampeg_release=30 ampeg_decay=30
+<region>
+sample=RideBellBrsh1.flac
+hivel=63
+<region>
+sample=RideBellBrsh2.flac
+lovel=64

@@ -1,0 +1,38 @@
+<group>
+ampeg_release=.8
+<region>
+lokey=24 hikey=33 pitch_keycenter=31
+sample=G1.flac
+<region>
+lokey=34 hikey=38 pitch_keycenter=36
+sample=C2.flac
+<region>
+lokey=39 hikey=43 pitch_keycenter=41
+sample=F2.flac
+<region>
+lokey=44 hikey=48 pitch_keycenter=46
+sample=Bb2.flac
+<region>
+lokey=49 hikey=53 pitch_keycenter=51
+sample=Eb3.flac
+<region>
+lokey=54 hikey=58 pitch_keycenter=56
+sample=Ab3.flac
+<region>
+lokey=59 hikey=63 pitch_keycenter=61
+sample=Db4.flac
+<region>
+lokey=64 hikey=68 pitch_keycenter=66
+sample=Gb4.flac
+<region>
+lokey=69 hikey=73 pitch_keycenter=71
+sample=B4.flac
+<region>
+lokey=74 hikey=78 pitch_keycenter=76
+sample=E5.flac
+<region>
+lokey=79 hikey=83 pitch_keycenter=81
+sample=A5.flac
+<region>
+lokey=84 hikey=96 pitch_keycenter=86
+sample=D6.flac

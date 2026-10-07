@@ -1,0 +1,9 @@
+<group> ampeg_decay=36 ampeg_sustain=0.001 ampeg_release=.4
+<region> sample=2_E.flac pitch_keycenter=e2 hikey=f#2
+<region> sample=2_A.flac pitch_keycenter=a2 lokey=g2 hikey=c3
+<region> sample=3_E.flac pitch_keycenter=e3 lokey=c#3 hikey=f#3
+<region> sample=3_A.flac pitch_keycenter=a3 lokey=g3 hikey=b3
+<region> sample=4_D.flac pitch_keycenter=d4 lokey=c4 hikey=e4
+<region> sample=4_G.flac pitch_keycenter=g4 lokey=f4 hikey=a#4
+<region> sample=5_D.flac pitch_keycenter=d5 lokey=b4 hikey=e5
+<region> sample=5_Gb.flac pitch_keycenter=f#5 lokey=f5
