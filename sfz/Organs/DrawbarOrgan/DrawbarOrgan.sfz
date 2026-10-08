@@ -1,0 +1,35 @@
+
+<control>
+label_cc11=Swell Pedal
+label_cc16=DB 1 - 16'
+label_cc17=DB 2 - 5 1/2'
+label_cc18=DB 3 - 8'
+label_cc19=DB 4 - 4'
+label_cc20=DB 5 - 2 2/3'
+label_cc21=DB 6 - 2'
+label_cc22=DB 7 - 1 2/3'
+label_cc23=DB 8 - 1 1/3'
+label_cc24=DB 9 - 1'
+set_cc11=70
+set_cc16=100
+set_cc17=100
+set_cc18=100
+set_cc19=50
+set_cc20=0
+set_cc21=0
+set_cc22=0
+set_cc23=0
+set_cc24=0
+
+<global> amp_veltrack=0 global_volume=-48 gain_cc11=24 sustain_lo=128
+
+<region>sample=*sine transpose=-12 amplitude_oncc16=100 loop_mode=loop_continuous volume=12 locc16=10
+<region>sample=*sine transpose=7   amplitude_oncc17=100 loop_mode=loop_continuous           locc17=10
+<region>sample=*sine transpose=0   amplitude_oncc18=100 loop_mode=loop_continuous volume=12 locc18=10
+<region>sample=*sine transpose=12  amplitude_oncc19=100 loop_mode=loop_continuous           locc19=10
+<region>sample=*sine transpose=19  amplitude_oncc20=100 loop_mode=loop_continuous           locc20=10
+<region>sample=*sine transpose=24  amplitude_oncc21=100 loop_mode=loop_continuous           locc21=10
+<region>sample=*sine transpose=28  amplitude_oncc22=100 loop_mode=loop_continuous           locc22=10
+<region>sample=*sine transpose=31  amplitude_oncc23=100 loop_mode=loop_continuous           locc23=10
+<region>sample=*sine transpose=36  amplitude_oncc24=100 loop_mode=loop_continuous volume=-6 locc24=10
+
