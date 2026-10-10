@@ -1,0 +1,13 @@
+// Cheezy Hammond Drawbar Sim
+// Fixed single 8880-00-0000 registration.
+// This is a template for creating your own presets with wavefiles
+// created using mkham.py .
+
+<control>
+label_cc11=Swell Pedal
+set_cc11=70
+
+<global> amp_veltrack=0 global_volume=-32 gain_cc11=24 loop_mode=loop_continuous lokey=35
+sustain_sw=off // disable sustain pedal, as it might be used to control rotor speed
+
+<region>sample=8880-00-000.wav

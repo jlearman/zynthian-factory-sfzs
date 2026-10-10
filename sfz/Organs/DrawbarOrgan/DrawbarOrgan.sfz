@@ -1,35 +1,87 @@
+// Cheezy Hammond Drawbar Sim
+// Control drawbars by CC
+//
+// NOTE: Every drawbar that's not at zero uses a voice.  That's a lot!
+// To reduce voice usage, a drawbar voice is not played if that drawbar
+// is at zero.  What this means is, while you can change drawbars as
+// you play, moving a drawbar from up from zero has no effect until
+// new notes are played.
+
+// The general idea for this sfz is that you'll adjust drawbars and
+// save the preset, and in general won't be fiddling drawbars as you
+// play with this organ.  If you want to do stuff like that, use SetBFree.
+
+// Use Mod wheel to select waveform: sin, square, triangle, sawtooth
+
+// For best results use with X42 Whirl rotary speaker sim.
 
 <control>
+label_cc1=Waveform
 label_cc11=Swell Pedal
-label_cc16=DB 1 - 16'
-label_cc17=DB 2 - 5 1/2'
-label_cc18=DB 3 - 8'
-label_cc19=DB 4 - 4'
-label_cc20=DB 5 - 2 2/3'
-label_cc21=DB 6 - 2'
-label_cc22=DB 7 - 1 2/3'
-label_cc23=DB 8 - 1 1/3'
-label_cc24=DB 9 - 1'
+label_cc16=DB 1
+label_cc17=DB 2
+label_cc18=DB 3
+label_cc19=DB 4
+label_cc20=DB 5
+label_cc21=DB 6
+label_cc22=DB 7
+label_cc23=DB 8
+label_cc24=DB 9
+set_cc1=0
 set_cc11=70
 set_cc16=100
 set_cc17=100
 set_cc18=100
-set_cc19=50
-set_cc20=0
-set_cc21=0
-set_cc22=0
-set_cc23=0
-set_cc24=0
+set_cc19=1
+set_cc20=1
+set_cc21=1
+set_cc22=1
+set_cc23=1
+set_cc24=1
 
-<global> amp_veltrack=0 global_volume=-48 gain_cc11=24 sustain_lo=128
+<global> amp_veltrack=0 global_volume=-48 gain_cc11=24 loop_mode=loop_continuous
+sustain_sw=off // disable sustain pedal, as it might be used to control rotor speed
 
-<region>sample=*sine transpose=-12 amplitude_oncc16=100 loop_mode=loop_continuous volume=12 locc16=10
-<region>sample=*sine transpose=7   amplitude_oncc17=100 loop_mode=loop_continuous           locc17=10
-<region>sample=*sine transpose=0   amplitude_oncc18=100 loop_mode=loop_continuous volume=12 locc18=10
-<region>sample=*sine transpose=12  amplitude_oncc19=100 loop_mode=loop_continuous           locc19=10
-<region>sample=*sine transpose=19  amplitude_oncc20=100 loop_mode=loop_continuous           locc20=10
-<region>sample=*sine transpose=24  amplitude_oncc21=100 loop_mode=loop_continuous           locc21=10
-<region>sample=*sine transpose=28  amplitude_oncc22=100 loop_mode=loop_continuous           locc22=10
-<region>sample=*sine transpose=31  amplitude_oncc23=100 loop_mode=loop_continuous           locc23=10
-<region>sample=*sine transpose=36  amplitude_oncc24=100 loop_mode=loop_continuous volume=-6 locc24=10
+<group>locc1=000 hicc1=031 sample=*sine // Hammond
+<region>transpose=-12 amplitude_oncc16=100 volume=12 locc16=1
+<region>transpose=7   amplitude_oncc17=100           locc17=1
+<region>transpose=0   amplitude_oncc18=100 volume=12 locc18=1
+<region>transpose=12  amplitude_oncc19=100           locc19=1
+<region>transpose=19  amplitude_oncc20=100           locc20=1
+<region>transpose=24  amplitude_oncc21=100           locc21=1
+<region>transpose=28  amplitude_oncc22=100           locc22=1
+<region>transpose=31  amplitude_oncc23=100           locc23=1
+<region>transpose=36  amplitude_oncc24=100 volume=-6 locc24=1
 
+<group>locc1=032 hicc1=063 sample=*square
+<region>transpose=-12 amplitude_oncc16=100 volume=12 locc16=1
+<region>transpose=7   amplitude_oncc17=100           locc17=1
+<region>transpose=0   amplitude_oncc18=100 volume=12 locc18=1
+<region>transpose=12  amplitude_oncc19=100           locc19=1
+<region>transpose=19  amplitude_oncc20=100           locc20=1
+<region>transpose=24  amplitude_oncc21=100           locc21=1
+<region>transpose=28  amplitude_oncc22=100           locc22=1
+<region>transpose=31  amplitude_oncc23=100           locc23=1
+<region>transpose=36  amplitude_oncc24=100 volume=-6 locc24=1
+
+<group>locc1=064 hicc1=095 sample=*triangle
+<region>transpose=-12 amplitude_oncc16=100 volume=12 locc16=1
+<region>transpose=7   amplitude_oncc17=100           locc17=1
+<region>transpose=0   amplitude_oncc18=100 volume=12 locc18=1
+<region>transpose=12  amplitude_oncc19=100           locc19=1
+<region>transpose=19  amplitude_oncc20=100           locc20=1
+<region>transpose=24  amplitude_oncc21=100           locc21=1
+<region>transpose=28  amplitude_oncc22=100           locc22=1
+<region>transpose=31  amplitude_oncc23=100           locc23=1
+<region>transpose=36  amplitude_oncc24=100 volume=-6 locc24=1
+
+<group>locc1=096 hicc1=127 sample=*saw
+<region>transpose=-12 amplitude_oncc16=100 volume=12 locc16=1
+<region>transpose=7   amplitude_oncc17=100           locc17=1
+<region>transpose=0   amplitude_oncc18=100 volume=12 locc18=1
+<region>transpose=12  amplitude_oncc19=100           locc19=1
+<region>transpose=19  amplitude_oncc20=100           locc20=1
+<region>transpose=24  amplitude_oncc21=100           locc21=1
+<region>transpose=28  amplitude_oncc22=100           locc22=1
+<region>transpose=31  amplitude_oncc23=100           locc23=1
+<region>transpose=36  amplitude_oncc24=100 volume=-6 locc24=1
